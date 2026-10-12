@@ -145,23 +145,58 @@ def _length(poly):
 
 
 # ---------------------------------------------------------------- OpenStreetMap
-def _overpass(lat, lng, radius):
+PREP_BUDGET_S = 420     # সর্বোচ্চ 7 মিনিট; এর বেশি লাগলে বাকি মোড়গুলো সোজা রেখায় মাপা হয়
+
+
+def _log(msg):
+    """Progress straight to the GitHub log (stderr is shown live even when stdout goes to a file)."""
+    import sys
+    print(msg, file=sys.stderr, flush=True)
+
+
+def _overpass_area(pad_deg=0.02):
+    """All major roads of the whole study area in ONE request (instead of one request per junction)."""
     import requests
-    classes = "|".join(ROAD_CLASSES)
-    q = (f'[out:json][timeout:90];way(around:{radius},{lat},{lng})["highway"~"^({classes})$"];out geom;')
+    b = config.BOUNDS
+    s, w, n, e = b["south"] - pad_deg, b["west"] - pad_deg, b["north"] + pad_deg, b["east"] + pad_deg
+    classes = "|".join(c for c in ROAD_CLASSES if c != "unclassified")   # main roads only: keeps the download small
+    q = f'[out:json][timeout:180];way["highway"~"^({classes})$"]({s},{w},{n},{e});out geom;'
     last = None
     for url in OVERPASS:
-        for attempt in range(3):
+        for attempt in range(2):
             try:
-                r = requests.post(url, data={"data": q}, timeout=120,
+                _log(f"OpenStreetMap: downloading roads of the study area from {url.split('/')[2]} …")
+                r = requests.post(url, data={"data": q}, timeout=200,
                                   headers={"User-Agent": "dhaka-traffic-research/1.0"})
                 if r.status_code == 200:
-                    return r.json()
+                    data = r.json()
+                    _log(f"OpenStreetMap: {len(data.get('elements', []))} road pieces received")
+                    return data
                 last = f"HTTP {r.status_code}"
-            except Exception as e:
-                last = str(e)
-            time.sleep(5 * (attempt + 1))
+            except Exception as ex:
+                last = f"{type(ex).__name__}: {str(ex)[:120]}"
+            _log(f"OpenStreetMap attempt failed ({last})")
+            time.sleep(10)
     raise RuntimeError(f"Overpass failed: {last}")
+
+
+def _ways_near(osm, lat, lng, radius_m):
+    """Only the road pieces whose bounding box comes within radius_m of the point."""
+    dlat = radius_m / 111000.0
+    dlng = radius_m / (111320.0 * math.cos(math.radians(lat)))
+    keep = []
+    for w in osm.get("elements", []):
+        bb = w.get("_bb")
+        if bb is None:
+            g = w.get("geometry") or []
+            if not g:
+                continue
+            lats = [p["lat"] for p in g]
+            lngs = [p["lon"] for p in g]
+            bb = w["_bb"] = (min(lats), max(lats), min(lngs), max(lngs))
+        if bb[0] <= lat + dlat and bb[1] >= lat - dlat and bb[2] <= lng + dlng and bb[3] >= lng - dlng:
+            keep.append(w)
+    return {"elements": keep}
 
 
 def _build_graph(osm, lat0, lng0):
@@ -275,31 +310,34 @@ def _radial(lat, lng):
 
 
 def prepare(force=False):
-    """Fetches exact junction geometry from OpenStreetMap once and saves it in data/."""
+    """Finds exact junction positions and road directions from OpenStreetMap once and saves them in data/.
+    One download for the whole area, a hard time limit, and straight rays as a fallback, so init never hangs."""
     if OSM_FILE.exists() and not force:
         return load()
     DATA.mkdir(exist_ok=True)
-    out, failures = [], 0
+    t0 = time.time()
+    try:
+        osm = _overpass_area()
+    except Exception as e:
+        _log(f"OpenStreetMap unavailable ({e}); all junctions use straight rays from the approximate point")
+        osm = None
+    out = []
     for i, (corr, en, bn, lat, lng) in enumerate(JUNCTIONS, 1):
-        if failures >= 3:  # OpenStreetMap service is down: do not wait for every junction
-            geo = _radial(lat, lng)
-        else:
+        geo = None
+        if osm is not None and time.time() - t0 < PREP_BUDGET_S:
             try:
-                geo = _legs_from_osm(_overpass(lat, lng, config.LEG_LENGTH_M + 400), lat, lng) or _radial(lat, lng)
-                failures = 0
+                geo = _legs_from_osm(_ways_near(osm, lat, lng, config.LEG_LENGTH_M + 400), lat, lng)
             except Exception as e:
-                failures += 1
-                print(f"{en}: OpenStreetMap unavailable ({e}); using straight rays")
-                geo = _radial(lat, lng)
-        out.append({"id": i, "corridor": corr, "name_en": en, "name_bn": bn,
-                    "approx": [lat, lng], **geo})
-        print(f"[{i:02d}] {en}: {geo['source']}, {len(geo['legs'])} legs, "
-              f"moved {math.hypot(*_xy(geo['centre'][0], geo['centre'][1], lat, lng)):.0f} m")
-        if failures < 3:
-            time.sleep(1.5)  # be polite to the free Overpass service
+                _log(f"{en}: could not read roads ({e})")
+        geo = geo or _radial(lat, lng)
+        out.append({"id": i, "corridor": corr, "name_en": en, "name_bn": bn, "approx": [lat, lng], **geo})
+        _log(f"[{i:02d}/{len(JUNCTIONS)}] {en}: {geo['source']}, {len(geo['legs'])} legs, "
+             f"moved {math.hypot(*_xy(geo['centre'][0], geo['centre'][1], lat, lng)):.0f} m")
     _add_neighbours(out)
     OSM_FILE.write_text(json.dumps(out, ensure_ascii=False))
     write_exact_csv(out)
+    n_osm = sum(1 for j in out if j["source"] == "osm")
+    _log(f"Junctions ready in {time.time() - t0:.0f} s: {n_osm} from OpenStreetMap, {len(out) - n_osm} straight rays")
     return out
 
 
