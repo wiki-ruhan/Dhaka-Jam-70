@@ -1,0 +1,71 @@
+﻿id,corridor,name_en,name_bn,lat,lng,approx_lat,approx_lng,moved_m,source,legs
+1,North / Airport Road,Abdullahpur,আব্দুল্লাহপুর,23.880624,90.400817,23.8797,90.4006,105,osm,"S - Dhaka-Mymensingh, Highway (to House Building (Uttara)) | N - Dhaka-Mymensingh, Highway (to Tongi Bridge) | W - Dhaka-Ashulia Highway"
+2,North / Airport Road,Tongi Bridge,টঙ্গী ব্রিজ,23.888377,90.400978,23.8865,90.4012,209,osm,N - Dhaka-Mymensingh Highway | SW - Dhaka-Mymensingh Highway (to Abdullahpur) | S - unnamed road
+3,North / Airport Road,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),23.874607,90.400535,23.8737,90.4004,101,osm,S - Dhaka-Mymensigh Highway (to Azampur) | N - Dhaka-Mymensigh Highway (to Abdullahpur) | W - Sonargaon Janapath
+4,North / Airport Road,Azampur,আজমপুর,23.8668,90.4008,23.8668,90.4008,0,radial,N - N ray (to House Building (Uttara)) | NE - NE ray | E - E ray | SE - SE ray | S - S ray (to Jasimuddin (Uttara)) | SW - SW ray | W - W ray | NW - NW ray
+5,North / Airport Road,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),23.860488,90.400318,23.861,90.4,65,osm,SE - Dhaka Mymensigh Highway (to Airport) | N - Dhaka - Mymensigh Highway (to Azampur) | W - Jasimuddin Avenue
+6,North / Airport Road,Airport,বিমানবন্দর,23.8508,90.408338,23.851,90.408,41,osm,SE - Airport Circle (to Kawla) | NW - Dhaka Mymensigh Highway (to Jasimuddin (Uttara))
+7,North / Airport Road,Kawla,কাওলা,23.845541,90.412654,23.845,90.411,179,osm,NW - New Airport Road (to Airport) | SE - New Airport Road
+8,North / Airport Road,Khilkhet,খিলক্ষেত,23.828732,90.42007,23.8296,90.4198,100,osm,S - New Airport Road | N - New Airport Road | NE - unnamed road
+9,North / Airport Road,Kuril Bishwa Road,কুড়িল বিশ্বরোড,23.820593,90.420509,23.8205,90.421,51,osm,S - Pragati Sarani | W - unnamed road | NE - unnamed road
+10,North / Airport Road,Bashundhara Gate,বসুন্ধরা গেট (যমুনা ফিউচার পার্ক),23.812461,90.424462,23.813,90.424,76,osm,W - Al Haj Abdus Sobhan Road | E - Al Haj Abdus Sobhan Road
+11,Banani-Mohakhali-Tejgaon,Kakoli (Banani),কাকলী (বনানী),23.799176,90.401782,23.799,90.4008,102,osm,S - New Airport Road | N - New Airport Road | E - Road 27
+12,Banani-Mohakhali-Tejgaon,Amtoli,আমতলী,23.778076,90.397894,23.78,90.399,241,osm,W - Bir Uttam Ziaur Rahman Road (to Jahangir Gate) | NE - Shaheed Tazuddin Avenue | SE - Shahid Tajuddin Ahmad Avenue (to Nabisco (Tejgaon)) | S - unnamed road
+13,Banani-Mohakhali-Tejgaon,Mohakhali,মহাখালী,23.7781,90.405,23.7781,90.405,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray (to Amtoli) | NW - NW ray
+14,Banani-Mohakhali-Tejgaon,Jahangir Gate,জাহাঙ্গীর গেট,23.775748,90.393011,23.777,90.393,138,osm,NE - Bir Uttam Ziaur Rahman Road (to Amtoli) | W - Bir Uttam Ziaur Rahman Road
+15,Banani-Mohakhali-Tejgaon,Nabisco (Tejgaon),নাবিস্কো (তেজগাঁও),23.771256,90.401262,23.7705,90.3995,198,osm,S - Shahid Tajuddin Ahmad Avenue | N - Shahid Tajuddin Ahmad Avenue (to Amtoli) | E - Bir Uttam Mir Shawkat Sarak
+16,Banani-Mohakhali-Tejgaon,Bijoy Sarani,বিজয় সরণি,23.764482,90.389032,23.765,90.389,57,osm,S - Airport Road (to Farmgate) | N - Airport Road | W - Bijoy Sharani | E - Tejgaon Link Road
+17,Banani-Mohakhali-Tejgaon,Satrasta,সাতরাস্তা,23.756861,90.399102,23.7575,90.4,116,osm,N - Shahid Tazuddin Ahamed Avenue | S - Shahid Tajuddin Ahmad Avenue (to Moghbazar) | W - To Satrasta (to Farmgate) | SE - To Satrasta | E - unnamed road
+18,Banani-Mohakhali-Tejgaon,Farmgate,ফার্মগেট,23.75907,90.389827,23.7577,90.3897,152,osm,N - Airport Road (to Bijoy Sarani) | SE - unnamed road (to Karwan Bazar) | W - Khamar Bari Road
+19,Banani-Mohakhali-Tejgaon,Karwan Bazar,কারওয়ান বাজার,23.749945,90.393207,23.751,90.393,118,osm,S - Kazi Nazrul Islam Avenue (to Bangla Motor) | N - Kazi Nazrul Islam Avenue (to Farmgate) | W - Saarc Shonargaon Circle | E - Saarc Shonargaon Circle | SW - Saarc Shonargaon Circle
+20,Banani-Mohakhali-Tejgaon,Bangla Motor,বাংলামোটর,23.745859,90.394763,23.7465,90.395,75,osm,S - Kazi Nazrul Islam Avenue (to Shahbag) | NW - Kazi Nazrul Islam Avenue (to Karwan Bazar) | E - New Eskaton Road (to Moghbazar) | W - unnamed road
+21,Gulshan-Badda-Rampura,Gulshan-1,গুলশান-১,23.780422,90.416821,23.7808,90.4167,44,osm,W - Bir Uttam A. K. Khandakar Road | E - Bir Uttam A. K. Khandakar Road | N - Gulshan Ave | S - Bir Uttam Mir Shawkat Sarak
+22,Gulshan-Badda-Rampura,Gulshan-2,গুলশান-২,23.794829,90.414249,23.7945,90.4142,37,osm,SW - Kamal Ataturk Avenue | SE - Gulshan Ave | NE - Felani Avenue (to Notun Bazar) | NW - Gulshan Ave
+23,Gulshan-Badda-Rampura,Notun Bazar,নতুন বাজার,23.797717,90.423535,23.798,90.4235,32,osm,S - Bir Uttam Rafiqul Islam Ave (to Shahjadpur) | N - Pragati Sarani | E - Madani Avenue | W - Felani Avenue (to Gulshan-2)
+24,Gulshan-Badda-Rampura,Shahjadpur,শাহজাদপুর,23.7915,90.4245,23.7915,90.4245,0,radial,N - N ray (to Notun Bazar) | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray | NW - NW ray
+25,Gulshan-Badda-Rampura,Uttar Badda,উত্তর বাড্ডা,23.786,90.426,23.786,90.426,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray (to Merul Badda) | SW - SW ray | W - W ray | NW - NW ray
+26,Gulshan-Badda-Rampura,Merul Badda,মেরুল বাড্ডা,23.774077,90.425868,23.773,90.425,148,osm,N - DIT Road (to Uttar Badda) | S - DIT Road (to Rampura Bridge)
+27,Gulshan-Badda-Rampura,Rampura Bridge,রামপুরা ব্রিজ,23.767537,90.422899,23.766,90.423,170,osm,SW - Banasree-Hatirjheel U Loop | NE - Banasree-Hatirjheel U Loop (to Merul Badda) | E - Rampura-Banasree Road
+28,Gulshan-Badda-Rampura,Malibagh,মালিবাগ,23.749917,90.412923,23.7495,90.4125,63,osm,N - DIT Road | S - DIT Road (to Mouchak) | E - Atish Depankar Road
+29,Gulshan-Badda-Rampura,Mouchak,মৌচাক,23.745653,90.412294,23.747,90.411,199,osm,N - DIT Road (to Malibagh) | SE - Outer Circular Road | NW - Outer Circular Road (to Moghbazar)
+30,Gulshan-Badda-Rampura,Moghbazar,মগবাজার,23.748693,90.403651,23.749,90.404,49,osm,NE - Outer Circular Road (to Mouchak) | SE - Sahid Capten Munsur Ali Avenue | NW - Shahid Tajuddin Ahmad Avenue (to Satrasta) | SW - New Eskaton Road (to Bangla Motor)
+31,Gulshan-Badda-Rampura,Khilgaon,খিলগাঁও,23.753436,90.430353,23.751,90.43,272,osm,NW - unnamed road | SE - unnamed road
+32,Mirpur-Gabtoli-Aminbazar,Aminbazar Bridge,আমিনবাজার ব্রিজ,23.790057,90.321944,23.788,90.323,252,osm,E - Dhaka - Aricha Highway | W - Dhaka - Aricha Highway
+33,Mirpur-Gabtoli-Aminbazar,Gabtoli,গাবতলী,23.784,90.344,23.784,90.344,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray | NW - NW ray
+34,Mirpur-Gabtoli-Aminbazar,Technical,টেকনিক্যাল,23.781514,90.351883,23.7835,90.353,247,osm,SE - Mirpur Road | NW - Mirpur Road (to Gabtoli) | NE - Darus Salam Road
+35,Mirpur-Gabtoli-Aminbazar,Mirpur-1,মিরপুর-১,23.798611,90.353196,23.798,90.353,70,osm,NE - Mirpur 10 Road (to Mirpur-2) | SW - Mazar Road
+36,Mirpur-Gabtoli-Aminbazar,Mirpur-2,মিরপুর-২,23.805073,90.363489,23.806,90.363,114,osm,SW - Mirpur 10 Road | NE - Main Road (to Mirpur-10) | NW - Milk Vita Road
+37,Mirpur-Gabtoli-Aminbazar,Mirpur-10,মিরপুর-১০,23.807086,90.368602,23.8069,90.3687,23,osm,S - Begum Rokeya Sharani (to Kazipara) | E - Mirpur-10 Circle | W - Main Road (to Mirpur-2) | N - Begum Rokeya Sharani (to Mirpur-11)
+38,Mirpur-Gabtoli-Aminbazar,Mirpur-11,মিরপুর-১১,23.815785,90.366151,23.8165,90.3665,87,osm,N - Begum Rokeya Sharani | S - Begum Rokeya Sharani (to Mirpur-10) | W - Milk Vita Road
+39,Mirpur-Gabtoli-Aminbazar,Mirpur-12,মিরপুর-১২,23.827,90.364,23.827,90.364,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray | NW - NW ray
+40,Mirpur-Gabtoli-Aminbazar,Kazipara,কাজীপাড়া,23.797211,90.372799,23.7975,90.3726,38,osm,S - Begum Rokeya Sharani (to Shewrapara) | NW - Begum Rokeya Sharani (to Mirpur-10) | W - Mashjid Road
+41,Mirpur-Gabtoli-Aminbazar,Shewrapara,শেওড়াপাড়া,23.793324,90.374578,23.7915,90.3755,222,osm,S - Begum Rokeya Sharani | N - Begum Rokeya Sharani (to Kazipara)
+42,Mirpur-Gabtoli-Aminbazar,Agargaon,আগারগাঁও,23.776914,90.380614,23.778,90.379,204,osm,S - Begum Rokeya Sharani | N - Begum Rokeya Sharani | SW - Syed Mahbub Morshed Avenue | E - Agargaon Link Road
+43,Dhanmondi-Mohammadpur,Shyamoli,শ্যামলী,23.773345,90.367198,23.774,90.3655,188,osm,NW - Mirpur Road | SE - Mirpur Road | NE - Syed Mahbub Morshed Avenue
+44,Dhanmondi-Mohammadpur,Shia Masjid (Mohammadpur),শিয়া মসজিদ (মোহাম্মদপুর),23.766585,90.364733,23.7675,90.3625,249,osm,S - Shahjahan Road
+45,Dhanmondi-Mohammadpur,Mohammadpur Town Hall,মোহাম্মদপুর টাউন হল,23.7605,90.361,23.7605,90.361,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray | NW - NW ray
+46,Dhanmondi-Mohammadpur,Asad Gate,আসাদগেট,23.758172,90.374245,23.76,90.374,204,osm,SE - Mirpur Road (to Russell Square (Panthapath)) | NW - Mirpur Road | E - Manik Mia Avenue
+47,Dhanmondi-Mohammadpur,Dhanmondi 27,ধানমন্ডি ২৭,23.7581,90.37428,23.756,90.375,243,osm,SE - Mirpur Road (to Russell Square (Panthapath)) | NW - Mirpur Road | E - Manik Mia Avenue
+48,Dhanmondi-Mohammadpur,Russell Square (Panthapath),রাসেল স্কয়ার (পান্থপথ),23.751255,90.378271,23.7515,90.3795,128,osm,NW - Mirpur Road (to Dhanmondi 27) | SE - Mirpur Road | NE - Panthapath
+49,Dhanmondi-Mohammadpur,Science Lab,সায়েন্স ল্যাব,23.738653,90.38354,23.7389,90.383,61,osm,N - Mirpur Road | S - Mirpur Road (to Nilkhet) | E - New Elephant Road (to Shahbag)
+50,Dhanmondi-Mohammadpur,Jigatola,জিগাতলা,23.738297,90.37615,23.7395,90.374,256,osm,NW - Satmasjid Road | E - Dhanmondi 2 (to Science Lab) | SE - unnamed road
+51,Dhanmondi-Mohammadpur,Nilkhet,নীলক্ষেত,23.732423,90.385084,23.733,90.387,205,osm,N - Mirpur Road (to Science Lab) | S - Mirpur Road (to Azimpur) | W - unnamed road | E - Nilkhet Road
+52,Dhanmondi-Mohammadpur,Azimpur,আজিমপুর,23.726893,90.38638,23.727,90.386,40,osm,N - Mirpur Road (to Nilkhet) | W - Azimpur Road | S - Mirpur Road | E - Azimpur Road
+53,Central,Shahbag,শাহবাগ,23.73822,90.395901,23.7383,90.3958,14,osm,E - unnamed road | W - Shahbag Road | N - Kazi Nazrul Islam Avenue (to Bangla Motor) | S - unnamed road (to TSC (Dhaka University))
+54,Central,TSC (Dhaka University),টিএসসি (ঢাকা বিশ্ববিদ্যালয়),23.7335,90.3963,23.7335,90.3963,0,radial,N - N ray (to Shahbag) | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray (to Nilkhet) | NW - NW ray
+55,Central,Kakrail,কাকরাইল,23.737082,90.41038,23.7375,90.408,247,osm,E - Naya Paltan Road | S - Sayed Nazrul Islam Sharani (to Paltan) | W - Anjuman Mufidul Islam Road
+56,Central,Shantinagar,শান্তিনগর,23.741555,90.411923,23.74,90.414,273,osm,NE - Kakrail Road (to Mouchak) | SW - Kakrail Road | SE - Shantinagar Road | W - New Baily Road
+57,Central,Paltan,পল্টন,23.734696,90.41016,23.733,90.412,265,osm,S - Sayed Nazrul Islam Sharani | N - Sayed Nazrul Islam Sharani (to Kakrail)
+58,Central,Fakirapool,ফকিরাপুল,23.7335,90.4165,23.7335,90.4165,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray (to Shapla Chattar (Motijheel)) | SW - SW ray | W - W ray | NW - NW ray
+59,Central,Gulistan (Zero Point),গুলিস্তান (জিরো পয়েন্ট),23.722981,90.410769,23.724,90.4125,209,osm,S - Bongshal Road | N - North South Road | E - Najimuddin Road | W - S. Kamruzzaman Sharani (to Chankharpul)
+60,Central,Shapla Chattar (Motijheel),শাপলা চত্বর (মতিঝিল),23.727984,90.416848,23.729,90.419,246,osm,E - Dilkusha Road
+61,Central,Kamalapur,কমলাপুর,23.73126,90.428513,23.732,90.426,269,osm,S - Atish Dipankar Road | N - Autish Dipankar Road
+62,Central,Ittefaq Mor,ইত্তেফাক মোড়,23.722,90.422,23.722,90.422,0,radial,N - N ray | NE - NE ray | E - E ray | SE - SE ray | S - S ray | SW - SW ray | W - W ray (to Gulistan (Zero Point)) | NW - NW ray (to Shapla Chattar (Motijheel))
+63,South / Old Dhaka,Bakshibazar,বকশিবাজার মোড়,23.722543,90.392955,23.724,90.3925,168,osm,N - Orphanage Road | W - Orphanage Road
+64,South / Old Dhaka,Chankharpul,চানখারপুল,23.72394,90.400302,23.723,90.399,169,osm,E - unnamed road (to Gulistan (Zero Point)) | W - Zahir Raihan Road | N - unnamed road | S - Nazimuddin Road
+65,South / Old Dhaka,Nayabazar,নয়াবাজার,23.71403,90.406044,23.7145,90.4045,166,osm,W - Buriganga 2nd Bridge | NE - Nawab Yusuf Road
+66,South / Old Dhaka,Babubazar Bridge,বাবুবাজার ব্রিজ,23.705302,90.399216,23.706,90.401,197,osm,NE - Babu Bazar Bridge(Buriganga 2nd Bridge) (to Nayabazar) | SW - Babu Bazar Bridge(Buriganga 2nd Bridge)
+67,South / Old Dhaka,Sadarghat (Bahadur Shah Park),সদরঘাট (বাহাদুর শাহ পার্ক),23.709824,90.412024,23.7085,90.412,146,osm,N - Johnson Road | S - Chitta Ranjan Avenue | SE - Municipal Street
+68,South / Old Dhaka,Sayedabad,সায়েদাবাদ,23.717244,90.429232,23.7175,90.428,129,osm,SW - unnamed road | N - Atish Dipankar Road (to Kamalapur) | S - অতিশ দীপঙ্কর সড়ক | E - Dholpur Notun Rasta
+69,South / Old Dhaka,Jatrabari,যাত্রাবাড়ী,23.710169,90.434315,23.7104,90.4347,47,osm,W - Jatrabari Road | E - Jatrabari Mor | SE - Jatrabari Mor
+70,South / Old Dhaka,Postogola,পোস্তগোলা,23.691358,90.430021,23.693,90.428,275,osm,NW - Haricharan Ray Road | SE - Haricharan Ray Road

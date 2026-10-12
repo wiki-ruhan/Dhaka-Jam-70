@@ -1,0 +1,15 @@
+{
+ "start": "2026-10-12T21:15:00+06:00",
+ "end": "2026-11-11T21:15:00+06:00",
+ "finished": false,
+ "version": 7,
+ "zoom": 17,
+ "shards": 4,
+ "bounds": {
+  "north": 23.909,
+  "south": 23.6688,
+  "west": 90.2946,
+  "east": 90.4696
+ },
+ "slots_per_day": 84
+}
