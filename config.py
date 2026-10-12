@@ -1,6 +1,6 @@
 """সেটিংস / Settings for the Dhaka traffic collector.
-v6: zoom 17 full-resolution images (optimized WebP) with an English footer (timestamp to the second, weather, AQI, wind),
-snapshots every 15 min by day and every hour from 01:00 to 05:00, 30 days, no storage cap.
+v8: zoom 16, one full-resolution JPEG per snapshot with an English footer (timestamp to the second, weather, AQI, wind),
+snapshots every 15 min by day and every hour from 01:00 to 05:00, 30 days, 70 junctions analysed.
 """
 import math
 from datetime import datetime, timedelta
@@ -26,24 +26,23 @@ STUDY_POLYGON = [
 ]
 
 # ---------------- মানচিত্র / Map ----------------
-ZOOM = 17                       # প্রতি পিক্সেল ≈ 1.1 মিটার: সংযোগ সড়ক ও পাড়ার রাস্তার যানজট দেখা যায়
-TILE = 3072                     # এলাকা এই মাপের টুকরোয় তোলা হয়, তারপর জোড়া লাগানো হয়
+ZOOM = 16                       # প্রতি পিক্সেল ≈ 2.2 মিটার; পুরো এলাকা একটি ছবিতে (8,156 × 12,234 পিক্সেল)
+TILE = 3072                     # এলাকা এই মাপের টুকরোয় তোলা হয়, তারপর জোড়া লাগানো হয় (জুম 16-এ 12টি টুকরো)
 LABEL_ZOOM = 14                 # বিভাগ/থানার সীমানা-মানচিত্রের রেজোলিউশন
-TILES_PER_RUNNER = 50           # একটি সার্ভার এক চক্রে এর বেশি টুকরো তুলবে না; জুম 17-এ পুরো এলাকা (48 টুকরো) একটি সার্ভারেই হয় → একটি পূর্ণ ছবি
-STUDY_VERSION = 7               # এই সংখ্যা বদলালে পুরোনো তথ্য data/old_vN-এ সরে যায় এবং ৩০ দিন নতুন করে শুরু হয়
+TILES_PER_RUNNER = 50           # একটি সার্ভার এক চক্রে এর বেশি টুকরো তুলবে না; জুম 16-এ সব একটি সার্ভারেই হয় → একটি পূর্ণ ছবি
+STUDY_VERSION = 8               # এই সংখ্যা বদলালে পুরোনো তথ্য data/old_vN-এ সরে যায় এবং ৩০ দিন নতুন করে শুরু হয়
 PAGE_WAIT_FIRST = 15000         # প্রথম পেজ লোডের পর অপেক্ষা (মিলিসেকেন্ড)
 PAGE_WAIT = 7000                # পরের প্রতিটি টুকরোর জন্য অপেক্ষা
 # google.com/maps-এর সার্চ বক্স, বাটন ও কার্ড যেন মানচিত্র না ঢাকে, তাই চারপাশে ফাঁকা জায়গা রেখে পরে কেটে ফেলা হয়
 UI_MARGIN = {"left": 110, "top": 210, "right": 60, "bottom": 150}
 
 # ---------------- ছবি / Saved images ----------------
-# ছবির ফরম্যাট: "webp" = সবচেয়ে ছোট ফাইল (JPEG-এর চেয়ে ~৩৫% ছোট, পূর্ণ রেজোলিউশন) | "jpg" | "png" (কোনো মান হারায় না, অনেক বড়)
-# WebP-তে প্রতি পাশে সর্বোচ্চ 16,383 পিক্সেল; এর বেশি হলে স্বয়ংক্রিয়ভাবে JPEG হয়।
-IMAGE_FORMAT = "webp"
-WEBP_QUALITY = 80               # 0–100
+# ছবির ফরম্যাট: "jpg" = একটি পূর্ণ ছবি (প্রতিটি ~15–22 MB) | "webp" = ছোট ফাইল | "png" (কোনো মান হারায় না, অনেক বড়)
+IMAGE_FORMAT = "jpg"
+WEBP_QUALITY = 90               # 0–100 (শুধু "webp" হলে ব্যবহার হয়)
 WEBP_METHOD = 4                 # 0–6: বেশি = সামান্য ছোট কিন্তু ধীর
 MAX_WEBP_MP = 120               # WebP একটি ফাইলে ~150 মেগাপিক্সেলের বেশি নিতে পারে না, তাই ছবি ফালিতে ভাগ হয়
-JPG_QUALITY = 85
+JPG_QUALITY = 88                # রাস্তার সরু রঙিন রেখা পরিষ্কার রাখতে 88
 PNG_COMPRESS_LEVEL = 4          # 0–9: বেশি = ছোট ফাইল কিন্তু ধীর
 DRIVE_ROOT = "Dhaka Traffic Snapshots"   # Google Drive-এ মূল ফোল্ডারের নাম
 UPLOAD_CHUNK_MB = 32            # বড় ফাইল এই মাপের টুকরোয় Drive-এ পাঠানো হয়
@@ -54,7 +53,7 @@ LEG_LENGTH_M = 1200             # প্রতিটি দিকের রা�
 SAMPLE_M = 5                    # রাস্তা বরাবর প্রতি 5 মিটারে রঙ দেখা হয়
 START_GAP_M = 60                # মোড়ের মাঝখানের অংশে রঙ না থাকলে এতটুকু বাদ দিয়ে জ্যাম গোনা শুরু
 QUEUE_GAP_M = 25                # লেবেল/আইকনের কারণে এর চেয়ে ছোট ফাঁক থাকলেও জ্যাম টানা ধরা হয়
-LANE_SEARCH_PX = 10             # রাস্তার মাঝরেখা থেকে দুই পাশে এত পিক্সেল পর্যন্ত রঙ খোঁজা হয় (আসা/যাওয়ার দিক আলাদা)
+LANE_SEARCH_PX = 5              # রাস্তার মাঝরেখা থেকে দুই পাশে এত পিক্সেল পর্যন্ত রঙ খোঁজা হয় (জুম 16-এ রাস্তা সরু, তাই 5)
 SEVERE_SCORE = 50               # মোড়ের স্কোর এর বেশি হলে "তীব্র জ্যাম"
 SEVERE_QUEUE_M = 300            # অথবা কোনো দিকে টানা লাল জ্যাম এর চেয়ে লম্বা হলে "তীব্র জ্যাম"
 DAY_RANK_FROM, DAY_RANK_TO = 6, 24   # দৈনিক র‍্যাংকিং-এ সকাল 6টা থেকে রাত 12টা পর্যন্ত গোনা হয়
