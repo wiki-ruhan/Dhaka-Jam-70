@@ -1,3 +1,4 @@
 slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,wind_dir,gust_kmh,us_aqi,aqi_category,pm2_5,pm10,aqi_source
 20261013-0015,2026-10-13T00:15:00+06:00,28.0,31.9,69,0.0,clear,6.4,299,WNW,13.7,172,Unhealthy,82.4,87.1,model
 20261013-0030,2026-10-13T00:30:00+06:00,27.9,31.8,69,0.0,clear,6.4,299,WNW,13.3,172,Unhealthy,82.4,87.1,model
+20261013-0045,2026-10-13T00:45:00+06:00,27.8,31.7,70,0.0,clear,6.3,301,WNW,13.0,172,Unhealthy,82.4,87.1,model
