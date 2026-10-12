@@ -1,0 +1,7 @@
+date,time,slot,junction_id,junction_en,junction_bn,corridor,lat,lng,score_area,green,orange,red,darkred,mean_in_score,max_queue_red_m,max_queue_slow_m,worst_leg,worst_leg_queue_red_m,severe,spill_to,temp_c,rain_1h_mm,wind_kmh,wind_dir,us_aqi,weather,hour
+2026-10-12,21:15,20261012-2115,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,23.8797,90.4006,25.9,1771,970,470,264,26.0,95.0,95.0,N - N ray (to Tongi Bridge),95.0,0,,30.1,0.0,5.4,W,180,clear,21
+2026-10-12,21:15,20261012-2115,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,23.8865,90.4012,0.0,2616,0,0,0,10.8,0.0,0.0,E - E ray,0.0,0,,30.1,0.0,5.4,W,180,clear,21
+2026-10-12,21:15,20261012-2115,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,23.8737,90.4004,6.0,3351,285,58,94,9.1,0.0,35.0,W - W ray,0.0,0,,30.1,0.0,5.4,W,180,clear,21
+2026-10-12,21:15,20261012-2115,4,Azampur,আজমপুর,North / Airport Road,23.8668,90.4008,24.2,1644,747,392,217,21.6,0.0,0.0,NE - NE ray,0.0,0,,30.1,0.0,5.4,W,180,clear,21
+2026-10-12,21:15,20261012-2115,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,23.861,90.4,8.4,3669,540,187,71,12.9,50.0,50.0,E - E ray,50.0,0,,30.1,0.0,5.4,W,180,clear,21
+2026-10-12,21:15,20261012-2115,6,Airport,বিমানবন্দর,North / Airport Road,23.851,90.408,14.9,1961,554,120,150,23.2,0.0,35.0,E - E ray,0.0,0,,30.1,0.0,5.4,W,180,clear,21

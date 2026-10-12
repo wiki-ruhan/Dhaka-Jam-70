@@ -1,0 +1,7 @@
+rank,date,junction_id,junction_en,junction_bn,corridor,mean_score_6_24,peak_score,peak_time,severe_hours,max_queue_red_m,max_queue_leg,max_queue_time,mean_queue_red_m,worst_approach,worst_approach_mean_queue_m,am_peak_time,am_peak_score,am_recovery_min,pm_peak_time,pm_peak_score,pm_recovery_min,spill_slots,spill_to_most,snapshots
+1,2026-10-12,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,25.9,25.9,21:15,0.0,95.0,N - N ray (to Tongi Bridge),21:15,95.0,N - N ray (to Tongi Bridge),95.0,,,,21:15,25.9,,0,,1
+2,2026-10-12,4,Azampur,আজমপুর,North / Airport Road,24.2,24.2,21:15,0.0,0.0,NE - NE ray,21:15,0.0,E - E ray,0.0,,,,21:15,24.2,,0,,1
+3,2026-10-12,6,Airport,বিমানবন্দর,North / Airport Road,14.9,14.9,21:15,0.0,0.0,E - E ray,21:15,0.0,E - E ray,0.0,,,,21:15,14.9,,0,,1
+4,2026-10-12,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,8.4,8.4,21:15,0.0,50.0,E - E ray,21:15,50.0,E - E ray,50.0,,,,21:15,8.4,,0,,1
+5,2026-10-12,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,6.0,6.0,21:15,0.0,0.0,W - W ray,21:15,0.0,E - E ray,0.0,,,,21:15,6.0,,0,,1
+6,2026-10-12,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,0.0,0.0,21:15,0.0,0.0,E - E ray,21:15,0.0,E - E ray,0.0,,,,21:15,0.0,,0,,1
