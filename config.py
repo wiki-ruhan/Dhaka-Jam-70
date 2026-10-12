@@ -1,33 +1,68 @@
-"""সেটিংস / Settings for the Dhaka (DMP) traffic collector."""
+"""সেটিংস / Settings for the Dhaka traffic collector.
+v6: zoom 17 full-resolution images (optimized WebP) with an English footer (timestamp to the second, weather, AQI, wind),
+snapshots every 15 min by day and every hour from 01:00 to 05:00, 30 days, no storage cap.
+"""
 import math
+from datetime import datetime, timedelta
 
-# ---------------- সময় / Timing ----------------
-INTERVAL_SECONDS = 576          # 9.6 মিনিট পরপর একটি স্ন্যাপশট (দিনে 150টি)
-COLLECTION_DAYS = 30            # 30 দিন পর স্বয়ংক্রিয়ভাবে বন্ধ হবে
-RUN_MINUTES = 340               # প্রতিটি GitHub রান ~5 ঘণ্টা 40 মিনিট চলে, তারপর নিজেই পরের রান চালু করে
+# ---------------- সময়সূচি / Schedule (Asia/Dhaka) ----------------
 TIMEZONE = "Asia/Dhaka"
+COLLECTION_DAYS = 30            # 30 দিন পর স্বয়ংক্রিয়ভাবে বন্ধ হবে
+DAY_INTERVAL_MIN = 15           # দিনে প্রতি 15 মিনিটে
+NIGHT_START_HOUR = 1            # রাত 1টা থেকে
+NIGHT_END_HOUR = 5              # ভোর 5টা পর্যন্ত
+NIGHT_INTERVAL_MIN = 60         # প্রতি ঘণ্টায় একটি (01:00, 02:00, 03:00, 04:00)
+RUN_MINUTES = 340               # প্রতিটি GitHub রান ~5 ঘণ্টা 40 মিনিট চলে, তারপর পরের রান দায়িত্ব নেয়
+LATE_GRACE_SECONDS = 120        # কোনো স্লট এর চেয়ে কম দেরিতে ধরা পড়লে তখনই তোলা হয়
 
-# ---------------- মানচিত্র / Map view: full DMP area ----------------
-ZOOM = 13
-BOUNDS = {"north": 23.935, "south": 23.598, "west": 90.300, "east": 90.550}
-
-# গবেষণা এলাকার সীমানা: ব্যবহারকারীর আঁকা লাল রেখা (আশুলিয়া–টঙ্গী–পূর্বাচল–কাঁচপুর–নারায়ণগঞ্জ–কেরানীগঞ্জ–আমিনবাজার)
-# Study-area boundary traced from the user's map (lat, lng). Only pixels inside this polygon are counted.
+# ---------------- এলাকা / Study area (rectangle) ----------------
+# ব্যবহারকারীর সর্বশেষ স্ক্রিনশটের হুবহু সীমানা ও অনুপাত (1568:2353 = 0.6664): উত্তরে টঙ্গী-আশুলিয়া, দক্ষিণে কেরানীগঞ্জ,
+# পশ্চিমে আমিনবাজার-বিরুলিয়া, পূর্বে বসুন্ধরা-বাড্ডা। ≈ 17.8 × 26.7 কিমি = 475 বর্গকিমি।
+# `python runner.py --plan` prints the size, tiles, runtime and storage for these bounds.
+BOUNDS = {"north": 23.9090, "south": 23.6688, "west": 90.2946, "east": 90.4696}
 STUDY_POLYGON = [
-    (23.9070, 90.3075), (23.9214, 90.3247), (23.9249, 90.3622), (23.9186, 90.3966), (23.8987, 90.4216),
-    (23.8702, 90.4309), (23.8518, 90.4403), (23.8503, 90.4872), (23.8589, 90.5216), (23.8418, 90.5372),
-    (23.8162, 90.5403), (23.7735, 90.5309), (23.7480, 90.5184), (23.7167, 90.5091), (23.6740, 90.5091),
-    (23.6313, 90.5044), (23.6143, 90.4903), (23.6057, 90.4591), (23.6171, 90.4247), (23.6484, 90.4091),
-    (23.6712, 90.3903), (23.6882, 90.3622), (23.7110, 90.3372), (23.7366, 90.3247), (23.7508, 90.3169),
-    (23.7878, 90.3294), (23.8304, 90.3247), (23.8589, 90.3247), (23.8759, 90.3153),
+    (BOUNDS["north"], BOUNDS["west"]), (BOUNDS["north"], BOUNDS["east"]),
+    (BOUNDS["south"], BOUNDS["east"]), (BOUNDS["south"], BOUNDS["west"]),
 ]
 
-# ---------------- ছবি সংরক্ষণ / Image storage ----------------
-DRIVE_IMAGE_FORMAT = "jpg"      # "jpg" (~0.5 MB/ছবি, 30 দিনে ~2.3 GB) অথবা "png" (~2.5 MB/ছবি, ~11 GB)
-JPG_QUALITY = 90
+# ---------------- মানচিত্র / Map ----------------
+ZOOM = 17                       # প্রতি পিক্সেল ≈ 1.1 মিটার: সংযোগ সড়ক ও পাড়ার রাস্তার যানজট দেখা যায়
+TILE = 3072                     # এলাকা এই মাপের টুকরোয় তোলা হয়, তারপর জোড়া লাগানো হয়
+LABEL_ZOOM = 14                 # বিভাগ/থানার সীমানা-মানচিত্রের রেজোলিউশন
+TILES_PER_RUNNER = 50           # একটি সার্ভার এক চক্রে এর বেশি টুকরো তুলবে না; জুম 17-এ পুরো এলাকা (48 টুকরো) একটি সার্ভারেই হয় → একটি পূর্ণ ছবি
+STUDY_VERSION = 7               # এই সংখ্যা বদলালে পুরোনো তথ্য data/old_vN-এ সরে যায় এবং ৩০ দিন নতুন করে শুরু হয়
+PAGE_WAIT_FIRST = 15000         # প্রথম পেজ লোডের পর অপেক্ষা (মিলিসেকেন্ড)
+PAGE_WAIT = 7000                # পরের প্রতিটি টুকরোর জন্য অপেক্ষা
+# google.com/maps-এর সার্চ বক্স, বাটন ও কার্ড যেন মানচিত্র না ঢাকে, তাই চারপাশে ফাঁকা জায়গা রেখে পরে কেটে ফেলা হয়
+UI_MARGIN = {"left": 110, "top": 210, "right": 60, "bottom": 150}
 
-# ---------------- আবহাওয়া ও AI ----------------
-WEATHER_LAT, WEATHER_LNG = 23.8103, 90.4125
+# ---------------- ছবি / Saved images ----------------
+# ছবির ফরম্যাট: "webp" = সবচেয়ে ছোট ফাইল (JPEG-এর চেয়ে ~৩৫% ছোট, পূর্ণ রেজোলিউশন) | "jpg" | "png" (কোনো মান হারায় না, অনেক বড়)
+# WebP-তে প্রতি পাশে সর্বোচ্চ 16,383 পিক্সেল; এর বেশি হলে স্বয়ংক্রিয়ভাবে JPEG হয়।
+IMAGE_FORMAT = "webp"
+WEBP_QUALITY = 80               # 0–100
+WEBP_METHOD = 4                 # 0–6: বেশি = সামান্য ছোট কিন্তু ধীর
+MAX_WEBP_MP = 120               # WebP একটি ফাইলে ~150 মেগাপিক্সেলের বেশি নিতে পারে না, তাই ছবি ফালিতে ভাগ হয়
+JPG_QUALITY = 85
+PNG_COMPRESS_LEVEL = 4          # 0–9: বেশি = ছোট ফাইল কিন্তু ধীর
+DRIVE_ROOT = "Dhaka Traffic Snapshots"   # Google Drive-এ মূল ফোল্ডারের নাম
+UPLOAD_CHUNK_MB = 32            # বড় ফাইল এই মাপের টুকরোয় Drive-এ পাঠানো হয়
+
+# ---------------- মোড় বিশ্লেষণ / Junctions (তালিকা: junctions.py) ----------------
+JUNCTION_RADIUS_M = 300         # মোড়ের স্কোর এই ব্যাসার্ধের বৃত্তের ভেতরের রাস্তা থেকে
+LEG_LENGTH_M = 1200             # প্রতিটি দিকের রাস্তা মোড় থেকে এত মিটার পর্যন্ত মাপা হয়
+SAMPLE_M = 5                    # রাস্তা বরাবর প্রতি 5 মিটারে রঙ দেখা হয়
+START_GAP_M = 60                # মোড়ের মাঝখানের অংশে রঙ না থাকলে এতটুকু বাদ দিয়ে জ্যাম গোনা শুরু
+QUEUE_GAP_M = 25                # লেবেল/আইকনের কারণে এর চেয়ে ছোট ফাঁক থাকলেও জ্যাম টানা ধরা হয়
+LANE_SEARCH_PX = 10             # রাস্তার মাঝরেখা থেকে দুই পাশে এত পিক্সেল পর্যন্ত রঙ খোঁজা হয় (আসা/যাওয়ার দিক আলাদা)
+SEVERE_SCORE = 50               # মোড়ের স্কোর এর বেশি হলে "তীব্র জ্যাম"
+SEVERE_QUEUE_M = 300            # অথবা কোনো দিকে টানা লাল জ্যাম এর চেয়ে লম্বা হলে "তীব্র জ্যাম"
+DAY_RANK_FROM, DAY_RANK_TO = 6, 24   # দৈনিক র‍্যাংকিং-এ সকাল 6টা থেকে রাত 12টা পর্যন্ত গোনা হয়
+CLEAR_SCORE = 33                # পিকের পর স্কোর এর নিচে নামলে "স্বাভাবিক হয়েছে" ধরা হয়
+
+# ---------------- আবহাওয়া, AQI ও AI ----------------
+# আবহাওয়া ও বাতাসের মান নেওয়া হয় এলাকার কেন্দ্র থেকে (Open-Meteo, বিনামূল্যে, কোনো key লাগে না)
+WEATHER_LAT, WEATHER_LNG = None, None   # None = এলাকার কেন্দ্র
 AI_MODEL = "claude-haiku-5-5"   # শুধু ANTHROPIC_API_KEY থাকলে ব্যবহার হয় (ঐচ্ছিক)
 WEEKEND_DAYS = {4, 5}           # শুক্র ও শনিবার
 
@@ -47,15 +82,14 @@ DIVISIONS = {
 
 # DMP-এর বাইরের এলাকা (নিজস্ব অঞ্চল হিসেবে আলাদা স্কোর পাবে) / Areas outside DMP, each scored separately
 EXTRA_AREAS = {
-    "Ashulia":     {"bn": "আশুলিয়া",            "pts": [(23.9020, 90.3300)]},
-    "Birulia":     {"bn": "বিরুলিয়া",           "pts": [(23.8480, 90.3330)]},
-    "Aminbazar":   {"bn": "আমিনবাজার",          "pts": [(23.7880, 90.3230)]},
-    "Tongi":       {"bn": "টঙ্গী",              "pts": [(23.9060, 90.4050)]},
-    "Purbachal":   {"bn": "পূর্বাচল",            "pts": [(23.8520, 90.4950), (23.8350, 90.5250)]},
-    "Rupganj-Tarabo": {"bn": "রূপগঞ্জ–তারাবো",   "pts": [(23.7400, 90.5200), (23.7750, 90.5180)]},
+    "Gazipur-Tongi": {"bn": "টঙ্গী–গাজীপুর",      "pts": [(23.9060, 90.4050), (23.9400, 90.3850), (23.9300, 90.4300)]},
+    "Ashulia":       {"bn": "আশুলিয়া",           "pts": [(23.9020, 90.3300), (23.9350, 90.3300)]},
+    "Birulia":       {"bn": "বিরুলিয়া",          "pts": [(23.8480, 90.3330)]},
+    "Aminbazar":     {"bn": "আমিনবাজার",         "pts": [(23.7880, 90.3230)]},
+    "Purbachal":     {"bn": "পূর্বাচল",           "pts": [(23.8520, 90.4950), (23.8350, 90.5250), (23.8800, 90.5100)]},
+    "Rupganj-Tarabo": {"bn": "রূপগঞ্জ–তারাবো",   "pts": [(23.7400, 90.5200), (23.7750, 90.5180), (23.8050, 90.5350)]},
     "Kanchpur-Siddhirganj": {"bn": "কাঁচপুর–সিদ্ধিরগঞ্জ", "pts": [(23.7080, 90.5150), (23.6850, 90.4990)]},
-    "Narayanganj": {"bn": "নারায়ণগঞ্জ ও ফতুল্লা",  "pts": [(23.6230, 90.4990), (23.6450, 90.4780)]},
-    "Keraniganj":  {"bn": "কেরানীগঞ্জ",          "pts": [(23.6950, 90.3850), (23.6550, 90.4100), (23.7000, 90.4050), (23.7350, 90.3380)]},
+    "Keraniganj":    {"bn": "কেরানীগঞ্জ",         "pts": [(23.6950, 90.3850), (23.7000, 90.4050), (23.7350, 90.3380), (23.6750, 90.3400), (23.6750, 90.4200)]},
 }
 EXTRA_COLOR = "#7F8C8D"
 
@@ -92,26 +126,107 @@ THANAS = {
 
 
 # ---------------- Web Mercator helpers ----------------
-def _project(lat, lng):
-    world = 256 * 2 ** ZOOM
+def project(lat, lng, zoom=None):
+    """World pixel position of a lat/lng at a zoom level."""
+    world = 256 * 2 ** (ZOOM if zoom is None else zoom)
     x = (lng + 180.0) / 360.0 * world
     s = math.sin(math.radians(lat))
     y = (0.5 - math.log((1 + s) / (1 - s)) / (4 * math.pi)) * world
     return x, y
 
 
-_x0, _y0 = _project(BOUNDS["north"], BOUNDS["west"])
-_x1, _y1 = _project(BOUNDS["south"], BOUNDS["east"])
-VIEW_W, VIEW_H = int(round(_x1 - _x0)), int(round(_y1 - _y0))
-_cx, _cy = (_x0 + _x1) / 2, (_y0 + _y1) / 2
-CENTER_LNG = _cx / (256 * 2 ** ZOOM) * 360 - 180
-CENTER_LAT = math.degrees(math.atan(math.sinh(math.pi * (1 - 2 * _cy / (256 * 2 ** ZOOM)))))
+def unproject(x, y, zoom=None):
+    world = 256 * 2 ** (ZOOM if zoom is None else zoom)
+    lng = x / world * 360 - 180
+    lat = math.degrees(math.atan(math.sinh(math.pi * (1 - 2 * y / world))))
+    return lat, lng
+
+
+# study frame at ZOOM, starting at the north-west corner
+FRAME_X0, FRAME_Y0 = project(BOUNDS["north"], BOUNDS["west"])
+_fx1, _fy1 = project(BOUNDS["south"], BOUNDS["east"])
+VIEW_W, VIEW_H = int(math.ceil(_fx1 - FRAME_X0)), int(math.ceil(_fy1 - FRAME_Y0))
+TILES_X, TILES_Y = math.ceil(VIEW_W / TILE), math.ceil(VIEW_H / TILE)
+GRID_W, GRID_H = TILES_X * TILE, TILES_Y * TILE
+
+# parallel runners: each one takes a band of whole tile rows and saves it as one image ("strip")
+SHARDS = max(1, min(TILES_Y, math.ceil(TILES_X * TILES_Y / TILES_PER_RUNNER)))
+if IMAGE_FORMAT.lower() == "webp":  # one WebP file must stay below ~150 megapixels
+    _max_rows = max(1, int(MAX_WEBP_MP * 1e6 // (VIEW_W * TILE)))
+    SHARDS = max(SHARDS, math.ceil(TILES_Y / _max_rows))
+ROWS_PER_SHARD = math.ceil(TILES_Y / SHARDS)
+SHARDS = math.ceil(TILES_Y / ROWS_PER_SHARD)
+
+# label grid (zones/thanas) at LABEL_ZOOM
+LABEL_FACTOR = 2 ** (ZOOM - LABEL_ZOOM)
+assert TILE % LABEL_FACTOR == 0, "TILE must be divisible by 2**(ZOOM-LABEL_ZOOM)"
+LAB_W, LAB_H = GRID_W // LABEL_FACTOR, GRID_H // LABEL_FACTOR
+OVERVIEW_SCALE = 1 / LABEL_FACTOR
+OV_W, OV_H = LAB_W, LAB_H
+CENTER_LAT = (BOUNDS["north"] + BOUNDS["south"]) / 2
+CENTER_LNG = (BOUNDS["west"] + BOUNDS["east"]) / 2
 
 
 def latlng_to_px(lat, lng):
-    x, y = _project(lat, lng)
-    return x - _cx + VIEW_W / 2, y - _cy + VIEW_H / 2
+    x, y = project(lat, lng)
+    return x - FRAME_X0, y - FRAME_Y0
 
 
-def metres_per_px(lat):
-    return 156543.03392 * math.cos(math.radians(lat)) / (2 ** ZOOM)
+def latlng_to_ov(lat, lng):
+    x, y = latlng_to_px(lat, lng)
+    return x / LABEL_FACTOR, y / LABEL_FACTOR
+
+
+def browser_center(world_cx, world_cy, zoom, margins):
+    """Centre to request so that the un-covered (clipped) part of the window is centred on (world_cx, world_cy)."""
+    return unproject(world_cx + (margins["right"] - margins["left"]) / 2,
+                     world_cy + (margins["bottom"] - margins["top"]) / 2, zoom)
+
+
+def metres_per_px(lat, zoom=None):
+    return 156543.03392 * math.cos(math.radians(lat)) / (2 ** (ZOOM if zoom is None else zoom))
+
+
+def area_km2():
+    ns = (BOUNDS["north"] - BOUNDS["south"]) * 111.0
+    ew = (BOUNDS["east"] - BOUNDS["west"]) * 111.32 * math.cos(math.radians(CENTER_LAT))
+    return ns, ew, ns * ew
+
+
+# ---------------- Schedule helpers ----------------
+def slots_for_day(day):
+    """All snapshot times on one calendar day (naive local times): hourly 01:00–04:00, otherwise every 15 min."""
+    out = []
+    for h in range(24):
+        if NIGHT_START_HOUR <= h < NIGHT_END_HOUR:
+            mins = range(0, 60, NIGHT_INTERVAL_MIN)
+        else:
+            mins = range(0, 60, DAY_INTERVAL_MIN)
+        out += [datetime(day.year, day.month, day.day, h, m) for m in mins]
+    return out
+
+
+SLOTS_PER_DAY = len(slots_for_day(datetime(2026, 1, 1)))
+TOTAL_SLOTS = SLOTS_PER_DAY * COLLECTION_DAYS
+
+
+def next_slot(t):
+    """First snapshot time strictly after t (t is timezone-aware)."""
+    base = t.replace(tzinfo=None)
+    for d in (0, 1, 2):
+        for s in slots_for_day(base + timedelta(days=d)):
+            if s > base:
+                return s.replace(tzinfo=t.tzinfo)
+
+
+def prev_slot(t):
+    """Last snapshot time at or before t."""
+    base = t.replace(tzinfo=None)
+    for d in (0, 1):
+        day_slots = [s for s in slots_for_day(base - timedelta(days=d)) if s <= base]
+        if day_slots:
+            return day_slots[-1].replace(tzinfo=t.tzinfo)
+
+
+def slot_id(t):
+    return t.strftime("%Y%m%d-%H%M")
