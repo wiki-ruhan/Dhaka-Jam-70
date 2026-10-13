@@ -1,2 +1,2 @@
 date,weekday,weekday_bn,day_type,day_type_bn,holiday,hours,city_avg,city_peak,peak_hour,worst_zone,worst_zone_score,rain_mm,rain_hours,rain_effect,temp_min,temp_max,wind_mean,gust_max,aqi_mean,aqi_max,baseline,level,level_bn,tags,reasons,ai
-2026-10-13,Tuesday,মঙ্গলবার,Workday,কর্মদিবস,,8,7.1,7.6,0,Kanchpur-Siddhirganj,33.3,0.0,0,,26.3,28.0,4.4,13.7,166.4,172.0,,na,তুলনার জন্য এখনো যথেষ্ট দিন হয়নি,,"বায়ুর মান অস্বাস্থ্যকর (সর্বোচ্চ AQI 172), আংশিক দিন: 8/24 ঘণ্টার তথ্য",
+2026-10-13,Tuesday,মঙ্গলবার,Workday,কর্মদিবস,,8,7.2,7.8,7,Kanchpur-Siddhirganj,33.3,0.0,0,,26.3,28.1,4.4,13.7,166.1,172.0,,na,তুলনার জন্য এখনো যথেষ্ট দিন হয়নি,,"বায়ুর মান অস্বাস্থ্যকর (সর্বোচ্চ AQI 172), আংশিক দিন: 8/24 ঘণ্টার তথ্য",
