@@ -1,71 +1,71 @@
 rank,junction_id,junction_en,junction_bn,corridor,days,mean_score_6_24,severe_hours_per_day,max_queue_red_m,mean_queue_red_m,am_recovery_min,pm_recovery_min,spill_slots,times_worst_10
-1,10,Bashundhara Gate,বসুন্ধরা গেট (যমুনা ফিউচার পার্ক),North / Airport Road,2,46.2,7.8,330.0,117.0,645.0,202.5,0,2
-2,31,Khilgaon,খিলগাঁও,Gulshan-Badda-Rampura,2,50.4,5.9,150.0,17.0,322.5,255.0,0,2
-3,65,Nayabazar,নয়াবাজার,South / Old Dhaka,2,36.3,5.6,180.0,75.0,15.0,330.0,0,2
-4,16,Bijoy Sarani,বিজয় সরণি,Banani-Mohakhali-Tejgaon,2,20.5,5.6,1170.0,206.5,22.5,22.5,19,2
-5,17,Satrasta,সাতরাস্তা,Banani-Mohakhali-Tejgaon,2,23.2,5.2,335.0,127.0,15.0,67.5,0,2
-6,19,Karwan Bazar,কারওয়ান বাজার,Banani-Mohakhali-Tejgaon,2,32.4,5.1,480.0,131.0,45.0,217.5,1,2
-7,45,Mohammadpur Town Hall,মোহাম্মদপুর টাউন হল,Dhanmondi-Mohammadpur,2,34.0,4.1,0.0,0.0,120.0,180.0,0,1
-8,35,Mirpur-1,মিরপুর-১,Mirpur-Gabtoli-Aminbazar,2,23.0,4.0,515.0,89.0,22.5,120.0,0,2
-9,24,Shahjadpur,শাহজাদপুর,Gulshan-Badda-Rampura,2,32.2,3.2,80.0,42.5,37.5,75.0,0,0
-10,26,Merul Badda,মেরুল বাড্ডা,Gulshan-Badda-Rampura,2,26.6,3.1,50.0,22.0,60.0,90.0,0,1
-11,11,Kakoli (Banani),কাকলী (বনানী),Banani-Mohakhali-Tejgaon,2,14.4,3.0,835.0,164.0,22.5,22.5,0,0
-12,49,Science Lab,সায়েন্স ল্যাব,Dhanmondi-Mohammadpur,2,31.0,2.6,225.0,149.0,322.5,172.5,0,1
-13,50,Jigatola,জিগাতলা,Dhanmondi-Mohammadpur,2,25.8,2.6,260.0,51.0,120.0,97.5,0,1
-14,9,Kuril Bishwa Road,কুড়িল বিশ্বরোড,North / Airport Road,2,6.3,2.5,645.0,75.5,15.0,15.0,0,0
-15,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,2,16.8,2.4,660.0,89.5,82.5,30.0,0,0
-16,51,Nilkhet,নীলক্ষেত,Dhanmondi-Mohammadpur,2,22.3,2.2,450.0,48.0,15.0,82.5,0,1
-17,21,Gulshan-1,গুলশান-১,Gulshan-Badda-Rampura,2,33.5,2.1,155.0,100.5,367.5,127.5,0,1
-18,57,Paltan,পল্টন,Central,2,27.7,1.8,275.0,138.5,135.0,120.0,0,0
-19,25,Uttar Badda,উত্তর বাড্ডা,Gulshan-Badda-Rampura,2,27.2,1.8,110.0,41.0,30.0,150.0,0,0
-20,18,Farmgate,ফার্মগেট,Banani-Mohakhali-Tejgaon,2,27.6,1.5,405.0,143.5,90.0,127.5,0,0
-21,30,Moghbazar,মগবাজার,Gulshan-Badda-Rampura,2,22.8,1.4,475.0,64.5,15.0,60.0,0,0
-22,64,Chankharpul,চানখারপুল,South / Old Dhaka,2,25.2,1.2,300.0,109.0,15.0,82.5,0,0
-23,6,Airport,বিমানবন্দর,North / Airport Road,2,17.9,1.0,1075.0,26.5,15.0,30.0,0,0
-24,22,Gulshan-2,গুলশান-২,Gulshan-Badda-Rampura,2,29.8,0.9,1035.0,109.5,15.0,157.5,0,0
-25,37,Mirpur-10,মিরপুর-১০,Mirpur-Gabtoli-Aminbazar,2,24.0,0.9,470.0,87.5,15.0,172.5,0,0
-26,8,Khilkhet,খিলক্ষেত,North / Airport Road,2,11.3,0.9,310.0,112.0,15.0,15.0,0,0
-27,59,Gulistan (Zero Point),গুলিস্তান (জিরো পয়েন্ট),Central,2,33.4,0.8,480.0,49.5,532.5,157.5,0,0
-28,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,2,6.4,0.8,355.0,35.5,15.0,15.0,0,0
-29,47,Dhanmondi 27,ধানমন্ডি ২৭,Dhanmondi-Mohammadpur,2,25.4,0.6,60.0,37.0,15.0,90.0,0,0
-30,53,Shahbag,শাহবাগ,Central,2,21.7,0.6,115.0,53.5,15.0,52.5,0,0
-31,41,Shewrapara,শেওড়াপাড়া,Mirpur-Gabtoli-Aminbazar,2,20.9,0.6,460.0,48.5,30.0,15.0,3,0
-32,46,Asad Gate,আসাদগেট,Dhanmondi-Mohammadpur,2,25.6,0.5,55.0,32.5,15.0,90.0,0,0
-33,44,Shia Masjid (Mohammadpur),শিয়া মসজিদ (মোহাম্মদপুর),Dhanmondi-Mohammadpur,2,21.0,0.5,10.0,0.0,22.5,75.0,0,0
-34,66,Babubazar Bridge,বাবুবাজার ব্রিজ,South / Old Dhaka,2,10.4,0.5,390.0,11.0,15.0,30.0,0,0
-35,13,Mohakhali,মহাখালী,Banani-Mohakhali-Tejgaon,2,33.2,0.4,0.0,0.0,37.5,120.0,0,0
-36,55,Kakrail,কাকরাইল,Central,2,27.0,0.4,505.0,98.5,135.0,142.5,18,0
-37,28,Malibagh,মালিবাগ,Gulshan-Badda-Rampura,2,24.8,0.4,25.0,22.0,37.5,82.5,0,0
-38,14,Jahangir Gate,জাহাঙ্গীর গেট,Banani-Mohakhali-Tejgaon,2,9.2,0.4,400.0,7.5,15.0,15.0,0,0
-39,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,2,26.2,0.2,330.0,15.0,105.0,22.5,0,0
-40,68,Sayedabad,সায়েদাবাদ,South / Old Dhaka,2,24.4,0.2,355.0,57.5,15.0,75.0,0,0
-41,4,Azampur,আজমপুর,North / Airport Road,2,21.6,0.2,125.0,7.0,60.0,67.5,0,0
-42,56,Shantinagar,শান্তিনগর,Central,2,17.5,0.2,445.0,54.0,22.5,37.5,0,0
-43,27,Rampura Bridge,রামপুরা ব্রিজ,Gulshan-Badda-Rampura,2,18.6,0.1,130.0,45.0,30.0,52.5,0,0
-44,52,Azimpur,আজিমপুর,Dhanmondi-Mohammadpur,2,13.0,0.1,320.0,90.0,15.0,15.0,0,0
-45,7,Kawla,কাওলা,North / Airport Road,2,11.4,0.1,120.0,15.5,15.0,15.0,0,0
-46,43,Shyamoli,শ্যামলী,Dhanmondi-Mohammadpur,2,28.7,0.0,185.0,14.0,22.5,52.5,0,0
-47,20,Bangla Motor,বাংলামোটর,Banani-Mohakhali-Tejgaon,2,24.4,0.0,50.0,46.0,15.0,157.5,0,0
-48,48,Russell Square (Panthapath),রাসেল স্কয়ার (পান্থপথ),Dhanmondi-Mohammadpur,2,23.8,0.0,130.0,100.0,15.0,60.0,0,0
-49,58,Fakirapool,ফকিরাপুল,Central,2,22.5,0.0,70.0,5.5,30.0,22.5,0,0
-50,23,Notun Bazar,নতুন বাজার,Gulshan-Badda-Rampura,2,22.3,0.0,270.0,52.5,37.5,37.5,0,0
-51,39,Mirpur-12,মিরপুর-১২,Mirpur-Gabtoli-Aminbazar,2,20.8,0.0,90.0,34.0,15.0,67.5,0,0
-52,60,Shapla Chattar (Motijheel),শাপলা চত্বর (মতিঝিল),Central,2,19.8,0.0,0.0,0.0,37.5,52.5,0,0
-53,40,Kazipara,কাজীপাড়া,Mirpur-Gabtoli-Aminbazar,2,18.2,0.0,140.0,50.0,30.0,15.0,0,0
-54,69,Jatrabari,যাত্রাবাড়ী,South / Old Dhaka,2,18.2,0.0,80.0,78.0,15.0,15.0,0,0
-55,61,Kamalapur,কমলাপুর,Central,2,18.1,0.0,165.0,50.5,15.0,15.0,0,0
-56,42,Agargaon,আগারগাঁও,Mirpur-Gabtoli-Aminbazar,2,17.8,0.0,100.0,73.0,15.0,15.0,0,0
-57,63,Bakshibazar,বকশিবাজার মোড়,South / Old Dhaka,2,15.7,0.0,0.0,0.0,15.0,15.0,0,0
-58,33,Gabtoli,গাবতলী,Mirpur-Gabtoli-Aminbazar,2,15.0,0.0,100.0,7.0,22.5,75.0,0,0
-59,36,Mirpur-2,মিরপুর-২,Mirpur-Gabtoli-Aminbazar,2,14.7,0.0,110.0,33.0,15.0,15.0,0,0
-60,29,Mouchak,মৌচাক,Gulshan-Badda-Rampura,2,14.6,0.0,95.0,45.0,15.0,45.0,0,0
-61,15,Nabisco (Tejgaon),নাবিস্কো (তেজগাঁও),Banani-Mohakhali-Tejgaon,2,14.4,0.0,220.0,3.5,15.0,15.0,0,0
-62,38,Mirpur-11,মিরপুর-১১,Mirpur-Gabtoli-Aminbazar,2,13.4,0.0,75.0,16.5,15.0,22.5,0,0
-63,34,Technical,টেকনিক্যাল,Mirpur-Gabtoli-Aminbazar,2,12.8,0.0,125.0,53.0,15.0,15.0,0,0
-64,62,Ittefaq Mor,ইত্তেফাক মোড়,Central,2,12.8,0.0,100.0,8.0,15.0,15.0,0,0
-65,54,TSC (Dhaka University),টিএসসি (ঢাকা বিশ্ববিদ্যালয়),Central,2,12.4,0.0,0.0,0.0,15.0,15.0,0,0
-66,12,Amtoli,আমতলী,Banani-Mohakhali-Tejgaon,2,9.6,0.0,150.0,103.0,15.0,15.0,0,0
-67,70,Postogola,পোস্তগোলা,South / Old Dhaka,2,9.0,0.0,205.0,110.5,15.0,15.0,0,0
-68,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,2,2.4,0.0,50.0,1.0,15.0,15.0,0,0
-69,32,Aminbazar Bridge,আমিনবাজার ব্রিজ,Mirpur-Gabtoli-Aminbazar,2,1.0,0.0,0.0,0.0,15.0,15.0,0,0
-70,67,Sadarghat (Bahadur Shah Park),সদরঘাট (বাহাদুর শাহ পার্ক),South / Old Dhaka,2,,0.0,0.0,0.0,,,0,0
+1,10,Bashundhara Gate,বসুন্ধরা গেট (যমুনা ফিউচার পার্ক),North / Airport Road,3,46.2,5.2,330.0,78.0,645.0,202.5,0,2
+2,31,Khilgaon,খিলগাঁও,Gulshan-Badda-Rampura,3,50.4,3.9,150.0,11.3,322.5,255.0,0,2
+3,65,Nayabazar,নয়াবাজার,South / Old Dhaka,3,36.3,3.8,180.0,110.0,15.0,330.0,0,2
+4,16,Bijoy Sarani,বিজয় সরণি,Banani-Mohakhali-Tejgaon,3,20.5,3.8,1170.0,156.0,22.5,22.5,19,2
+5,17,Satrasta,সাতরাস্তা,Banani-Mohakhali-Tejgaon,3,23.2,3.6,335.0,196.3,15.0,67.5,0,3
+6,19,Karwan Bazar,কারওয়ান বাজার,Banani-Mohakhali-Tejgaon,3,32.4,3.4,480.0,95.7,45.0,217.5,1,2
+7,45,Mohammadpur Town Hall,মোহাম্মদপুর টাউন হল,Dhanmondi-Mohammadpur,3,34.0,2.8,0.0,0.0,120.0,180.0,0,1
+8,35,Mirpur-1,মিরপুর-১,Mirpur-Gabtoli-Aminbazar,3,23.0,2.7,515.0,59.3,22.5,120.0,0,2
+9,24,Shahjadpur,শাহজাদপুর,Gulshan-Badda-Rampura,3,32.2,2.2,80.0,28.3,37.5,75.0,0,0
+10,26,Merul Badda,মেরুল বাড্ডা,Gulshan-Badda-Rampura,3,26.6,2.1,50.0,14.7,60.0,90.0,0,1
+11,11,Kakoli (Banani),কাকলী (বনানী),Banani-Mohakhali-Tejgaon,3,14.4,2.0,835.0,137.7,22.5,22.5,0,0
+12,49,Science Lab,সায়েন্স ল্যাব,Dhanmondi-Mohammadpur,3,31.0,1.8,225.0,122.7,322.5,172.5,0,1
+13,50,Jigatola,জিগাতলা,Dhanmondi-Mohammadpur,3,25.8,1.8,260.0,34.0,120.0,97.5,0,1
+14,9,Kuril Bishwa Road,কুড়িল বিশ্বরোড,North / Airport Road,3,6.3,1.7,645.0,117.0,15.0,15.0,0,0
+15,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,3,16.8,1.6,660.0,76.3,82.5,30.0,0,1
+16,51,Nilkhet,নীলক্ষেত,Dhanmondi-Mohammadpur,3,22.3,1.5,450.0,42.0,15.0,82.5,0,1
+17,21,Gulshan-1,গুলশান-১,Gulshan-Badda-Rampura,3,33.5,1.4,155.0,78.7,367.5,127.5,0,1
+18,57,Paltan,পল্টন,Central,3,27.7,1.2,275.0,92.3,135.0,120.0,0,0
+19,25,Uttar Badda,উত্তর বাড্ডা,Gulshan-Badda-Rampura,3,27.2,1.2,110.0,37.3,30.0,150.0,0,0
+20,18,Farmgate,ফার্মগেট,Banani-Mohakhali-Tejgaon,3,27.6,1.0,405.0,160.7,90.0,127.5,0,0
+21,30,Moghbazar,মগবাজার,Gulshan-Badda-Rampura,3,22.8,0.9,475.0,49.7,15.0,60.0,0,0
+22,64,Chankharpul,চানখারপুল,South / Old Dhaka,3,25.2,0.8,300.0,92.7,15.0,82.5,0,0
+23,6,Airport,বিমানবন্দর,North / Airport Road,3,17.9,0.7,1075.0,17.7,15.0,30.0,0,1
+24,22,Gulshan-2,গুলশান-২,Gulshan-Badda-Rampura,3,29.8,0.6,1035.0,89.7,15.0,157.5,0,0
+25,37,Mirpur-10,মিরপুর-১০,Mirpur-Gabtoli-Aminbazar,3,24.0,0.6,470.0,83.3,15.0,172.5,0,0
+26,8,Khilkhet,খিলক্ষেত,North / Airport Road,3,11.3,0.6,310.0,74.7,15.0,15.0,0,1
+27,59,Gulistan (Zero Point),গুলিস্তান (জিরো পয়েন্ট),Central,3,33.4,0.5,480.0,53.0,532.5,157.5,0,0
+28,41,Shewrapara,শেওড়াপাড়া,Mirpur-Gabtoli-Aminbazar,3,20.9,0.5,460.0,185.7,30.0,15.0,4,1
+29,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,3,6.4,0.5,355.0,33.7,15.0,15.0,0,1
+30,47,Dhanmondi 27,ধানমন্ডি ২৭,Dhanmondi-Mohammadpur,3,25.4,0.4,60.0,24.7,15.0,90.0,0,0
+31,53,Shahbag,শাহবাগ,Central,3,21.7,0.4,115.0,57.3,15.0,52.5,0,0
+32,46,Asad Gate,আসাদগেট,Dhanmondi-Mohammadpur,3,25.6,0.3,55.0,21.7,15.0,90.0,0,0
+33,44,Shia Masjid (Mohammadpur),শিয়া মসজিদ (মোহাম্মদপুর),Dhanmondi-Mohammadpur,3,21.0,0.3,10.0,0.0,22.5,75.0,0,0
+34,66,Babubazar Bridge,বাবুবাজার ব্রিজ,South / Old Dhaka,3,10.4,0.3,390.0,7.3,15.0,30.0,0,0
+35,13,Mohakhali,মহাখালী,Banani-Mohakhali-Tejgaon,3,33.2,0.2,0.0,0.0,37.5,120.0,0,0
+36,55,Kakrail,কাকরাইল,Central,3,27.0,0.2,505.0,65.7,135.0,142.5,18,0
+37,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,3,26.2,0.2,330.0,10.0,105.0,22.5,0,1
+38,28,Malibagh,মালিবাগ,Gulshan-Badda-Rampura,3,24.8,0.2,25.0,23.0,37.5,82.5,0,0
+39,68,Sayedabad,সায়েদাবাদ,South / Old Dhaka,3,24.4,0.2,355.0,125.0,15.0,75.0,0,0
+40,4,Azampur,আজমপুর,North / Airport Road,3,21.6,0.2,125.0,4.7,60.0,67.5,0,1
+41,56,Shantinagar,শান্তিনগর,Central,3,17.5,0.2,445.0,41.0,22.5,37.5,0,0
+42,14,Jahangir Gate,জাহাঙ্গীর গেট,Banani-Mohakhali-Tejgaon,3,9.2,0.2,400.0,5.0,15.0,15.0,0,0
+43,27,Rampura Bridge,রামপুরা ব্রিজ,Gulshan-Badda-Rampura,3,18.6,0.1,130.0,73.3,30.0,52.5,0,0
+44,52,Azimpur,আজিমপুর,Dhanmondi-Mohammadpur,3,13.0,0.1,320.0,66.7,15.0,15.0,0,0
+45,7,Kawla,কাওলা,North / Airport Road,3,11.4,0.1,120.0,10.3,15.0,15.0,0,1
+46,43,Shyamoli,শ্যামলী,Dhanmondi-Mohammadpur,3,28.7,0.0,185.0,9.3,22.5,52.5,0,0
+47,20,Bangla Motor,বাংলামোটর,Banani-Mohakhali-Tejgaon,3,24.4,0.0,50.0,47.3,15.0,157.5,0,0
+48,48,Russell Square (Panthapath),রাসেল স্কয়ার (পান্থপথ),Dhanmondi-Mohammadpur,3,23.8,0.0,130.0,88.3,15.0,60.0,0,0
+49,58,Fakirapool,ফকিরাপুল,Central,3,22.5,0.0,70.0,3.7,30.0,22.5,0,0
+50,23,Notun Bazar,নতুন বাজার,Gulshan-Badda-Rampura,3,22.3,0.0,270.0,70.0,37.5,37.5,0,0
+51,39,Mirpur-12,মিরপুর-১২,Mirpur-Gabtoli-Aminbazar,3,20.8,0.0,90.0,22.7,15.0,67.5,0,0
+52,60,Shapla Chattar (Motijheel),শাপলা চত্বর (মতিঝিল),Central,3,19.8,0.0,0.0,0.0,37.5,52.5,0,0
+53,40,Kazipara,কাজীপাড়া,Mirpur-Gabtoli-Aminbazar,3,18.2,0.0,140.0,75.0,30.0,15.0,0,0
+54,69,Jatrabari,যাত্রাবাড়ী,South / Old Dhaka,3,18.2,0.0,80.0,78.7,15.0,15.0,0,0
+55,61,Kamalapur,কমলাপুর,Central,3,18.1,0.0,165.0,33.7,15.0,15.0,0,0
+56,42,Agargaon,আগারগাঁও,Mirpur-Gabtoli-Aminbazar,3,17.8,0.0,100.0,60.3,15.0,15.0,0,0
+57,63,Bakshibazar,বকশিবাজার মোড়,South / Old Dhaka,3,15.7,0.0,0.0,0.0,15.0,15.0,0,0
+58,33,Gabtoli,গাবতলী,Mirpur-Gabtoli-Aminbazar,3,15.0,0.0,100.0,4.7,22.5,75.0,0,0
+59,36,Mirpur-2,মিরপুর-২,Mirpur-Gabtoli-Aminbazar,3,14.7,0.0,110.0,22.0,15.0,15.0,0,0
+60,29,Mouchak,মৌচাক,Gulshan-Badda-Rampura,3,14.6,0.0,95.0,35.0,15.0,45.0,0,0
+61,15,Nabisco (Tejgaon),নাবিস্কো (তেজগাঁও),Banani-Mohakhali-Tejgaon,3,14.4,0.0,220.0,27.3,15.0,15.0,0,0
+62,38,Mirpur-11,মিরপুর-১১,Mirpur-Gabtoli-Aminbazar,3,13.4,0.0,75.0,16.0,15.0,22.5,0,0
+63,34,Technical,টেকনিক্যাল,Mirpur-Gabtoli-Aminbazar,3,12.8,0.0,125.0,53.7,15.0,15.0,0,0
+64,62,Ittefaq Mor,ইত্তেফাক মোড়,Central,3,12.8,0.0,100.0,5.3,15.0,15.0,0,0
+65,54,TSC (Dhaka University),টিএসসি (ঢাকা বিশ্ববিদ্যালয়),Central,3,12.4,0.0,0.0,0.0,15.0,15.0,0,0
+66,12,Amtoli,আমতলী,Banani-Mohakhali-Tejgaon,3,9.6,0.0,150.0,87.0,15.0,15.0,0,0
+67,70,Postogola,পোস্তগোলা,South / Old Dhaka,3,9.0,0.0,205.0,110.3,15.0,15.0,0,0
+68,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,3,2.4,0.0,50.0,0.7,15.0,15.0,0,1
+69,32,Aminbazar Bridge,আমিনবাজার ব্রিজ,Mirpur-Gabtoli-Aminbazar,3,1.0,0.0,0.0,0.0,15.0,15.0,0,0
+70,67,Sadarghat (Bahadur Shah Park),সদরঘাট (বাহাদুর শাহ পার্ক),South / Old Dhaka,3,,0.0,0.0,0.0,,,0,0
