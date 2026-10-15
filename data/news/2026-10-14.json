@@ -1,12 +1,6 @@
 {
- "fetched_at": "2026-10-15T12:32:14.498580+06:00",
+ "fetched_at": "2026-10-15T15:32:16.101291+06:00",
  "headlines": [
-  {
-   "title": "Macron says French student protesters ‘exploited’ by political forces - Dhaka Tribune",
-   "source": "Dhaka Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXBLUXhOSkpnc2c0X0dUN3ZicTJjdWNEV015eE5kdW9nV2RFTEI2U3Z0aWZUSlhLNTJGcjZkbGtXa3pxbUtscUFReW5aa3NnaHVmY01tSHNmQ0NMV0R6b3FZdHdiUUQyQ2o4ajBjcEFlUzgxbV9qX3R0Qlg5Y2syQnJ1ZkQ3WFlyeGhmSFh3US1HTzRyVFRxdWpBaXNUSlZGeGJKb0hqdjg1dEdhRDdSbDA5dzlNNzhHQVHSAboBQVVfeXFMT1FwS1F4TkpKZ3NnNF9HVDd2YnEyY3VjRFdNeXhOZHVvZ1dkRUxCNlN2dGlmVEpYSzUyRnI2ZGxrV2t6cW1LbHFBUXluWmtzZ2h1ZmNNbUhzZkNDTFdEem9xWXR3YlFEMkNqOGowY3BBZVM4MW1fal90dEJYOWNrMkJydWZEN1hZcnhoZkhYd1EtR080clRUcXVqQWlzVEpWRnhiSm9IanY4NXRHYUQ3UmwwOXc5TTc4R0FR?oc=5",
-   "date": "2026-10-14"
-  },
   {
    "title": "DMP files 2,910 cases for traffic law violations in city - Bangladesh Sangbad Sangstha (BSS)",
    "source": "Bangladesh Sangbad Sangstha (BSS)",
@@ -14,9 +8,15 @@
    "date": "2026-10-14"
   },
   {
-   "title": "Top Indian ‘cockroach’ leaders sent to jail after protest - Dhaka Tribune",
-   "source": "Dhaka Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVl6R2xCTzdIUGxNSnR5b2JSdzV1LU9tY25FMHhjNDhjTVNNTXV0enNRbHg1eEVGQXVYVWdQLTlnckxUcTd1b3R6UWtZVUxOazJxOGpnVjdTTDRsdDA4dFNsRHhGZHR2UGo2YWdJOW9DUlZ2VFlLUl9hN1BwQkZzVFJ6dW00ZTh0X0p2RFBxTjREVldsOWIxWDlwZWxpTnRmVW9Cdlp2Vm4zcXpOOURkU1V4WUJxTThmaEHSAb8BQVVfeXFMT0ZwZnZNRWVITUJwOGhkOTZPWTZLWS1GWEZOakNScnBLMUt1VmtJYThxRFcwbG5WM1d0MF85eHczVkF1Y0VlbGw0OU4xbmxOeDNuOWU1bUxELVBCTkt3UUg3OXhmR2tQcllURWk4SDNPeFV5YjN2SUhGQWtiX29oZmpyUVJzSEdnVllUX1V2dEJla1JFeEpQajJkM1RhNDVIRlltU09Da0pHc2daRURmSDFYb1VyR1NMT0RmQV9hcWM?oc=5",
+   "title": "Garment workers block Uttara road for 2.5hrs demanding Tk30,000 minimum wage - The Business Standard",
+   "source": "The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGV6ZTcwUjBLQ0lXWk95ZnpkS013YUdCZlBqamEtTENxMWx4MWl6U1Q4TFlEN2FKTEZKWl9QcUVvenRsUDM0aHlyclVmOHhCWFNYQTFtdW04SmlXQ1Y2ajZhTU1tZk9TN2ExZ19vWmN1SnpGT0p0VXVsd0Q5dDBuMVFXSVBiS2h0SC1aTjBMR2xKVGh1QmhldHM3cHFzUnJhdVhKbVB1LXJqa0pIa2tPSmRIS3U?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Savar Autorickshaw Drivers Block Highways Over Garage Rent Hike - https://www.businesstimes-bd.com/",
+   "source": "https://www.businesstimes-bd.com/",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QRnpUQnhfRkdPMWFPcGhFLXNOZ1JhMW00RnJWUkdwY1E5V210UlZ5TDVIRGdFMVhiMGdOVUZyekk4SE9BdVo1OGM0eWVKNEt6Nm1IaXNXWUs4cGRRb3c?oc=5",
    "date": "2026-10-14"
   },
   {
@@ -26,9 +26,69 @@
    "date": "2026-10-14"
   },
   {
+   "title": "Tongi factory fire, Uttara garment workers' blockade trigger Dhaka-Mymensingh highway gridlock - The Business Standard",
+   "source": "The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0lyUmd4ZU51RUhJNlgtSEZxM2VfQjBPaDZfb2FFcThiRERvYVc0TDNvNUxlcjFJRDJTbkp5MEhzMnBuRmpEUFVyNVpYR2J3NzI2c2lqNkY1bzZfeWJidF9XdUI0ajV3Z1JLQ3NDWm5WY1pLWDdndDQ1NmFDWXNaUTA3YlhZaDNKN0JVTGJJQjVNR05hekl6R0wwS1VQYXJVY1AwaWFFY2F6WTU5Q19NYUMySkdaY1U1Wmc?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Top Indian ‘cockroach’ leaders sent to jail after protest - Dhaka Tribune",
+   "source": "Dhaka Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVl6R2xCTzdIUGxNSnR5b2JSdzV1LU9tY25FMHhjNDhjTVNNTXV0enNRbHg1eEVGQXVYVWdQLTlnckxUcTd1b3R6UWtZVUxOazJxOGpnVjdTTDRsdDA4dFNsRHhGZHR2UGo2YWdJOW9DUlZ2VFlLUl9hN1BwQkZzVFJ6dW00ZTh0X0p2RFBxTjREVldsOWIxWDlwZWxpTnRmVW9Cdlp2Vm4zcXpOOURkU1V4WUJxTThmaEHSAb8BQVVfeXFMT0ZwZnZNRWVITUJwOGhkOTZPWTZLWS1GWEZOakNScnBLMUt1VmtJYThxRFcwbG5WM1d0MF85eHczVkF1Y0VlbGw0OU4xbmxOeDNuOWU1bUxELVBCTkt3UUg3OXhmR2tQcllURWk4SDNPeFV5YjN2SUhGQWtiX29oZmpyUVJzSEdnVllUX1V2dEJla1JFeEpQajJkM1RhNDVIRlltU09Da0pHc2daRURmSDFYb1VyR1NMT0RmQV9hcWM?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Why is there severe traffic congestion on the Dhaka–Mymensingh highway? - The Business Standard",
+   "source": "The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUV9QejZ1dnFlR3dpaTMxOVpBdHdWX2dsQ3FaTG1wODJEUml2LUhxUjJBWW9yVHd4TnpjWHZKbVp6c0haTFpXbXFlQW5xY2lDVjVMOVRhUF9wdFVRUDluNHJrdEVCa2ZWXzlMZzA2cV92N3J3eDRTV1prb0RtTXBoTzJ4UEFWblNfVHg2ZEtDR2JRdmpNSkxQS2ZqeGVwT1I3d0FGeUtaams0eGlhTnc?oc=5",
+   "date": "2026-10-14"
+  },
+  {
    "title": "Police crack down on pro-Khan protest in Pakistan’s northwest - Dhaka Tribune",
    "source": "Dhaka Tribune",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTNmMG1ucC1YbEtUSEZPMjloUUlHSVFaSW9FYUd2QXBrSXBMcUQ1QkJicnBNOEpBbUpqdjNob3l1ZTNTLWExT3hLSEJEY0sydW1MWGJVa3ZCQmQweUVXbHMyUmhKM1RpclFkbjQ2ZEQ5VmEyb21jOUwwZHdybmJSQ1pSc292N3NGVHpyYzNJUkhwUDFuSEHSAZYBQVVfeXFMT0EzZjBtbnAtWGxLVEhGTzI5aFFJR0lRWklvRWFHdkFwa0lwTHFENUJCYnJwTThKQW1KanYzaG95dWUzUy1hMU94S0hCRGNLMnVtTFhiVWt2QkJkMHlFV2xzMlJoSjNUaXJRZG40NmREOVZhMm9tYzlMMGR3cm5iUkNaUnNvdjdzRlR6cmMzSVJIcFAxbkhB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjRXeUxXcnN2TC1JZHB2T3pzWUc4TjJVNEluVlVRQy1HaEtfX091dkYyOFowanl2c0hoVnRGX0tQSHhDdUZwbkNHWWJiSDJlVjRuZWtVODNtZHE5c29FQTVRSjk4S3Yxa2JnZWpweE5fSk9iRVdwbi1OY2RIdE9jNFRNd0YtUjRDNExJZkotcm7SAZYBQVVfeXFMT0EzZjBtbnAtWGxLVEhGTzI5aFFJR0lRWklvRWFHdkFwa0lwTHFENUJCYnJwTThKQW1KanYzaG95dWUzUy1hMU94S0hCRGNLMnVtTFhiVWt2QkJkMHlFV2xzMlJoSjNUaXJRZG40NmREOVZhMm9tYzlMMGR3cm5iUkNaUnNvdjdzRlR6cmMzSVJIcFAxbkhB?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Garment workers block Dhaka roads to demand Tk 30,000 minimum wage - bdnews24.com",
+   "source": "bdnews24.com",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RV0hXMURqR1djb2I1QzVUUWFJaGJxbWRtQTd5RHVHT19ZZFFTVDB3cGJzdW5ySUZ4ZnBmUEFSOGw5WDZ3Mk9YLXExMDBXVDc3MmlPRA?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "October 14, 2026 - bdnews24.com",
+   "source": "bdnews24.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiRWpKLXJXVUtpbkJZUTNVTk83Q1hQaEdPbWRscmpBbXZldFducjI0OUVIWUFZMFBmOVBmbkZyS0JZYzduaG4zSkFIVWtoUHBNV3lKRTVLS1Bqdw?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Garment workers block Dhaka airport road - Daily Observer",
+   "source": "Daily Observer",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DR0hpOGtySnVLUHdMUHVHYXh6c2xKX0tRRWZvdy1fcEE3ZjYycmxSMFRJSGw5WG1Bczc4eXN0NFlIT1hJZlBhbnJB?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Garment workers lift Dhk-M'singh highway blockade after 3hrs - Daily Observer",
+   "source": "Daily Observer",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EVVJYTm1HajZxSWlIdEhTRUxUSloyLWhkX1ZzeHlwejZLMkhBRDVla09MWkduUk00SFZtSHA1d01VQ1d1ZUgzUTR3?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "RMG Workers Block Dhaka-Mymensingh Highway Demanding Higher Wages - https://www.businesstimes-bd.com/",
+   "source": "https://www.businesstimes-bd.com/",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4Z0NIVGg3VUJqUjN3RHpfMGhLZzV4c2dUU01KczkwU2MyZHpJa0haN3E0VGFZbWNSSENJWEF1V0tGMUFYWFg2OUtGejdlajlWUW56OUZJSC1oY1NKOE95Z1lFOVhaNGs?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Garment workers block road in Uttara - bdnews24.com",
+   "source": "bdnews24.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8za1B3aTl1YnUzV05jTVR5cU9nZmVzcE4zRjFaXzlYSFpNaHZ4R3NrZkJIUGlUamk1SmFMU3dnN1pDcjVGa1JFMF91WGd4UjZJbjBjY09ONDZIUQ?oc=5",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Macron says French student protesters ‘exploited’ by political forces - Dhaka Tribune",
+   "source": "Dhaka Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXBLUXhOSkpnc2c0X0dUN3ZicTJjdWNEV015eE5kdW9nV2RFTEI2U3Z0aWZUSlhLNTJGcjZkbGtXa3pxbUtscUFReW5aa3NnaHVmY01tSHNmQ0NMV0R6b3FZdHdiUUQyQ2o4ajBjcEFlUzgxbV9qX3R0Qlg5Y2syQnJ1ZkQ3WFlyeGhmSFh3US1HTzRyVFRxdWpBaXNUSlZGeGJKb0hqdjg1dEdhRDdSbDA5dzlNNzhHQVHSAboBQVVfeXFMT1FwS1F4TkpKZ3NnNF9HVDd2YnEyY3VjRFdNeXhOZHVvZ1dkRUxCNlN2dGlmVEpYSzUyRnI2ZGxrV2t6cW1LbHFBUXluWmtzZ2h1ZmNNbUhzZkNDTFdEem9xWXR3YlFEMkNqOGowY3BBZVM4MW1fal90dEJYOWNrMkJydWZEN1hZcnhoZkhYd1EtR080clRUcXVqQWlzVEpWRnhiSm9IanY4NXRHYUQ3UmwwOXc5TTc4R0FR?oc=5",
    "date": "2026-10-14"
   },
   {
@@ -44,33 +104,9 @@
    "date": "2026-10-14"
   },
   {
-   "title": "DU English Dept students stage red-card protest against Tasneem Siraj - The Daily Star",
-   "source": "The Daily Star",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzZlM0ZvQ2ZtR0ZrTlhwUk1IbVBHdE9aQU1IMjA1QmxmUkJvNzdnUFg3UFJkRW9zQlZsbW9TcFplSlNEVXVsanlkS2tfNzVWY2tfZmVYUWotRDBkY0lrUXh6SndidC0yNXJSMno1Wm45TkIyTk40bWx6WUdGZzFaaTJRVDdoamZQRGdoYU44aXAyc3hIcVZDVm05MW5mdW8ycXNwMGlxeVJYSV94T0tZSXROU09zY01ZLXc?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Garment workers block Uttara road for 2.5hrs demanding Tk30,000 minimum wage - The Business Standard",
-   "source": "The Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGV6ZTcwUjBLQ0lXWk95ZnpkS013YUdCZlBqamEtTENxMWx4MWl6U1Q4TFlEN2FKTEZKWl9QcUVvenRsUDM0aHlyclVmOHhCWFNYQTFtdW04SmlXQ1Y2ajZhTU1tZk9TN2ExZ19vWmN1SnpGT0p0VXVsd0Q5dDBuMVFXSVBiS2h0SC1aTjBMR2xKVGh1QmhldHM3cHFzUnJhdVhKbVB1LXJqa0pIa2tPSmRIS3U?oc=5",
-   "date": "2026-10-14"
-  },
-  {
    "title": "India festival boat capsize kills 13 children - Dhaka Tribune",
    "source": "Dhaka Tribune",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHFuU0FiUHpFVG9VUmMxd3Q2WlkyekROcDRPZmt2aU45c0prYlFYbDBfV2NCcDlsMzU3eFFwZkZFU0tMNUVxM052UG1RM3lIOGxkQjluN21GbktZVE5kbS1sRmxrZmtVLVhVdnpqS1M0SkUtRzZWRHcteVp2YkluQVJ1VGM1STlmY3lpZE5URWlhSkt1NzRxVGx3WWZIeVY2czNDdtIBpAFBVV95cUxNbHFuU0FiUHpFVG9VUmMxd3Q2WlkyekROcDRPZmt2aU45c0prYlFYbDBfV2NCcDlsMzU3eFFwZkZFU0tMNUVxM052UG1RM3lIOGxkQjluN21GbktZVE5kbS1sRmxrZmtVLVhVdnpqS1M0SkUtRzZWRHcteVp2YkluQVJ1VGM1STlmY3lpZE5URWlhSkt1NzRxVGx3WWZIeVY2czNDdg?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Tongi factory fire, Uttara garment workers' blockade trigger Dhaka-Mymensingh highway gridlock - The Business Standard",
-   "source": "The Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0lyUmd4ZU51RUhJNlgtSEZxM2VfQjBPaDZfb2FFcThiRERvYVc0TDNvNUxlcjFJRDJTbkp5MEhzMnBuRmpEUFVyNVpYR2J3NzI2c2lqNkY1bzZfeWJidF9XdUI0ajV3Z1JLQ3NDWm5WY1pLWDdndDQ1NmFDWXNaUTA3YlhZaDNKN0JVTGJJQjVNR05hekl6R0wwS1VQYXJVY1AwaWFFY2F6WTU5Q19NYUMySkdaY1U1Wmc?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Oil Prices Rise in Global Market Amid Saudi-Houthi Conflict - dhakamagazine.com",
-   "source": "dhakamagazine.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUZKczRDNWNidkZiVkdNeEpFSUdyWXMybE1GZDFNak9kSWtEaEQ5VjFJYWU5LUdoMkF1ZVdmM0xSQjlkSVNTZ3dKRGEzdGU4MEhBdTB2eDl4WFQwcjREN2ROSmc3dkFUeTdFdlpWeDZIdEVfbHpPQ2h3RG9lb0JSVWFVUFBiUVdSVFZyeV9oQTZtUE50azZzR1F4QnRmLUtZcFFjVU9NT2I?oc=5",
    "date": "2026-10-14"
   },
   {
@@ -86,24 +122,6 @@
    "date": "2026-10-14"
   },
   {
-   "title": "China releases map with new names for 28 areas in Ladakh, India strongly protests - dhakamagazine.com",
-   "source": "dhakamagazine.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWExvU2lBbVpvY0NkcWoxaFdnZXc0Z1NKZkpEdXVJdWFFdnlaMjQzZG9aOFZ6RkRfRjZoMUNnVFNfRmxQR3hRMm9LV3pUMGo4WDFfZkFWbTRHMnFWbHlSQU1HTHFJYkp5LS16ZjBwSFYwSUhyRnVzcldralAxM2ZsU1FvZnlIdTdkei1FVDgtNTVmU2JQMnNYanBTLXJneVZyUng2Vnk1U0dTZm4xRTFZWVNLZmFYbmV3WnJDa1NxWjAxUG5h?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Why is there severe traffic congestion on the Dhaka–Mymensingh highway? - The Business Standard",
-   "source": "The Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUV9QejZ1dnFlR3dpaTMxOVpBdHdWX2dsQ3FaTG1wODJEUml2LUhxUjJBWW9yVHd4TnpjWHZKbVp6c0haTFpXbXFlQW5xY2lDVjVMOVRhUF9wdFVRUDluNHJrdEVCa2ZWXzlMZzA2cV92N3J3eDRTV1prb0RtTXBoTzJ4UEFWblNfVHg2ZEtDR2JRdmpNSkxQS2ZqeGVwT1I3d0FGeUtaams0eGlhTnc?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Savar Autorickshaw Drivers Block Highways Over Garage Rent Hike - https://www.businesstimes-bd.com/",
-   "source": "https://www.businesstimes-bd.com/",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QRnpUQnhfRkdPMWFPcGhFLXNOZ1JhMW00RnJWUkdwY1E5V210UlZ5TDVIRGdFMVhiMGdOVUZyekk4SE9BdVo1OGM0eWVKNEt6Nm1IaXNXWUs4cGRRb3c?oc=5",
-   "date": "2026-10-14"
-  },
-  {
    "title": "Two of a family killed after being hit by a bus in Jamalpur - The Daily Star",
    "source": "The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGQ5aFFJRzUxcHBQNDJ3YnBKVHk3emJCTHJyNmtFNnVTX05HcmJwTUZEVVAxTG5CVHpFSkdEa3IwZmktQU9sNlRybnF4SFlIRXZhSHFTZlBmLV9lVzR1MDlncmVJWGJVRE1vZmVhcERsYVlBYWxObklLWUR5NU1TUFN6N005b0p4THRtNE1qMEl5UlJxVE5XOTZoanFCOG5aMTJMM3hzS1ZTUEx5R2FCRTktUQ?oc=5",
@@ -116,39 +134,21 @@
    "date": "2026-10-14"
   },
   {
-   "title": "Chawkbazar fire brought under control after 12 hours, four firefighters fall ill - The Business Standard",
-   "source": "The Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmZxRWg4czFzRVItbHkxcWdRNEc4U25zY19IUnYwaU9ITDUtWFZqSWJyWDRSZFBPY2UtWmZzNDJpQTdXQkU2MGtEeEltSWZYUWxzMzFkYUd6X3AxU2lFdUZ6Mzcyb3NxOGhNenFEeVZiUzM3bjJhcUxVYm8wYnFicXl5TWRlZFV1QzJGTlAxeXlJQ282TG10c2ZGT1Ryam45TmtPMzJ3eVl4Ny05VGRZRkwwMVdlSGdidEFpbWkwUQ?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "October 14, 2026 - bdnews24.com",
-   "source": "bdnews24.com",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiRWpKLXJXVUtpbkJZUTNVTk83Q1hQaEdPbWRscmpBbXZldFducjI0OUVIWUFZMFBmOVBmbkZyS0JZYzduaG4zSkFIVWtoUHBNV3lKRTVLS1Bqdw?oc=5",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Garment workers block Dhaka roads to demand Tk 30,000 minimum wage - bdnews24.com",
-   "source": "bdnews24.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RV0hXMURqR1djb2I1QzVUUWFJaGJxbWRtQTd5RHVHT19ZZFFTVDB3cGJzdW5ySUZ4ZnBmUEFSOGw5WDZ3Mk9YLXExMDBXVDc3MmlPRA?oc=5",
-   "date": "2026-10-14"
-  },
-  {
    "title": "Airbus eyes $2b in sourcing annually from India - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZpQVh5akhCODVvbGRPRTAxMTFib2RjTjVyV3ZMNUJ2VUJmaUVIN1VIczlzNlE5SEVpZUxKWEhZNHVQSHhTVUtMNUVBZU8wUExoNWF5TGZJYUJ2ZVBETm9LTWdkNlpNbHNGNE1QY3NsNXNrTzhNWm44T0RaaXU2cXNwZ1BMMGJjNWJfRHZZZw?oc=5",
    "date": "2026-10-14"
   },
   {
-   "title": "Garment workers lift Dhk-M'singh highway blockade after 3hrs - Daily Observer",
-   "source": "Daily Observer",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EVVJYTm1HajZxSWlIdEhTRUxUSloyLWhkX1ZzeHlwejZLMkhBRDVla09MWkduUk00SFZtSHA1d01VQ1d1ZUgzUTR3?oc=5",
+   "title": "Sultan Mansur shown arrested in attempted murder case - Banglanews24",
+   "source": "Banglanews24",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xOHdyaHYzYzg5VGlwWVNyWVVZa25yT0xhcl9aWjNGMjJlM01qSVNyUkZ3ZlNNRDhLLUFDSERrUHlNV01ZWEJOUkl1dGF0WXVDMHE4NV9ISUZVM29SWWRYSjVZWkhGOU44c1lz?oc=5",
    "date": "2026-10-14"
   },
   {
-   "title": "Garment workers block Dhaka airport road - Daily Observer",
-   "source": "Daily Observer",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DR0hpOGtySnVLUHdMUHVHYXh6c2xKX0tRRWZvdy1fcEE3ZjYycmxSMFRJSGw5WG1Bczc4eXN0NFlIT1hJZlBhbnJB?oc=5",
+   "title": "টঙ্গীতে ওষুধ কারখানায় আগুন, ঢাকা-ময়মনসিংহ মহাসড়কে তীব্র যানজট - Dhakatimes24",
+   "source": "Dhakatimes24",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16NFZ5cGgyaGVTaUJfUXB3OWVEdkQ4S0gzTFVTMnZEZ19TQlpWZXZ1LWNHQmwxcGZkT0t0eThRbk9KTXN4WmVwWFplNnNfaWFVd2N6QkJ0UXFKZw?oc=5",
    "date": "2026-10-14"
   }
  ],
