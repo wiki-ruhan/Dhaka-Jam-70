@@ -483,3 +483,5 @@ slot,shard,file,bytes,status,seconds,finished_at,error
         ""reason"": ""internalError""
   "
 20261015-1915,0,Dhaka_traffic_2026-10-15_19-15-01_BDT_z16.json,643,ok,1.6,2026-10-15T19:18:40.887360+06:00,
+20261015-1930,0,Dhaka_traffic_2026-10-15_19-30-01_BDT_z16.jpg,17217233,ok,9.3,2026-10-15T19:32:24.861698+06:00,
+20261015-1930,0,Dhaka_traffic_2026-10-15_19-30-01_BDT_z16.json,636,ok,2.1,2026-10-15T19:32:26.987615+06:00,
