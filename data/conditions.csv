@@ -403,3 +403,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261017-1930,2026-10-17T19:30:00+06:00,30.5,33.5,54,0.0,clear,6.2,338,NNW,16.2,218,Very Unhealthy,71.0,74.7,model
 20261017-1945,2026-10-17T19:45:00+06:00,30.4,33.5,55,0.0,clear,5.8,344,NNW,16.2,218,Very Unhealthy,71.0,74.7,model
 20261017-2000,2026-10-17T20:00:00+06:00,30.2,33.4,55,0.0,clear,5.5,347,NNW,16.2,216,Very Unhealthy,82.9,86.8,model
+20261017-2015,2026-10-17T20:15:00+06:00,30.1,33.3,56,0.0,clear,5.2,348,NNW,15.5,216,Very Unhealthy,82.9,86.8,model
