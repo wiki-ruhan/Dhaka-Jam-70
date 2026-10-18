@@ -500,3 +500,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261018-2245,2026-10-18T22:45:00+06:00,27.3,29.6,63,0.0,overcast,9.0,327,NNW,17.6,186,Unhealthy,92.2,101.0,model
 20261018-2300,2026-10-18T23:00:00+06:00,27.2,29.4,63,0.0,overcast,9.6,326,NW,19.1,185,Unhealthy,85.4,92.9,model
 20261018-2315,2026-10-18T23:15:00+06:00,27.0,29.2,64,0.0,overcast,10.0,326,NW,20.2,185,Unhealthy,85.4,92.9,model
+20261018-2330,2026-10-18T23:30:00+06:00,26.9,29.1,65,0.0,overcast,10.4,328,NNW,20.9,185,Unhealthy,85.4,92.9,model
