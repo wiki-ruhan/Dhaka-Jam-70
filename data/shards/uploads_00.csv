@@ -1453,3 +1453,13 @@ slot,shard,file,bytes,status,seconds,finished_at,error
 20261021-1415,0,Dhaka_traffic_2026-10-21_14-15-01_BDT_z16.json,630,ok,1.8,2026-10-21T14:17:26.003492+06:00,
 20261021-1430,0,Dhaka_traffic_2026-10-21_14-30-02_BDT_z16.jpg,17166520,ok,4.2,2026-10-21T14:32:26.907661+06:00,
 20261021-1430,0,Dhaka_traffic_2026-10-21_14-30-02_BDT_z16.json,630,ok,1.7,2026-10-21T14:32:28.602984+06:00,
+20261021-1445,0,Dhaka_traffic_2026-10-21_14-45-01_BDT_z16.jpg,17161886,error,142.0,2026-10-21T14:49:43.529416+06:00,"HTTP 410: {
+  ""error"": {
+    ""code"": 500,
+    ""message"": ""The operation was successful, but there was an error preparing the response."",
+    ""errors"": [
+      {
+        ""message"": ""The operation was s"
+20261021-1445,0,Dhaka_traffic_2026-10-21_14-45-01_BDT_z16.json,629,ok,1.9,2026-10-21T14:49:45.427037+06:00,
+20261021-1500,0,Dhaka_traffic_2026-10-21_15-00-02_BDT_z16.jpg,17178466,ok,4.5,2026-10-21T15:02:26.464891+06:00,
+20261021-1500,0,Dhaka_traffic_2026-10-21_15-00-02_BDT_z16.json,629,ok,1.8,2026-10-21T15:02:28.259818+06:00,
