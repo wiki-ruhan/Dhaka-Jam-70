@@ -1,71 +1,71 @@
 rank,date,junction_id,junction_en,junction_bn,corridor,mean_score_6_24,peak_score,peak_time,severe_hours,max_queue_red_m,max_queue_leg,max_queue_time,mean_queue_red_m,worst_approach,worst_approach_mean_queue_m,am_peak_time,am_peak_score,am_recovery_min,pm_peak_time,pm_peak_score,pm_recovery_min,spill_slots,spill_to_most,snapshots
-1,2026-10-21,31,Khilgaon,খিলগাঁও,Gulshan-Badda-Rampura,57.6,84.7,14:30,2.75,365.0,SE - unnamed road,17:45,23.0,SE - unnamed road,20.0,11:45,53.5,,18:45,82.4,,0,,64
-2,2026-10-21,10,Bashundhara Gate,বসুন্ধরা গেট (যমুনা ফিউচার পার্ক),North / Airport Road,33.7,61.0,00:15,1.25,330.0,W - Al Haj Abdus Sobhan Road,00:15,21.0,W - Al Haj Abdus Sobhan Road,21.0,11:15,35.8,15.0,18:00,54.2,,0,,64
-3,2026-10-21,59,Gulistan (Zero Point),গুলিস্তান (জিরো পয়েন্ট),Central,32.6,59.6,17:30,1.25,480.0,W - S. Kamruzzaman Sharani (to Chankharpul),16:00,52.0,W - S. Kamruzzaman Sharani (to Chankharpul),37.0,11:15,37.5,75.0,17:30,59.6,,0,,64
-4,2026-10-21,19,Karwan Bazar,কারওয়ান বাজার,Banani-Mohakhali-Tejgaon,21.9,32.2,17:30,1.0,330.0,S - Kazi Nazrul Islam Avenue (to Bangla Motor),01:00,81.0,S - Kazi Nazrul Islam Avenue (to Bangla Motor),69.0,08:15,23.9,15.0,17:30,32.2,15.0,0,,64
-5,2026-10-21,35,Mirpur-1,মিরপুর-১,Mirpur-Gabtoli-Aminbazar,17.2,55.3,18:30,1.0,415.0,SW - Mazar Road,17:15,35.0,SW - Mazar Road,35.0,11:45,26.1,15.0,18:30,55.3,,0,,64
-6,2026-10-21,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,25.9,34.9,18:00,0.5,330.0,"S - Dhaka-Mymensingh, Highway (to House Building (Uttara))",15:30,27.0,"S - Dhaka-Mymensingh, Highway (to House Building (Uttara))",22.0,09:00,34.2,15.0,18:00,34.9,15.0,0,,64
-7,2026-10-21,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,9.2,15.2,18:15,0.5,370.0,W - Jasimuddin Avenue,18:15,43.0,W - Jasimuddin Avenue,43.0,08:30,10.2,15.0,18:15,15.2,15.0,0,,64
-8,2026-10-21,8,Khilkhet,খিলক্ষেত,North / Airport Road,6.2,12.0,07:00,0.5,310.0,NE - unnamed road,17:15,102.0,NE - unnamed road,102.0,07:00,12.0,15.0,17:45,12.0,15.0,0,,64
-9,2026-10-21,11,Kakoli (Banani),কাকলী (বনানী),Banani-Mohakhali-Tejgaon,2.3,29.8,00:15,0.5,635.0,S - New Airport Road,00:15,38.0,S - New Airport Road,25.0,08:45,9.0,15.0,18:30,6.1,15.0,0,,64
-10,2026-10-21,13,Mohakhali,মহাখালী,Banani-Mohakhali-Tejgaon,26.0,52.7,15:45,0.25,0.0,SE - SE ray,00:00,0.0,E - E ray,0.0,11:15,31.3,15.0,15:45,52.7,15.0,0,,64
-11,2026-10-21,51,Nilkhet,নীলক্ষেত,Dhanmondi-Mohammadpur,18.2,40.3,18:15,0.25,450.0,N - Mirpur Road (to Science Lab),18:45,36.0,N - Mirpur Road (to Science Lab),23.0,11:45,28.1,15.0,18:15,40.3,,0,,64
-12,2026-10-21,17,Satrasta,সাতরাস্তা,Banani-Mohakhali-Tejgaon,1.9,22.1,16:30,0.25,305.0,N - Shahid Tazuddin Ahamed Avenue,00:45,20.0,N - Shahid Tazuddin Ahamed Avenue,19.0,11:45,9.8,15.0,16:30,22.1,15.0,0,,64
-13,2026-10-21,24,Shahjadpur,শাহজাদপুর,Gulshan-Badda-Rampura,21.3,38.5,18:15,0.0,45.0,N - N ray (to Notun Bazar),01:00,32.0,N - N ray (to Notun Bazar),32.0,08:30,28.7,15.0,18:15,38.5,,0,,64
-14,2026-10-21,68,Sayedabad,সায়েদাবাদ,South / Old Dhaka,20.7,47.1,00:15,0.0,160.0,SW - unnamed road,06:15,40.0,SW - unnamed road,21.0,07:30,39.4,30.0,16:30,30.1,15.0,0,,64
-15,2026-10-21,49,Science Lab,সায়েন্স ল্যাব,Dhanmondi-Mohammadpur,18.4,49.1,18:45,0.0,225.0,E - New Elephant Road (to Shahbag),13:00,82.0,E - New Elephant Road (to Shahbag),69.0,11:30,19.1,15.0,18:45,49.1,,0,,64
-16,2026-10-21,69,Jatrabari,যাত্রাবাড়ী,South / Old Dhaka,17.2,27.0,07:30,0.0,80.0,E - Jatrabari Mor,00:00,78.0,E - Jatrabari Mor,78.0,07:30,27.0,15.0,18:15,20.5,15.0,0,,64
-17,2026-10-21,21,Gulshan-1,গুলশান-১,Gulshan-Badda-Rampura,16.2,27.9,18:30,0.0,150.0,N - Gulshan Ave,16:15,55.0,N - Gulshan Ave,53.0,09:30,17.5,15.0,18:30,27.9,15.0,0,,64
-18,2026-10-21,39,Mirpur-12,মিরপুর-১২,Mirpur-Gabtoli-Aminbazar,15.9,38.4,18:45,0.0,90.0,N - N ray,10:30,11.0,N - N ray,11.0,11:15,15.2,15.0,18:45,38.4,,0,,64
-19,2026-10-21,22,Gulshan-2,গুলশান-২,Gulshan-Badda-Rampura,15.5,26.2,18:30,0.0,150.0,SW - Kamal Ataturk Avenue,17:45,72.0,SE - Gulshan Ave,70.0,11:15,16.9,15.0,18:30,26.2,15.0,0,,64
-20,2026-10-21,43,Shyamoli,শ্যামলী,Dhanmondi-Mohammadpur,15.3,22.7,10:30,0.0,235.0,NW - Mirpur Road,10:30,5.0,NW - Mirpur Road,4.0,10:30,22.7,15.0,18:45,19.0,,0,,64
-21,2026-10-21,65,Nayabazar,নয়াবাজার,South / Old Dhaka,15.1,48.0,00:15,0.0,105.0,W - Buriganga 2nd Bridge,00:15,32.0,W - Buriganga 2nd Bridge,30.0,10:30,23.4,15.0,18:00,32.6,15.0,0,,64
-22,2026-10-21,23,Notun Bazar,নতুন বাজার,Gulshan-Badda-Rampura,15.0,23.2,18:30,0.0,30.0,W - Felani Avenue (to Gulshan-2),08:15,10.0,W - Felani Avenue (to Gulshan-2),7.0,08:30,18.4,15.0,18:30,23.2,15.0,0,,64
-23,2026-10-21,20,Bangla Motor,বাংলামোটর,Banani-Mohakhali-Tejgaon,14.4,24.7,18:45,0.0,50.0,W - unnamed road,08:15,46.0,W - unnamed road,45.0,11:45,18.7,15.0,18:45,24.7,,0,,64
-24,2026-10-21,25,Uttar Badda,উত্তর বাড্ডা,Gulshan-Badda-Rampura,14.4,39.3,18:30,0.0,75.0,NW - NW ray,09:45,36.0,SW - SW ray,24.0,11:15,17.1,15.0,18:30,39.3,,0,,64
-25,2026-10-21,41,Shewrapara,শেওড়াপাড়া,Mirpur-Gabtoli-Aminbazar,14.2,31.0,18:45,0.0,210.0,N - Begum Rokeya Sharani (to Kazipara),17:00,35.0,S - Begum Rokeya Sharani,32.0,11:30,19.1,15.0,18:45,31.0,,0,,64
-26,2026-10-21,64,Chankharpul,চানখারপুল,South / Old Dhaka,13.8,36.6,17:00,0.0,250.0,W - Zahir Raihan Road,00:15,73.0,N - unnamed road,41.0,11:30,13.4,15.0,17:00,36.6,15.0,0,,64
-27,2026-10-21,30,Moghbazar,মগবাজার,Gulshan-Badda-Rampura,13.6,21.1,17:30,0.0,140.0,NE - Outer Circular Road (to Mouchak),18:45,9.0,NW - Shahid Tajuddin Ahmad Avenue (to Satrasta),5.0,11:45,15.9,15.0,17:30,21.1,15.0,0,,64
-28,2026-10-21,50,Jigatola,জিগাতলা,Dhanmondi-Mohammadpur,13.2,49.3,18:30,0.0,260.0,E - Dhanmondi 2 (to Science Lab),18:00,26.0,E - Dhanmondi 2 (to Science Lab),26.0,11:00,13.4,15.0,18:30,49.3,,0,,64
-29,2026-10-21,45,Mohammadpur Town Hall,মোহাম্মদপুর টাউন হল,Dhanmondi-Mohammadpur,13.1,47.6,18:30,0.0,0.0,S - S ray,00:00,0.0,E - E ray,0.0,08:00,23.0,15.0,18:30,47.6,,0,,64
-30,2026-10-21,60,Shapla Chattar (Motijheel),শাপলা চত্বর (মতিঝিল),Central,13.1,35.1,17:15,0.0,0.0,E - Dilkusha Road,00:00,0.0,E - Dilkusha Road,0.0,09:45,20.1,15.0,17:15,35.1,30.0,0,,64
-31,2026-10-21,37,Mirpur-10,মিরপুর-১০,Mirpur-Gabtoli-Aminbazar,12.6,26.9,18:00,0.0,100.0,S - Begum Rokeya Sharani (to Kazipara),11:45,39.0,S - Begum Rokeya Sharani (to Kazipara),34.0,11:45,17.2,15.0,18:00,26.9,15.0,0,,64
-32,2026-10-21,40,Kazipara,কাজীপাড়া,Mirpur-Gabtoli-Aminbazar,12.4,34.5,18:45,0.0,125.0,NW - Begum Rokeya Sharani (to Mirpur-10),12:00,46.0,NW - Begum Rokeya Sharani (to Mirpur-10),46.0,11:45,13.5,15.0,18:45,34.5,,0,,64
-33,2026-10-21,42,Agargaon,আগারগাঁও,Mirpur-Gabtoli-Aminbazar,11.4,26.2,18:45,0.0,100.0,N - Begum Rokeya Sharani,15:30,54.0,N - Begum Rokeya Sharani,43.0,08:30,14.2,15.0,18:45,26.2,,0,,64
-34,2026-10-21,48,Russell Square (Panthapath),রাসেল স্কয়ার (পান্থপথ),Dhanmondi-Mohammadpur,10.8,26.5,12:15,0.0,130.0,NW - Mirpur Road (to Dhanmondi 27),11:15,52.0,NW - Mirpur Road (to Dhanmondi 27),44.0,11:30,26.0,15.0,18:15,16.8,15.0,0,,64
-35,2026-10-21,28,Malibagh,মালিবাগ,Gulshan-Badda-Rampura,10.5,19.7,18:30,0.0,25.0,E - Atish Depankar Road,06:15,20.0,E - Atish Depankar Road,20.0,07:30,17.6,15.0,18:30,19.7,15.0,0,,64
-36,2026-10-21,53,Shahbag,শাহবাগ,Central,10.3,16.8,16:00,0.0,90.0,E - unnamed road,15:45,61.0,E - unnamed road,60.0,11:45,14.1,15.0,16:00,16.8,15.0,0,,64
-37,2026-10-21,44,Shia Masjid (Mohammadpur),শিয়া মসজিদ (মোহাম্মদপুর),Dhanmondi-Mohammadpur,9.8,22.0,17:30,0.0,0.0,S - Shahjahan Road,00:00,0.0,S - Shahjahan Road,0.0,07:15,10.8,15.0,17:30,22.0,15.0,0,,64
-38,2026-10-21,61,Kamalapur,কমলাপুর,Central,9.6,18.4,16:00,0.0,0.0,S - Atish Dipankar Road,00:00,0.0,N - Autish Dipankar Road,0.0,11:45,14.2,15.0,16:00,18.4,15.0,0,,64
-39,2026-10-21,63,Bakshibazar,বকশিবাজার মোড়,South / Old Dhaka,9.5,29.7,16:45,0.0,0.0,N - Orphanage Road,00:00,0.0,N - Orphanage Road,0.0,08:30,14.3,15.0,16:45,29.7,15.0,0,,64
-40,2026-10-21,4,Azampur,আজমপুর,North / Airport Road,9.4,25.8,18:30,0.0,0.0,SW - SW ray,00:00,0.0,E - E ray,0.0,11:15,10.1,15.0,18:30,25.8,15.0,0,,64
-41,2026-10-21,54,TSC (Dhaka University),টিএসসি (ঢাকা বিশ্ববিদ্যালয়),Central,9.4,24.2,18:45,0.0,0.0,E - E ray,00:00,0.0,E - E ray,0.0,09:15,9.7,15.0,18:45,24.2,,0,,64
-42,2026-10-21,18,Farmgate,ফার্মগেট,Banani-Mohakhali-Tejgaon,9.1,16.1,16:15,0.0,195.0,W - Khamar Bari Road,12:00,28.0,W - Khamar Bari Road,27.0,08:45,13.1,15.0,16:15,16.1,15.0,0,,64
-43,2026-10-21,55,Kakrail,কাকরাইল,Central,9.0,18.0,18:45,0.0,70.0,E - Naya Paltan Road,09:00,22.0,E - Naya Paltan Road,21.0,09:45,10.8,15.0,18:45,18.0,,0,,64
-44,2026-10-21,33,Gabtoli,গাবতলী,Mirpur-Gabtoli-Aminbazar,8.9,23.4,06:00,0.0,0.0,NE - NE ray,00:00,0.0,E - E ray,0.0,06:00,23.4,15.0,17:15,12.9,15.0,0,,64
-45,2026-10-21,38,Mirpur-11,মিরপুর-১১,Mirpur-Gabtoli-Aminbazar,8.9,23.9,17:45,0.0,15.0,S - Begum Rokeya Sharani (to Mirpur-10),00:00,12.0,S - Begum Rokeya Sharani (to Mirpur-10),12.0,11:45,12.4,15.0,17:45,23.9,15.0,0,,64
-46,2026-10-21,52,Azimpur,আজিমপুর,Dhanmondi-Mohammadpur,8.7,29.5,16:15,0.0,95.0,W - Azimpur Road,07:30,46.0,W - Azimpur Road,44.0,11:30,14.7,15.0,16:15,29.5,15.0,0,,64
-47,2026-10-21,6,Airport,বিমানবন্দর,North / Airport Road,8.6,14.0,18:00,0.0,5.0,SE - Airport Circle (to Kawla),05:00,0.0,SE - Airport Circle (to Kawla),0.0,10:00,12.3,15.0,18:00,14.0,15.0,0,,64
-48,2026-10-21,46,Asad Gate,আসাদগেট,Dhanmondi-Mohammadpur,8.6,21.4,18:30,0.0,40.0,E - Manik Mia Avenue,08:15,26.0,SE - Mirpur Road (to Russell Square (Panthapath)),23.0,07:30,12.0,15.0,18:30,21.4,15.0,0,,64
-49,2026-10-21,62,Ittefaq Mor,ইত্তেফাক মোড়,Central,8.5,43.3,17:15,0.0,100.0,SW - SW ray,17:15,3.0,SW - SW ray,2.0,09:45,12.6,15.0,17:15,43.3,15.0,0,,64
-50,2026-10-21,36,Mirpur-2,মিরপুর-২,Mirpur-Gabtoli-Aminbazar,8.4,27.9,18:45,0.0,110.0,SW - Mirpur 10 Road,18:00,29.0,SW - Mirpur 10 Road,29.0,11:30,11.2,15.0,18:45,27.9,,0,,64
-51,2026-10-21,47,Dhanmondi 27,ধানমন্ডি ২৭,Dhanmondi-Mohammadpur,8.4,21.7,18:30,0.0,50.0,E - Manik Mia Avenue,08:15,27.0,SE - Mirpur Road (to Russell Square (Panthapath)),19.0,07:30,11.7,15.0,18:30,21.7,15.0,0,,64
-52,2026-10-21,70,Postogola,পোস্তগোলা,South / Old Dhaka,8.0,14.6,11:45,0.0,110.0,NW - Haricharan Ray Road,00:00,110.0,NW - Haricharan Ray Road,110.0,11:45,14.6,15.0,17:45,10.4,15.0,0,,64
-53,2026-10-21,57,Paltan,পল্টন,Central,7.4,17.0,12:30,0.0,145.0,S - Sayed Nazrul Islam Sharani,11:15,32.0,S - Sayed Nazrul Islam Sharani,32.0,11:00,8.8,15.0,18:45,16.2,,0,,64
-54,2026-10-21,29,Mouchak,মৌচাক,Gulshan-Badda-Rampura,6.8,15.6,18:45,0.0,25.0,N - DIT Road (to Malibagh),00:15,15.0,N - DIT Road (to Malibagh),13.0,11:45,8.6,15.0,18:45,15.6,,0,,64
-55,2026-10-21,56,Shantinagar,শান্তিনগর,Central,6.6,19.5,18:45,0.0,70.0,W - New Baily Road,16:15,36.0,W - New Baily Road,33.0,11:45,12.8,15.0,18:45,19.5,,0,,64
-56,2026-10-21,16,Bijoy Sarani,বিজয় সরণি,Banani-Mohakhali-Tejgaon,6.4,11.9,18:30,0.0,165.0,S - Airport Road (to Farmgate),18:30,67.0,S - Airport Road (to Farmgate),66.0,09:30,7.2,15.0,18:30,11.9,15.0,0,,64
-57,2026-10-21,34,Technical,টেকনিক্যাল,Mirpur-Gabtoli-Aminbazar,6.4,10.5,17:00,0.0,55.0,NW - Mirpur Road (to Gabtoli),00:00,49.0,NW - Mirpur Road (to Gabtoli),47.0,11:15,8.5,15.0,17:00,10.5,15.0,0,,64
-58,2026-10-21,15,Nabisco (Tejgaon),নাবিস্কো (তেজগাঁও),Banani-Mohakhali-Tejgaon,5.9,11.0,05:45,0.0,0.0,N - Shahid Tajuddin Ahmad Avenue (to Amtoli),00:00,0.0,E - Bir Uttam Mir Shawkat Sarak,0.0,06:00,10.2,15.0,16:00,7.4,15.0,0,,64
-59,2026-10-21,26,Merul Badda,মেরুল বাড্ডা,Gulshan-Badda-Rampura,5.2,30.9,17:30,0.0,50.0,N - DIT Road (to Uttar Badda),16:15,8.0,N - DIT Road (to Uttar Badda),8.0,08:30,2.0,15.0,17:30,30.9,15.0,0,,64
-60,2026-10-21,27,Rampura Bridge,রামপুরা ব্রিজ,Gulshan-Badda-Rampura,4.6,18.4,17:30,0.0,130.0,SW - Banasree-Hatirjheel U Loop,17:30,6.0,SW - Banasree-Hatirjheel U Loop,5.0,08:45,6.5,15.0,17:30,18.4,15.0,0,,64
-61,2026-10-21,58,Fakirapool,ফকিরাপুল,Central,3.9,16.9,00:00,0.0,0.0,E - E ray,00:00,0.0,E - E ray,0.0,10:00,13.6,15.0,18:30,8.3,15.0,0,,64
-62,2026-10-21,12,Amtoli,আমতলী,Banani-Mohakhali-Tejgaon,3.0,8.0,18:15,0.0,145.0,SE - Shahid Tajuddin Ahmad Avenue (to Nabisco (Tejgaon)),18:15,60.0,NE - Shaheed Tazuddin Avenue,59.0,09:15,5.9,15.0,18:15,8.0,15.0,0,,64
-63,2026-10-21,7,Kawla,কাওলা,North / Airport Road,2.9,28.9,05:00,0.0,120.0,SE - New Airport Road,05:00,2.0,SE - New Airport Road,2.0,11:45,4.3,15.0,18:30,5.6,15.0,0,,64
-64,2026-10-21,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,2.1,7.8,12:15,0.0,0.0,SW - Dhaka-Mymensingh Highway (to Abdullahpur),00:00,0.0,N - Dhaka-Mymensingh Highway,0.0,11:15,2.9,15.0,15:15,6.8,15.0,0,,64
-65,2026-10-21,66,Babubazar Bridge,বাবুবাজার ব্রিজ,South / Old Dhaka,2.0,17.0,18:45,0.0,0.0,NE - Babu Bazar Bridge(Buriganga 2nd Bridge) (to Nayabazar),00:00,0.0,NE - Babu Bazar Bridge(Buriganga 2nd Bridge) (to Nayabazar),0.0,11:30,4.1,15.0,18:45,17.0,,0,,64
-66,2026-10-21,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,1.8,4.4,17:45,0.0,35.0,S - Dhaka-Mymensigh Highway (to Azampur),00:15,27.0,W - Sonargaon Janapath,22.0,09:15,3.0,15.0,17:45,4.4,15.0,0,,64
-67,2026-10-21,9,Kuril Bishwa Road,কুড়িল বিশ্বরোড,North / Airport Road,1.5,4.0,00:15,0.0,5.0,NE - unnamed road,18:45,0.0,NE - unnamed road,0.0,10:45,1.9,15.0,17:45,3.7,15.0,0,,64
-68,2026-10-21,14,Jahangir Gate,জাহাঙ্গীর গেট,Banani-Mohakhali-Tejgaon,0.1,3.0,17:45,0.0,0.0,NE - Bir Uttam Ziaur Rahman Road (to Amtoli),00:00,0.0,NE - Bir Uttam Ziaur Rahman Road (to Amtoli),0.0,08:00,2.6,15.0,17:45,3.0,15.0,0,,64
-69,2026-10-21,32,Aminbazar Bridge,আমিনবাজার ব্রিজ,Mirpur-Gabtoli-Aminbazar,0.0,2.1,00:45,0.0,0.0,E - Dhaka - Aricha Highway,00:00,0.0,E - Dhaka - Aricha Highway,0.0,06:00,0.0,15.0,15:00,0.0,15.0,0,,64
-70,2026-10-21,67,Sadarghat (Bahadur Shah Park),সদরঘাট (বাহাদুর শাহ পার্ক),South / Old Dhaka,,,,0.0,0.0,N - Johnson Road,00:00,0.0,N - Johnson Road,0.0,,,,,,,0,,64
+1,2026-10-21,31,Khilgaon,খিলগাঁও,Gulshan-Badda-Rampura,58.6,84.7,14:30,3.0,365.0,SE - unnamed road,17:45,23.0,SE - unnamed road,20.0,11:45,53.5,,18:45,82.4,,0,,65
+2,2026-10-21,10,Bashundhara Gate,বসুন্ধরা গেট (যমুনা ফিউচার পার্ক),North / Airport Road,34.1,61.0,00:15,1.5,330.0,W - Al Haj Abdus Sobhan Road,00:15,26.0,W - Al Haj Abdus Sobhan Road,26.0,11:15,35.8,15.0,18:00,54.2,,0,,65
+3,2026-10-21,59,Gulistan (Zero Point),গুলিস্তান (জিরো পয়েন্ট),Central,32.6,59.6,17:30,1.25,480.0,W - S. Kamruzzaman Sharani (to Chankharpul),16:00,52.0,W - S. Kamruzzaman Sharani (to Chankharpul),37.0,11:15,37.5,75.0,17:30,59.6,,0,,65
+4,2026-10-21,35,Mirpur-1,মিরপুর-১,Mirpur-Gabtoli-Aminbazar,17.9,55.3,18:30,1.25,485.0,SW - Mazar Road,19:00,42.0,SW - Mazar Road,42.0,11:45,26.1,15.0,18:30,55.3,,0,,65
+5,2026-10-21,19,Karwan Bazar,কারওয়ান বাজার,Banani-Mohakhali-Tejgaon,22.1,32.2,17:30,1.0,330.0,S - Kazi Nazrul Islam Avenue (to Bangla Motor),01:00,82.0,S - Kazi Nazrul Islam Avenue (to Bangla Motor),71.0,08:15,23.9,15.0,17:30,32.2,15.0,0,,65
+6,2026-10-21,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,26.0,34.9,18:00,0.5,330.0,"S - Dhaka-Mymensingh, Highway (to House Building (Uttara))",15:30,27.0,"S - Dhaka-Mymensingh, Highway (to House Building (Uttara))",22.0,09:00,34.2,15.0,18:00,34.9,15.0,0,,65
+7,2026-10-21,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,9.2,15.2,18:15,0.5,370.0,W - Jasimuddin Avenue,18:15,43.0,W - Jasimuddin Avenue,43.0,08:30,10.2,15.0,18:15,15.2,15.0,0,,65
+8,2026-10-21,8,Khilkhet,খিলক্ষেত,North / Airport Road,6.2,12.0,07:00,0.5,310.0,NE - unnamed road,17:15,104.0,NE - unnamed road,104.0,07:00,12.0,15.0,17:45,12.0,15.0,0,,65
+9,2026-10-21,11,Kakoli (Banani),কাকলী (বনানী),Banani-Mohakhali-Tejgaon,2.3,29.8,00:15,0.5,635.0,S - New Airport Road,00:15,39.0,S - New Airport Road,24.0,08:45,9.0,15.0,19:00,6.2,,0,,65
+10,2026-10-21,13,Mohakhali,মহাখালী,Banani-Mohakhali-Tejgaon,26.1,52.7,15:45,0.25,0.0,SE - SE ray,00:00,0.0,E - E ray,0.0,11:15,31.3,15.0,15:45,52.7,15.0,0,,65
+11,2026-10-21,51,Nilkhet,নীলক্ষেত,Dhanmondi-Mohammadpur,18.5,40.3,18:15,0.25,450.0,N - Mirpur Road (to Science Lab),18:45,36.0,N - Mirpur Road (to Science Lab),23.0,11:45,28.1,15.0,18:15,40.3,,0,,65
+12,2026-10-21,45,Mohammadpur Town Hall,মোহাম্মদপুর টাউন হল,Dhanmondi-Mohammadpur,13.8,50.6,19:00,0.25,0.0,S - S ray,00:00,0.0,E - E ray,0.0,08:00,23.0,15.0,19:00,50.6,,0,,65
+13,2026-10-21,17,Satrasta,সাতরাস্তা,Banani-Mohakhali-Tejgaon,1.9,22.1,16:30,0.25,305.0,N - Shahid Tazuddin Ahamed Avenue,00:45,20.0,N - Shahid Tazuddin Ahamed Avenue,18.0,11:45,9.8,15.0,16:30,22.1,15.0,0,,65
+14,2026-10-21,24,Shahjadpur,শাহজাদপুর,Gulshan-Badda-Rampura,21.6,38.5,18:15,0.0,45.0,N - N ray (to Notun Bazar),01:00,33.0,N - N ray (to Notun Bazar),33.0,08:30,28.7,15.0,18:15,38.5,,0,,65
+15,2026-10-21,68,Sayedabad,সায়েদাবাদ,South / Old Dhaka,20.7,47.1,00:15,0.0,160.0,SW - unnamed road,06:15,40.0,SW - unnamed road,21.0,07:30,39.4,30.0,16:30,30.1,15.0,0,,65
+16,2026-10-21,49,Science Lab,সায়েন্স ল্যাব,Dhanmondi-Mohammadpur,19.0,49.1,18:45,0.0,225.0,E - New Elephant Road (to Shahbag),13:00,84.0,E - New Elephant Road (to Shahbag),72.0,11:30,19.1,15.0,18:45,49.1,,0,,65
+17,2026-10-21,69,Jatrabari,যাত্রাবাড়ী,South / Old Dhaka,17.3,27.0,07:30,0.0,80.0,E - Jatrabari Mor,00:00,78.0,E - Jatrabari Mor,78.0,07:30,27.0,15.0,19:00,22.4,,0,,65
+18,2026-10-21,39,Mirpur-12,মিরপুর-১২,Mirpur-Gabtoli-Aminbazar,16.5,44.8,19:00,0.0,90.0,N - N ray,10:30,12.0,N - N ray,12.0,11:15,15.2,15.0,19:00,44.8,,0,,65
+19,2026-10-21,21,Gulshan-1,গুলশান-১,Gulshan-Badda-Rampura,16.3,27.9,18:30,0.0,150.0,N - Gulshan Ave,16:15,55.0,N - Gulshan Ave,54.0,09:30,17.5,15.0,18:30,27.9,15.0,0,,65
+20,2026-10-21,22,Gulshan-2,গুলশান-২,Gulshan-Badda-Rampura,15.7,26.2,18:30,0.0,150.0,SW - Kamal Ataturk Avenue,17:45,73.0,SE - Gulshan Ave,70.0,11:15,16.9,15.0,18:30,26.2,15.0,0,,65
+21,2026-10-21,43,Shyamoli,শ্যামলী,Dhanmondi-Mohammadpur,15.4,22.7,10:30,0.0,235.0,NW - Mirpur Road,10:30,5.0,NW - Mirpur Road,4.0,10:30,22.7,15.0,19:00,19.4,,0,,65
+22,2026-10-21,65,Nayabazar,নয়াবাজার,South / Old Dhaka,15.2,48.0,00:15,0.0,105.0,W - Buriganga 2nd Bridge,00:15,31.0,W - Buriganga 2nd Bridge,30.0,10:30,23.4,15.0,18:00,32.6,15.0,0,,65
+23,2026-10-21,23,Notun Bazar,নতুন বাজার,Gulshan-Badda-Rampura,15.0,23.2,18:30,0.0,30.0,W - Felani Avenue (to Gulshan-2),08:15,10.0,W - Felani Avenue (to Gulshan-2),7.0,08:30,18.4,15.0,18:30,23.2,15.0,0,,65
+24,2026-10-21,25,Uttar Badda,উত্তর বাড্ডা,Gulshan-Badda-Rampura,14.7,39.3,18:30,0.0,75.0,NW - NW ray,09:45,37.0,SW - SW ray,24.0,11:15,17.1,15.0,18:30,39.3,30.0,0,,65
+25,2026-10-21,20,Bangla Motor,বাংলামোটর,Banani-Mohakhali-Tejgaon,14.5,24.7,18:45,0.0,50.0,W - unnamed road,08:15,46.0,W - unnamed road,45.0,11:45,18.7,15.0,18:45,24.7,15.0,0,,65
+26,2026-10-21,41,Shewrapara,শেওড়াপাড়া,Mirpur-Gabtoli-Aminbazar,14.4,31.0,18:45,0.0,210.0,N - Begum Rokeya Sharani (to Kazipara),17:00,35.0,S - Begum Rokeya Sharani,33.0,11:30,19.1,15.0,18:45,31.0,15.0,0,,65
+27,2026-10-21,50,Jigatola,জিগাতলা,Dhanmondi-Mohammadpur,13.9,49.3,18:30,0.0,260.0,E - Dhanmondi 2 (to Science Lab),18:00,28.0,E - Dhanmondi 2 (to Science Lab),28.0,11:00,13.4,15.0,18:30,49.3,,0,,65
+28,2026-10-21,64,Chankharpul,চানখারপুল,South / Old Dhaka,13.9,36.6,17:00,0.0,250.0,W - Zahir Raihan Road,00:15,73.0,N - unnamed road,42.0,11:30,13.4,15.0,17:00,36.6,15.0,0,,65
+29,2026-10-21,30,Moghbazar,মগবাজার,Gulshan-Badda-Rampura,13.7,21.1,17:30,0.0,140.0,NE - Outer Circular Road (to Mouchak),18:45,8.0,NW - Shahid Tajuddin Ahmad Avenue (to Satrasta),5.0,11:45,15.9,15.0,17:30,21.1,15.0,0,,65
+30,2026-10-21,60,Shapla Chattar (Motijheel),শাপলা চত্বর (মতিঝিল),Central,13.0,35.1,17:15,0.0,0.0,E - Dilkusha Road,00:00,0.0,E - Dilkusha Road,0.0,09:45,20.1,15.0,17:15,35.1,30.0,0,,65
+31,2026-10-21,37,Mirpur-10,মিরপুর-১০,Mirpur-Gabtoli-Aminbazar,12.9,26.9,18:00,0.0,100.0,S - Begum Rokeya Sharani (to Kazipara),11:45,39.0,S - Begum Rokeya Sharani (to Kazipara),34.0,11:45,17.2,15.0,18:00,26.9,15.0,0,,65
+32,2026-10-21,40,Kazipara,কাজীপাড়া,Mirpur-Gabtoli-Aminbazar,12.7,34.5,18:45,0.0,125.0,NW - Begum Rokeya Sharani (to Mirpur-10),12:00,48.0,NW - Begum Rokeya Sharani (to Mirpur-10),47.0,11:45,13.5,15.0,18:45,34.5,15.0,0,,65
+33,2026-10-21,42,Agargaon,আগারগাঁও,Mirpur-Gabtoli-Aminbazar,11.6,26.2,18:45,0.0,100.0,N - Begum Rokeya Sharani,15:30,55.0,N - Begum Rokeya Sharani,44.0,08:30,14.2,15.0,18:45,26.2,15.0,0,,65
+34,2026-10-21,28,Malibagh,মালিবাগ,Gulshan-Badda-Rampura,10.8,22.7,19:00,0.0,25.0,E - Atish Depankar Road,06:15,20.0,E - Atish Depankar Road,20.0,07:30,17.6,15.0,19:00,22.7,,0,,65
+35,2026-10-21,48,Russell Square (Panthapath),রাসেল স্কয়ার (পান্থপথ),Dhanmondi-Mohammadpur,10.8,26.5,12:15,0.0,130.0,NW - Mirpur Road (to Dhanmondi 27),11:15,52.0,NW - Mirpur Road (to Dhanmondi 27),45.0,11:30,26.0,15.0,18:15,16.8,15.0,0,,65
+36,2026-10-21,53,Shahbag,শাহবাগ,Central,10.3,16.8,16:00,0.0,90.0,E - unnamed road,15:45,61.0,E - unnamed road,60.0,11:45,14.1,15.0,16:00,16.8,15.0,0,,65
+37,2026-10-21,44,Shia Masjid (Mohammadpur),শিয়া মসজিদ (মোহাম্মদপুর),Dhanmondi-Mohammadpur,10.0,22.0,17:30,0.0,0.0,S - Shahjahan Road,00:00,0.0,S - Shahjahan Road,0.0,07:15,10.8,15.0,17:30,22.0,15.0,0,,65
+38,2026-10-21,61,Kamalapur,কমলাপুর,Central,9.9,24.9,19:00,0.0,95.0,N - Autish Dipankar Road,19:00,1.0,N - Autish Dipankar Road,1.0,11:45,14.2,15.0,19:00,24.9,,0,,65
+39,2026-10-21,4,Azampur,আজমপুর,North / Airport Road,9.7,25.8,18:30,0.0,0.0,SW - SW ray,00:00,0.0,E - E ray,0.0,11:15,10.1,15.0,18:30,25.8,15.0,0,,65
+40,2026-10-21,54,TSC (Dhaka University),টিএসসি (ঢাকা বিশ্ববিদ্যালয়),Central,9.6,24.2,18:45,0.0,0.0,E - E ray,00:00,0.0,E - E ray,0.0,09:15,9.7,15.0,18:45,24.2,15.0,0,,65
+41,2026-10-21,63,Bakshibazar,বকশিবাজার মোড়,South / Old Dhaka,9.5,29.7,16:45,0.0,0.0,N - Orphanage Road,00:00,0.0,N - Orphanage Road,0.0,08:30,14.3,15.0,16:45,29.7,15.0,0,,65
+42,2026-10-21,18,Farmgate,ফার্মগেট,Banani-Mohakhali-Tejgaon,9.2,16.1,16:15,0.0,195.0,W - Khamar Bari Road,12:00,30.0,W - Khamar Bari Road,29.0,08:45,13.1,15.0,16:15,16.1,15.0,0,,65
+43,2026-10-21,38,Mirpur-11,মিরপুর-১১,Mirpur-Gabtoli-Aminbazar,9.2,24.8,19:00,0.0,15.0,S - Begum Rokeya Sharani (to Mirpur-10),00:00,12.0,S - Begum Rokeya Sharani (to Mirpur-10),12.0,11:45,12.4,15.0,19:00,24.8,,0,,65
+44,2026-10-21,55,Kakrail,কাকরাইল,Central,9.2,18.0,18:45,0.0,70.0,E - Naya Paltan Road,09:00,23.0,E - Naya Paltan Road,22.0,09:45,10.8,15.0,18:45,18.0,15.0,0,,65
+45,2026-10-21,33,Gabtoli,গাবতলী,Mirpur-Gabtoli-Aminbazar,9.0,23.4,06:00,0.0,0.0,NE - NE ray,00:00,0.0,E - E ray,0.0,06:00,23.4,15.0,17:15,12.9,15.0,0,,65
+46,2026-10-21,6,Airport,বিমানবন্দর,North / Airport Road,8.7,14.4,19:00,0.0,5.0,SE - Airport Circle (to Kawla),05:00,0.0,SE - Airport Circle (to Kawla),0.0,10:00,12.3,15.0,19:00,14.4,,0,,65
+47,2026-10-21,36,Mirpur-2,মিরপুর-২,Mirpur-Gabtoli-Aminbazar,8.7,27.9,18:45,0.0,110.0,SW - Mirpur 10 Road,18:00,29.0,SW - Mirpur 10 Road,29.0,11:30,11.2,15.0,18:45,27.9,15.0,0,,65
+48,2026-10-21,46,Asad Gate,আসাদগেট,Dhanmondi-Mohammadpur,8.7,21.4,18:30,0.0,40.0,E - Manik Mia Avenue,08:15,26.0,SE - Mirpur Road (to Russell Square (Panthapath)),23.0,07:30,12.0,15.0,18:30,21.4,15.0,0,,65
+49,2026-10-21,52,Azimpur,আজিমপুর,Dhanmondi-Mohammadpur,8.7,29.5,16:15,0.0,95.0,W - Azimpur Road,07:30,46.0,W - Azimpur Road,44.0,11:30,14.7,15.0,16:15,29.5,15.0,0,,65
+50,2026-10-21,47,Dhanmondi 27,ধানমন্ডি ২৭,Dhanmondi-Mohammadpur,8.6,21.7,18:30,0.0,50.0,E - Manik Mia Avenue,08:15,27.0,SE - Mirpur Road (to Russell Square (Panthapath)),19.0,07:30,11.7,15.0,18:30,21.7,15.0,0,,65
+51,2026-10-21,62,Ittefaq Mor,ইত্তেফাক মোড়,Central,8.5,43.3,17:15,0.0,100.0,SW - SW ray,17:15,3.0,SW - SW ray,2.0,09:45,12.6,15.0,17:15,43.3,15.0,0,,65
+52,2026-10-21,70,Postogola,পোস্তগোলা,South / Old Dhaka,8.0,14.6,11:45,0.0,110.0,NW - Haricharan Ray Road,00:00,110.0,NW - Haricharan Ray Road,110.0,11:45,14.6,15.0,17:45,10.4,15.0,0,,65
+53,2026-10-21,57,Paltan,পল্টন,Central,7.5,17.0,12:30,0.0,145.0,S - Sayed Nazrul Islam Sharani,11:15,32.0,S - Sayed Nazrul Islam Sharani,32.0,11:00,8.8,15.0,18:45,16.2,15.0,0,,65
+54,2026-10-21,29,Mouchak,মৌচাক,Gulshan-Badda-Rampura,7.0,15.6,18:45,0.0,25.0,N - DIT Road (to Malibagh),00:15,15.0,N - DIT Road (to Malibagh),13.0,11:45,8.6,15.0,18:45,15.6,15.0,0,,65
+55,2026-10-21,56,Shantinagar,শান্তিনগর,Central,6.9,21.5,19:00,0.0,70.0,W - New Baily Road,16:15,36.0,W - New Baily Road,34.0,11:45,12.8,15.0,19:00,21.5,,0,,65
+56,2026-10-21,16,Bijoy Sarani,বিজয় সরণি,Banani-Mohakhali-Tejgaon,6.5,13.3,19:00,0.0,265.0,S - Airport Road (to Farmgate),19:00,70.0,S - Airport Road (to Farmgate),70.0,09:30,7.2,15.0,19:00,13.3,,0,,65
+57,2026-10-21,34,Technical,টেকনিক্যাল,Mirpur-Gabtoli-Aminbazar,6.4,10.5,17:00,0.0,55.0,NW - Mirpur Road (to Gabtoli),00:00,50.0,NW - Mirpur Road (to Gabtoli),47.0,11:15,8.5,15.0,17:00,10.5,15.0,0,,65
+58,2026-10-21,15,Nabisco (Tejgaon),নাবিস্কো (তেজগাঁও),Banani-Mohakhali-Tejgaon,5.9,11.0,05:45,0.0,0.0,N - Shahid Tajuddin Ahmad Avenue (to Amtoli),00:00,0.0,E - Bir Uttam Mir Shawkat Sarak,0.0,06:00,10.2,15.0,16:00,7.4,15.0,0,,65
+59,2026-10-21,26,Merul Badda,মেরুল বাড্ডা,Gulshan-Badda-Rampura,5.3,30.9,17:30,0.0,50.0,N - DIT Road (to Uttar Badda),16:15,8.0,N - DIT Road (to Uttar Badda),8.0,08:30,2.0,15.0,17:30,30.9,15.0,0,,65
+60,2026-10-21,27,Rampura Bridge,রামপুরা ব্রিজ,Gulshan-Badda-Rampura,4.8,18.4,17:30,0.0,130.0,SW - Banasree-Hatirjheel U Loop,17:30,6.0,SW - Banasree-Hatirjheel U Loop,6.0,08:45,6.5,15.0,17:30,18.4,15.0,0,,65
+61,2026-10-21,58,Fakirapool,ফকিরাপুল,Central,3.9,16.9,00:00,0.0,0.0,E - E ray,00:00,0.0,E - E ray,0.0,10:00,13.6,15.0,18:30,8.3,15.0,0,,65
+62,2026-10-21,12,Amtoli,আমতলী,Banani-Mohakhali-Tejgaon,3.0,8.0,18:15,0.0,145.0,SE - Shahid Tajuddin Ahmad Avenue (to Nabisco (Tejgaon)),18:15,61.0,NE - Shaheed Tazuddin Avenue,60.0,09:15,5.9,15.0,18:15,8.0,15.0,0,,65
+63,2026-10-21,7,Kawla,কাওলা,North / Airport Road,2.9,28.9,05:00,0.0,120.0,SE - New Airport Road,05:00,2.0,SE - New Airport Road,2.0,11:45,4.3,15.0,18:30,5.6,15.0,0,,65
+64,2026-10-21,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,2.1,7.8,12:15,0.0,0.0,SW - Dhaka-Mymensingh Highway (to Abdullahpur),00:00,0.0,N - Dhaka-Mymensingh Highway,0.0,11:15,2.9,15.0,15:15,6.8,15.0,0,,65
+65,2026-10-21,66,Babubazar Bridge,বাবুবাজার ব্রিজ,South / Old Dhaka,2.1,17.0,18:45,0.0,0.0,NE - Babu Bazar Bridge(Buriganga 2nd Bridge) (to Nayabazar),00:00,0.0,NE - Babu Bazar Bridge(Buriganga 2nd Bridge) (to Nayabazar),0.0,11:30,4.1,15.0,18:45,17.0,15.0,0,,65
+66,2026-10-21,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,1.8,4.4,17:45,0.0,35.0,S - Dhaka-Mymensigh Highway (to Azampur),00:15,27.0,W - Sonargaon Janapath,22.0,09:15,3.0,15.0,17:45,4.4,15.0,0,,65
+67,2026-10-21,9,Kuril Bishwa Road,কুড়িল বিশ্বরোড,North / Airport Road,1.5,4.0,00:15,0.0,5.0,NE - unnamed road,18:45,0.0,NE - unnamed road,0.0,10:45,1.9,15.0,17:45,3.7,15.0,0,,65
+68,2026-10-21,14,Jahangir Gate,জাহাঙ্গীর গেট,Banani-Mohakhali-Tejgaon,0.1,3.0,17:45,0.0,0.0,NE - Bir Uttam Ziaur Rahman Road (to Amtoli),00:00,0.0,NE - Bir Uttam Ziaur Rahman Road (to Amtoli),0.0,08:00,2.6,15.0,17:45,3.0,15.0,0,,65
+69,2026-10-21,32,Aminbazar Bridge,আমিনবাজার ব্রিজ,Mirpur-Gabtoli-Aminbazar,0.0,2.1,00:45,0.0,0.0,E - Dhaka - Aricha Highway,00:00,0.0,E - Dhaka - Aricha Highway,0.0,06:00,0.0,15.0,15:00,0.0,15.0,0,,65
+70,2026-10-21,67,Sadarghat (Bahadur Shah Park),সদরঘাট (বাহাদুর শাহ পার্ক),South / Old Dhaka,,,,0.0,0.0,N - Johnson Road,00:00,0.0,N - Johnson Road,0.0,,,,,,,0,,65
