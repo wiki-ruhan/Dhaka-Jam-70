@@ -868,3 +868,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261023-0945,2026-10-23T09:45:00+06:00,31.0,33.9,51,0.0,clear,7.4,359,N,24.1,140,Unhealthy for Sensitive Groups,35.9,38.1,model
 20261023-1000,2026-10-23T10:00:00+06:00,31.3,34.4,50,0.0,clear,7.0,357,N,24.1,139,Unhealthy for Sensitive Groups,32.1,34.9,model
 20261023-1015,2026-10-23T10:15:00+06:00,31.6,34.9,49,0.0,clear,6.7,355,N,24.1,139,Unhealthy for Sensitive Groups,32.1,34.9,model
+20261023-1030,2026-10-23T10:30:00+06:00,31.9,35.4,48,0.0,clear,6.4,352,N,23.8,139,Unhealthy for Sensitive Groups,32.1,34.9,model
