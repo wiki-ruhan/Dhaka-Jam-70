@@ -1,10 +1,16 @@
 {
- "fetched_at": "2026-10-25T20:47:21.263075+06:00",
+ "fetched_at": "2026-10-25T23:47:21.867894+06:00",
  "headlines": [
   {
    "title": "Qatar Airways returns to Philadelphia with daily flights - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVYyVkljLUNCVnN3NlE4OC1hOV9Nbkt1bmxFVXN4cW5ESHp0enpJQnNhcVBCenAwaEJvRVZENGdnOS1xcWRXZWFwc01faDBmbEZQT1l2QnVKM1pxSjAxYS0zdVpSelZqaHJnaDlZSlhNdkxwMXhfemFtcjB2Q2RWUmhLNG5BMzNkODFmMjY4ZWlyZnRoaHplWWRoTFA?oc=5",
+   "date": "2026-10-24"
+  },
+  {
+   "title": "Three killed, 16 injured in Munshiganj road accident - Bangladesh Sangbad Sangstha (BSS)",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybHZacGIxaWJFZ3Y1ZXQ5ekxtWUs5aWdjVmtIamxNNnVBUExnMXpDeWhHTmFLWmFFVzdObTJ6Z2p6X0xKZmh6ZUYtZndjQUhR?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -38,12 +44,6 @@
    "date": "2026-10-24"
   },
   {
-   "title": "Three killed, 16 injured in Munshiganj road accident - Bangladesh Sangbad Sangstha (BSS)",
-   "source": "Bangladesh Sangbad Sangstha (BSS)",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybHZacGIxaWJFZ3Y1ZXQ5ekxtWUs5aWdjVmtIamxNNnVBUExnMXpDeWhHTmFLWmFFVzdObTJ6Z2p6X0xKZmh6ZUYtZndjQUhR?oc=5",
-   "date": "2026-10-24"
-  },
-  {
    "title": "Eight killed in separate road accidents in 3 districts - Bangladesh Sangbad Sangstha (BSS)",
    "source": "Bangladesh Sangbad Sangstha (BSS)",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lUzNKR0tZRnFiNnFzZjdZWi00Q1VDb21JdUtfZjJZaU5zanFzQ04xWERYQmI5X0VHOGZUM01zRV9MYmpFZEJlYXByN1E0RTVN?oc=5",
@@ -74,9 +74,9 @@
    "date": "2026-10-24"
   },
   {
-   "title": "Biman to double Dhaka-Narita flights from October 29 - The Bangladesh Monitor",
+   "title": "Saudia unveils new “Saudi, Welcome to Arabia” special livery to boost Saudi Arabian tourism - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3ZmWFBtZWVqX0FZeXBYRV8wcUZZalpnOEpBLVRSaFNHa2dEN2NObk04dUxRbmtxakpTbHZXNW44WXlVa2VBNFU3TzU2SkJXOFVlMlQyR0JyUUNWYWlUSy12N3FKM2RrR3c1S1NiUXc4RXB5SmQ3ZVlMd05OcGxPUDBXU1ZtSkY3eFJQYldnVUxGcHk2d2k4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWdBUWs2U3d4Mmx3aUFCZ2RjUDQ0R2JnSnVCX2hTZnd6TTQ2RXdDcE9DLUpQVTJwN0lJN25DektjWUppSjBUc2VRSjE2ZVAtQ1RjeTZDNXpqWXM3LUkxRkhraWFVeS1ZZmNBRkh6ZkJwQk9EMldraGVSQjlnT2IwWUJESGhiUXlEa080TmdFbVQxY1ZvOEY1SWxkcmdpLWNqdHNxb0U5RUhJTjB3emdLbnhrLWFoZw?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -95,6 +95,12 @@
    "title": "Bangladeshi passport ranks seventh weakest globally in 2026 - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDhqVzVDaXhOdFo3MjFXVG5pV1V3WTRHd0R1LUhTUl85SmNfdjR4WXp2NUR4NlVCVEdyWHJOQ1BzOWdtTUV6RVhvTFJ3ZWRvcDlTaXhEelhRajNBUnJRM0xoWEVpS1hRS3lrVGdpNjFLY3YyUzg2ZVhhM3N5VDA0aXpYZGJkbFN6Y3Jkc1BTX1RHcV9aTVM5aWVfVWFkVlhp?oc=5",
+   "date": "2026-10-24"
+  },
+  {
+   "title": "Biman to double Dhaka-Narita flights from October 29 - The Bangladesh Monitor",
+   "source": "The Bangladesh Monitor",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3ZmWFBtZWVqX0FZeXBYRV8wcUZZalpnOEpBLVRSaFNHa2dEN2NObk04dUxRbmtxakpTbHZXNW44WXlVa2VBNFU3TzU2SkJXOFVlMlQyR0JyUUNWYWlUSy12N3FKM2RrR3c1S1NiUXc4RXB5SmQ3ZVlMd05OcGxPUDBXU1ZtSkY3eFJQYldnVUxGcHk2d2k4?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -131,12 +137,6 @@
    "title": "MA Kalam Talukdar promoted to GM at HANSA - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdjFsTmd3S1lwOWhTTFZTakxCUFYzYkJLUEZVbzRaUDNITHdPZXdJWEtPaENlcTRhRVNTalBINW9ZOU1xYlljVTNYeTI5QTdhMk1IVzBDcmdBOVlzTDRrSjgxM1RNa2F3QkY1ejg4TnRMcllYTllRMGpGZndjT0N6MkpMNA?oc=5",
-   "date": "2026-10-24"
-  },
-  {
-   "title": "UAE visa for Bangladeshis to resume in February - The Bangladesh Monitor",
-   "source": "The Bangladesh Monitor",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzY3WHd3N3h1dGNWRW8wVVFZZm1SbmhxVzhzLWtKSFdGMFNUMUU4dWxYX1lHblptQ09JbF9pMk1raHFsLTNUUDZnbG9GNzBCZHhGenZZTGc0X3JhMWNkWDBuN1JwOTZpR2dJNWJSanFPMUtwRVFsV2RIaENOOXZlWWtyR3VKN0RBZUgw?oc=5",
    "date": "2026-10-24"
   },
   {
