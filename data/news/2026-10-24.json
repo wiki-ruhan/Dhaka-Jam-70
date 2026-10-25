@@ -1,16 +1,10 @@
 {
- "fetched_at": "2026-10-25T11:17:20.779876+06:00",
+ "fetched_at": "2026-10-25T14:17:20.858342+06:00",
  "headlines": [
   {
    "title": "Qatar Airways returns to Philadelphia with daily flights - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVYyVkljLUNCVnN3NlE4OC1hOV9Nbkt1bmxFVXN4cW5ESHp0enpJQnNhcVBCenAwaEJvRVZENGdnOS1xcWRXZWFwc01faDBmbEZQT1l2QnVKM1pxSjAxYS0zdVpSelZqaHJnaDlZSlhNdkxwMXhfemFtcjB2Q2RWUmhLNG5BMzNkODFmMjY4ZWlyZnRoaHplWWRoTFA?oc=5",
-   "date": "2026-10-24"
-  },
-  {
-   "title": "DSCC to file cases, seize goods from illegal roadside shops - Bangladesh Sangbad Sangstha (BSS)",
-   "source": "Bangladesh Sangbad Sangstha (BSS)",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZQkVXNHphYUd0eVhMVHBrTUFqRm5qS3FISUtJSm1WY0NMMUJPOFpLX1FHczVIaE81WERGSW1lQlg0aGZCMnZtWUtSYURKUQ?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -29,6 +23,12 @@
    "title": "Two killed, 15 injured in bus-truck collision in Brahmanbaria - Dhaka Tribune",
    "source": "Dhaka Tribune",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdm1PRzFRZ0JlRHoxMFROSXRuWE1obHk4T1pBaDI0QmhkeXdLblFiMnlPWW0wZkhhRlZJTFVvaUpjWjc2QTEtd0FOVXZCUTAzQTVUVXVYQUhMNUxBVUVLYUVhMlNneExHLU1RWW91aGEwUUVJSFp2eFBPTGs2elJ6MmtIUVIyTm1tU0RsRjhMMTJESVd3QnlGdzlTcTZUMHZBakJGalpiaE_SAagBQVVfeXFMTXZtT0cxUWdCZUR6MTBUTkl0blhNaGx5OE9aQWgyNEJoZHl3S25RYjJ5T1ltMGZIYUZWSUxVb2lKY1o3NkExLXdBTlV2QlEwM0E1VFV1WEFITDVMQVVFS2FFYTJTZ3hMRy1NUVlvdWhhMFFFSUhadnhQT0xrNnpSejJrSFFSMk5tbVNEbEY4TDEyRElXd0J5Rnc5U3E2VDB2QWpCRmpaYmhP?oc=5",
+   "date": "2026-10-24"
+  },
+  {
+   "title": "DSCC to file cases, seize goods from illegal roadside shops - Bangladesh Sangbad Sangstha (BSS)",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZQkVXNHphYUd0eVhMVHBrTUFqRm5qS3FISUtJSm1WY0NMMUJPOFpLX1FHczVIaE81WERGSW1lQlg0aGZCMnZtWUtSYURKUQ?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -62,6 +62,12 @@
    "date": "2026-10-24"
   },
   {
+   "title": "Cathay Pacific to buy LAX Metro station naming rights in USD 10M deal - The Bangladesh Monitor",
+   "source": "The Bangladesh Monitor",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmVxUnZydzBoNkdvU0pxV2JRSGppNm5uWUhCamFCb21xaWh3WE8xN243eWwybjhqNjNLTXc4QkFHdGlpY3Z0X2pHQXVpU2g1VFRCUEd0aWdmeFZpa3VTTl9BTzNTUUxKRzRYSV9PT250b2NjQ1R1Z1ZxUnM0Q1cxRUNyUlpwRkJlSjJQeWtTbFU0MTZQeWlndVozUUhXeUtpbXQ0dl9MVzI?oc=5",
+   "date": "2026-10-24"
+  },
+  {
    "title": "Hong Kong airport logs double-digit passenger growth in September - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR2lLdFloTEItZnBPVG4xYkh1VllQREgzN0tzTUdXZm9NZnQzRExrX1lWaFBwMEJrQnV4OW1odnFFb0RESmVoWFlXV1JKUXNGU0g3QlJSMmFVdkpVelFhR2MwU3dCMFc3ZHMtZGk3a2lpcDJKNXBIaEZtWUVlNmF1S2dTUVJrVVRQUkRqRU1nVTh1U2k1aGhhOW9uN3VhQVBqYWhRY05Dbjg?oc=5",
@@ -71,12 +77,6 @@
    "title": "Protesters demand justice for Maksuda Begum’s murder in Narayanganj - www.daily-sun.com",
    "source": "www.daily-sun.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVEteFN0NElSbV9vSVR3N2psQjRfX3luUDFHUGh2eFFJN1dleHByaTBrZXduc19LaG9TNHNRTjdscFd1cXl1Rl90ZXRMeE5Zb3VzTWl2OC1xb2tLT2V1dTE5VDljdzhFMDN1S0IxWG10WG92bVA0LUhOOU45enY2ZkM3aDdPYllmOVowOGw0NmQ0ek5TdjI5Mm9FSElkTHdrczRHbmRMNE5Jd3VBU0xxZVk1dXhwLTU5RUNLb093?oc=5",
-   "date": "2026-10-24"
-  },
-  {
-   "title": "Saudia unveils new “Saudi, Welcome to Arabia” special livery to boost Saudi Arabian tourism - The Bangladesh Monitor",
-   "source": "The Bangladesh Monitor",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWdBUWs2U3d4Mmx3aUFCZ2RjUDQ0R2JnSnVCX2hTZnd6TTQ2RXdDcE9DLUpQVTJwN0lJN25DektjWUppSjBUc2VRSjE2ZVAtQ1RjeTZDNXpqWXM3LUkxRkhraWFVeS1ZZmNBRkh6ZkJwQk9EMldraGVSQjlnT2IwWUJESGhiUXlEa080TmdFbVQxY1ZvOEY1SWxkcmdpLWNqdHNxb0U5RUhJTjB3emdLbnhrLWFoZw?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -98,27 +98,15 @@
    "date": "2026-10-24"
   },
   {
-   "title": "RCB signs shirt sponsorship deal with Qatar Airways - The Bangladesh Monitor",
-   "source": "The Bangladesh Monitor",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTZYR2hVNUNBSW5vWHdqdGo3ZXMtb2VGdzdUdGQ5ZWRTa3FQUGVYZ2NRSTRYVmFpX084cmQxSVluU3ZhcktNX2FVWkZiLVlkUEhtUEJQc2xfN3BlX3UwdFFPUE93cDBFMW1lMGJUOHZIekFoRXd5S1N3ck1Bb2FwaU0zZG5oc0lvUVg3YWZZVWlmMFhSblE?oc=5",
-   "date": "2026-10-24"
-  },
-  {
-   "title": "Parent company of Regent Airways must repay USD 29.8m loan - The Bangladesh Monitor",
-   "source": "The Bangladesh Monitor",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVENpVUFUdVdNcXJiVm9EMTA4UkR2YXlFclRsdGpSekEybEtoUzZfSW8tZEh5aDZDQ0RScE9KM2NmaG9STW1FckxDSnFXS0lZSEc2TDhOaDE1NEtES3ZZYjgwN0xRU3RoSzNlVkx5X0FPWnFFT1hLaWN4U3NFaTNGMFdDTklfQ1dSQmJ0M1ZIVG1EN2NxYS1KMHBaM3hGUQ?oc=5",
-   "date": "2026-10-24"
-  },
-  {
    "title": "Nepal's civil aviation authority split bill nears cabinet approval - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUU2TUJXRFVMU2ZwZ29qWWdKeFpXclA4d3ZiOVlBcVhSZS1sY0tjUlpMVS1NTWpFcUVhZDRaN2NBM0RzRFN3b1hDRlhMTmpaNHhfN25iUEpSWGwwaUxtWWpUcEZlSW1jbGtFdmZVbkQ1VE9fcW5MOXo4UWM0YzQ4eGJoVEtDOXlQMFZZR1luRmd2RU9MWUtOcTRyVXgxVXBUT2F6QzMzNUxrZw?oc=5",
    "date": "2026-10-24"
   },
   {
-   "title": "Restriction on tourism in Sajek lifted - The Bangladesh Monitor",
+   "title": "US-Bangla Airlines gets ISAGO certificate - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0tyU0JwTlFld2tpQVNhRzZFYkRCRllNSUw3TXphZjl1T2RYSC1nZ3ZydmRFZnFUYmVYNW5aRE1GbU1iSjQycDR3YUxsdnBwa1dKTWdvT0IydjB4Nl9UOVVJckFQYXExRzgtaWIxWDdJTzZMa2Q4ZkJQWm5sZG9JRzQ0Ulg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenhFMEUxX2d4Umcta1QyQ0lTU1o3cUtKSjF1QzVMNTdhVUluY3M1MEhwc3RwZ2pfb2VMa09JZkRSUTIwVzd5T0UzeVNubDRkRlYwcm9sRXFzUmdmcHprSHA4RHZTLVhqMmZHRUFlLUVMckI0eFM5OG9NMlpWZHRZWjBjUFFUdVZ1?oc=5",
    "date": "2026-10-24"
   },
   {
@@ -149,6 +137,18 @@
    "title": "NOVOAIR launches two-night Cox’s Bazar holiday package with EMI facility - The Bangladesh Monitor",
    "source": "The Bangladesh Monitor",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEpIV2xEemlGd05sNjFfSl94Sm9mUTFUM2pqcDZUa1ViMTR4RUF6cmt5WXBkWGFTX2pMQzhkUEVQSFVoNVRyRnFZelVxSHZ6b0lnM1A2SW9kTGFINkVGd2JlSHI3NS1IWERqRVBQOUxoWER4UUNyNVFZVWFISlVCNjRnWVZMZ3I2Yk5keGJWRktPZUM5MmxrN2w5N3BBd09UQTJhVTlQZW9tOUNXRlNRcQ?oc=5",
+   "date": "2026-10-24"
+  },
+  {
+   "title": "যুবদল নেতা হত্যার বিচার দাবিতে সড়ক অবরোধ - প্রথম আলো",
+   "source": "প্রথম আলো",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZEZsQ2xhajlMMEFMMGU1TFZXNk5rbjhHaHhBSnVEd01VSTQta2thT3NpM0VMcHJRZzJsSDhTQjY0Z0ZNdUNLUHRZZzdueGhiWFdvLUszNUxlcjNNS3pDUzc3T0pMUDZt0gF2QVVfeXFMUHhJSzNfZ0Y3ZlM5NHR0cHJfa2Z3MXdEUHluTElZX19ONFZ5OFl4VEJFRHAyZUQ4R1lFRTJQS3FhQnBUc1BWV25ab0hqXzkzSFdvWWlrMjBEd1p1VjlsRDYtYXF6YnZyUkcwNHl6TkdYRVNtOVNxQQ?oc=5",
+   "date": "2026-10-24"
+  },
+  {
+   "title": "ঢাকায় ৮ জোনে চলবে ব্যাটারি রিকশা, জীবিকা-যানজট নিয়ে নতুন প্রশ্ন - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlVUg5Ny1ab0ZuWUNWNmc4Si0wemlURU5lTzJjcWlUbHVrMjlqaHBJN1pyS3ROUnVITTRRcGtwbFRYX0lTemxzRHJJVm9pNWdIcTBtakFEdkFKMHJQ?oc=5",
    "date": "2026-10-24"
   }
  ],
