@@ -349,3 +349,73 @@ date,time,slot,junction_id,junction_en,junction_bn,corridor,lat,lng,score_area,g
 2026-10-26,01:00,20261026-0100,68,Sayedabad,সায়েদাবাদ,South / Old Dhaka,23.717244,90.429232,29.7,346,724,84,65,17.1,0.0,335.0,SW - unnamed road,0.0,0,,27.5,0.0,8.0,NNW,120.0,partly cloudy,1
 2026-10-26,01:00,20261026-0100,69,Jatrabari,যাত্রাবাড়ী,South / Old Dhaka,23.710169,90.434315,9.4,1346,252,68,30,33.1,75.0,80.0,E - Jatrabari Mor,75.0,0,,27.5,0.0,8.0,NNW,120.0,partly cloudy,1
 2026-10-26,01:00,20261026-0100,70,Postogola,পোস্তগোলা,South / Old Dhaka,23.691358,90.430021,6.8,1058,31,106,0,36.1,110.0,110.0,NW - Haricharan Ray Road,110.0,0,,27.5,0.0,8.0,NNW,120.0,partly cloudy,1
+2026-10-26,02:00,20261026-0200,1,Abdullahpur,আব্দুল্লাহপুর,North / Airport Road,23.880624,90.400817,15.8,790,146,130,39,12.1,0.0,0.0,W - Dhaka-Ashulia Highway,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,2,Tongi Bridge,টঙ্গী ব্রিজ,North / Airport Road,23.888377,90.400978,0.0,982,0,0,0,0.8,0.0,0.0,N - Dhaka-Mymensingh Highway,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,3,House Building (Uttara),হাউস বিল্ডিং (উত্তরা),North / Airport Road,23.874607,90.400535,0.3,931,8,0,0,6.9,0.0,35.0,W - Sonargaon Janapath,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,4,Azampur,আজমপুর,North / Airport Road,23.8668,90.4008,0.2,749,5,0,0,3.6,0.0,0.0,SW - SW ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,5,Jasimuddin (Uttara),জসীমউদ্দীন (উত্তরা),North / Airport Road,23.860488,90.400318,6.4,1148,5,120,0,0.3,0.0,60.0,W - Jasimuddin Avenue,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,6,Airport,বিমানবন্দর,North / Airport Road,23.8508,90.408338,0.3,1004,10,0,0,0.0,0.0,0.0,SE - Airport Circle (to Kawla),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,7,Kawla,কাওলা,North / Airport Road,23.845541,90.412654,3.3,716,33,10,8,0.0,0.0,0.0,NW - New Airport Road (to Airport),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,8,Khilkhet,খিলক্ষেত,North / Airport Road,23.828732,90.42007,0.0,1194,0,0,0,0.0,0.0,0.0,S - New Airport Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,9,Kuril Bishwa Road,কুড়িল বিশ্বরোড,North / Airport Road,23.820593,90.420509,0.3,2414,23,0,0,0.0,0.0,0.0,S - Pragati Sarani,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,10,Bashundhara Gate,বসুন্ধরা গেট (যমুনা ফিউচার পার্ক),North / Airport Road,23.812461,90.424462,,0,0,0,0,,0.0,0.0,W - Al Haj Abdus Sobhan Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,11,Kakoli (Banani),কাকলী (বনানী),Banani-Mohakhali-Tejgaon,23.799176,90.401782,0.7,1047,22,0,0,7.2,0.0,0.0,E - Road 27,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,12,Amtoli,আমতলী,Banani-Mohakhali-Tejgaon,23.778076,90.397894,1.0,1940,26,16,0,2.8,70.0,70.0,SE - Shahid Tajuddin Ahmad Avenue (to Nabisco (Tejgaon)),70.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,13,Mohakhali,মহাখালী,Banani-Mohakhali-Tejgaon,23.7781,90.405,19.7,141,0,59,0,8.6,0.0,0.0,SE - SE ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,14,Jahangir Gate,জাহাঙ্গীর গেট,Banani-Mohakhali-Tejgaon,23.775748,90.393011,0.0,640,0,0,0,1.6,0.0,0.0,NE - Bir Uttam Ziaur Rahman Road (to Amtoli),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,15,Nabisco (Tejgaon),নাবিস্কো (তেজগাঁও),Banani-Mohakhali-Tejgaon,23.771256,90.401262,5.3,782,149,0,0,4.5,0.0,0.0,S - Shahid Tajuddin Ahmad Avenue,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,16,Bijoy Sarani,বিজয় সরণি,Banani-Mohakhali-Tejgaon,23.764482,90.389032,2.9,1727,118,14,5,1.9,55.0,55.0,S - Airport Road (to Farmgate),55.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,17,Satrasta,সাতরাস্তা,Banani-Mohakhali-Tejgaon,23.756861,90.399102,3.3,846,93,0,0,4.8,0.0,185.0,SE - To Satrasta,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,18,Farmgate,ফার্মগেট,Banani-Mohakhali-Tejgaon,23.75907,90.389827,1.4,1117,48,0,0,1.7,0.0,15.0,SE - unnamed road (to Karwan Bazar),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,19,Karwan Bazar,কারওয়ান বাজার,Banani-Mohakhali-Tejgaon,23.749945,90.393207,6.3,986,232,0,0,11.6,0.0,150.0,W - Saarc Shonargaon Circle,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,20,Bangla Motor,বাংলামোটর,Banani-Mohakhali-Tejgaon,23.745859,90.394763,3.4,989,40,17,11,16.0,40.0,40.0,W - unnamed road,40.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,21,Gulshan-1,গুলশান-১,Gulshan-Badda-Rampura,23.780422,90.416821,12.7,874,202,68,38,4.3,35.0,35.0,N - Gulshan Ave,35.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,22,Gulshan-2,গুলশান-২,Gulshan-Badda-Rampura,23.794829,90.414249,4.5,700,37,20,9,2.4,50.0,85.0,SE - Gulshan Ave,50.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,23,Notun Bazar,নতুন বাজার,Gulshan-Badda-Rampura,23.797717,90.423535,3.4,605,68,0,0,1.8,0.0,105.0,W - Felani Avenue (to Gulshan-2),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,24,Shahjadpur,শাহজাদপুর,Gulshan-Badda-Rampura,23.7915,90.4245,7.4,442,2,54,0,6.8,0.0,45.0,SW - SW ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,25,Uttar Badda,উত্তর বাড্ডা,Gulshan-Badda-Rampura,23.786,90.426,0.0,622,0,0,0,6.7,0.0,0.0,W - W ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,26,Merul Badda,মেরুল বাড্ডা,Gulshan-Badda-Rampura,23.774077,90.425868,0.1,642,1,0,0,0.0,0.0,0.0,N - DIT Road (to Uttar Badda),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,27,Rampura Bridge,রামপুরা ব্রিজ,Gulshan-Badda-Rampura,23.767537,90.422899,2.0,1395,91,0,0,0.0,0.0,0.0,SW - Banasree-Hatirjheel U Loop,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,28,Malibagh,মালিবাগ,Gulshan-Badda-Rampura,23.749917,90.412923,1.2,1074,41,0,0,1.1,0.0,110.0,E - Atish Depankar Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,29,Mouchak,মৌচাক,Gulshan-Badda-Rampura,23.745653,90.412294,2.3,1492,21,23,13,3.3,0.0,20.0,NW - Outer Circular Road (to Moghbazar),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,30,Moghbazar,মগবাজার,Gulshan-Badda-Rampura,23.748693,90.403651,8.3,1490,3,205,4,4.8,0.0,15.0,NE - Outer Circular Road (to Mouchak),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,31,Khilgaon,খিলগাঁও,Gulshan-Badda-Rampura,23.753436,90.430353,,0,0,0,0,,0.0,0.0,NW - unnamed road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,32,Aminbazar Bridge,আমিনবাজার ব্রিজ,Mirpur-Gabtoli-Aminbazar,23.790057,90.321944,0.0,604,0,0,0,0.3,0.0,0.0,E - Dhaka - Aricha Highway,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,33,Gabtoli,গাবতলী,Mirpur-Gabtoli-Aminbazar,23.784,90.344,4.1,665,0,44,0,7.2,0.0,0.0,NE - NE ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,34,Technical,টেকনিক্যাল,Mirpur-Gabtoli-Aminbazar,23.781514,90.351883,1.1,871,23,3,0,1.1,0.0,45.0,SE - Mirpur Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,35,Mirpur-1,মিরপুর-১,Mirpur-Gabtoli-Aminbazar,23.798611,90.353196,0.0,703,0,0,0,0.0,0.0,0.0,NE - Mirpur 10 Road (to Mirpur-2),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,36,Mirpur-2,মিরপুর-২,Mirpur-Gabtoli-Aminbazar,23.805073,90.363489,0.1,610,2,0,0,3.2,0.0,0.0,NE - Main Road (to Mirpur-10),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,37,Mirpur-10,মিরপুর-১০,Mirpur-Gabtoli-Aminbazar,23.807086,90.368602,3.3,962,107,0,0,3.3,0.0,165.0,W - Main Road (to Mirpur-2),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,38,Mirpur-11,মিরপুর-১১,Mirpur-Gabtoli-Aminbazar,23.815785,90.366151,0.0,560,0,0,0,1.1,0.0,0.0,S - Begum Rokeya Sharani (to Mirpur-10),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,39,Mirpur-12,মিরপুর-১২,Mirpur-Gabtoli-Aminbazar,23.827,90.364,11.7,492,250,7,0,8.0,0.0,105.0,NW - NW ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,40,Kazipara,কাজীপাড়া,Mirpur-Gabtoli-Aminbazar,23.797211,90.372799,6.1,539,120,0,0,1.9,0.0,0.0,S - Begum Rokeya Sharani (to Shewrapara),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,41,Shewrapara,শেওড়াপাড়া,Mirpur-Gabtoli-Aminbazar,23.793324,90.374578,7.6,551,164,0,0,1.6,0.0,0.0,S - Begum Rokeya Sharani,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,42,Agargaon,আগারগাঁও,Mirpur-Gabtoli-Aminbazar,23.776914,90.380614,0.9,1272,18,9,0,1.6,0.0,25.0,SW - Syed Mahbub Morshed Avenue,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,43,Shyamoli,শ্যামলী,Dhanmondi-Mohammadpur,23.773345,90.367198,11.2,881,0,177,0,15.4,0.0,0.0,NE - Syed Mahbub Morshed Avenue,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,44,Shia Masjid (Mohammadpur),শিয়া মসজিদ (মোহাম্মদপুর),Dhanmondi-Mohammadpur,23.766585,90.364733,8.8,56,20,0,0,7.6,0.0,0.0,S - Shahjahan Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,45,Mohammadpur Town Hall,মোহাম্মদপুর টাউন হল,Dhanmondi-Mohammadpur,23.7605,90.361,3.3,90,10,0,0,18.2,0.0,0.0,S - S ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,46,Asad Gate,আসাদগেট,Dhanmondi-Mohammadpur,23.758172,90.374245,1.4,983,29,7,0,0.3,0.0,50.0,NW - Mirpur Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,47,Dhanmondi 27,ধানমন্ডি ২৭,Dhanmondi-Mohammadpur,23.7581,90.37428,1.4,991,29,7,0,0.4,0.0,55.0,NW - Mirpur Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,48,Russell Square (Panthapath),রাসেল স্কয়ার (পান্থপথ),Dhanmondi-Mohammadpur,23.751255,90.378271,3.5,767,17,34,0,3.5,20.0,25.0,SE - Mirpur Road,20.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,49,Science Lab,সায়েন্স ল্যাব,Dhanmondi-Mohammadpur,23.738653,90.38354,0.0,1143,0,0,0,2.0,0.0,0.0,N - Mirpur Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,50,Jigatola,জিগাতলা,Dhanmondi-Mohammadpur,23.738297,90.37615,0.0,453,0,0,0,0.0,0.0,0.0,NW - Satmasjid Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,51,Nilkhet,নীলক্ষেত,Dhanmondi-Mohammadpur,23.732423,90.385084,0.0,847,0,0,0,0.3,0.0,0.0,N - Mirpur Road (to Science Lab),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,52,Azimpur,আজিমপুর,Dhanmondi-Mohammadpur,23.726893,90.38638,1.4,398,18,0,0,4.2,0.0,0.0,S - Mirpur Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,53,Shahbag,শাহবাগ,Central,23.73822,90.395901,3.9,834,46,13,11,5.3,20.0,65.0,E - unnamed road,20.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,54,TSC (Dhaka University),টিএসসি (ঢাকা বিশ্ববিদ্যালয়),Central,23.7335,90.3963,4.0,756,103,0,0,5.7,0.0,0.0,S - S ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,55,Kakrail,কাকরাইল,Central,23.737082,90.41038,1.4,1268,40,7,0,3.7,0.0,10.0,W - Anjuman Mufidul Islam Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,56,Shantinagar,শান্তিনগর,Central,23.741555,90.411923,0.2,627,3,0,0,1.8,0.0,15.0,NE - Kakrail Road (to Mouchak),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,57,Paltan,পল্টন,Central,23.734696,90.41016,0.6,889,15,0,0,1.4,0.0,0.0,S - Sayed Nazrul Islam Sharani,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,58,Fakirapool,ফকিরাপুল,Central,23.7335,90.4165,1.2,1182,19,12,0,0.7,0.0,0.0,N - N ray,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,59,Gulistan (Zero Point),গুলিস্তান (জিরো পয়েন্ট),Central,23.722981,90.410769,5.5,1267,110,26,25,20.0,25.0,60.0,S - Bongshal Road,25.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,60,Shapla Chattar (Motijheel),শাপলা চত্বর (মতিঝিল),Central,23.727984,90.416848,2.1,298,20,0,0,,0.0,0.0,E - Dilkusha Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,61,Kamalapur,কমলাপুর,Central,23.73126,90.428513,7.8,333,0,44,0,3.7,0.0,0.0,S - Atish Dipankar Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,62,Ittefaq Mor,ইত্তেফাক মোড়,Central,23.722,90.422,5.8,698,146,0,0,4.5,0.0,0.0,NW - NW ray (to Shapla Chattar (Motijheel)),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,63,Bakshibazar,বকশিবাজার মোড়,South / Old Dhaka,23.722543,90.392955,0.0,75,0,0,0,,0.0,0.0,N - Orphanage Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,64,Chankharpul,চানখারপুল,South / Old Dhaka,23.72394,90.400302,5.3,910,119,0,16,4.8,0.0,30.0,N - unnamed road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,65,Nayabazar,নয়াবাজার,South / Old Dhaka,23.71403,90.406044,27.3,267,222,100,28,16.3,45.0,60.0,W - Buriganga 2nd Bridge,45.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,66,Babubazar Bridge,বাবুবাজার ব্রিজ,South / Old Dhaka,23.705302,90.399216,0.2,730,5,0,0,1.0,0.0,0.0,SW - Babu Bazar Bridge(Buriganga 2nd Bridge),0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,67,Sadarghat (Bahadur Shah Park),সদরঘাট (বাহাদুর শাহ পার্ক),South / Old Dhaka,23.709824,90.412024,,0,0,0,0,44.5,0.0,0.0,N - Johnson Road,0.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,68,Sayedabad,সায়েদাবাদ,South / Old Dhaka,23.717244,90.429232,4.8,394,34,9,4,13.4,15.0,35.0,S - অতিশ দীপঙ্কর সড়ক,15.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,69,Jatrabari,যাত্রাবাড়ী,South / Old Dhaka,23.710169,90.434315,12.1,1387,1,220,54,26.8,80.0,80.0,E - Jatrabari Mor,80.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
+2026-10-26,02:00,20261026-0200,70,Postogola,পোস্তগোলা,South / Old Dhaka,23.691358,90.430021,6.4,1016,5,106,0,34.7,110.0,110.0,NW - Haricharan Ray Road,110.0,0,,27.2,0.0,6.9,NNW,119.0,mainly clear,2
