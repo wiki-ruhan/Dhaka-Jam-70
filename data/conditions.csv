@@ -1200,3 +1200,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261027-0845,2026-10-27T08:45:00+06:00,31.9,35.8,55,0.0,mainly clear,6.0,63,ENE,19.1,168,Unhealthy,71.9,73.3,model
 20261027-0900,2026-10-27T09:00:00+06:00,32.4,36.1,53,0.0,mainly clear,6.3,63,ENE,20.2,168,Unhealthy,41.6,41.8,model
 20261027-0915,2026-10-27T09:15:00+06:00,32.9,36.5,51,0.0,mainly clear,6.6,64,ENE,20.9,168,Unhealthy,41.6,41.8,model
+20261027-0930,2026-10-27T09:30:00+06:00,33.3,36.9,50,0.0,mainly clear,6.9,67,ENE,22.0,168,Unhealthy,41.6,41.8,model
