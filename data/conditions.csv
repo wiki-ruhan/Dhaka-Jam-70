@@ -1314,3 +1314,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261028-1615,2026-10-28T16:15:00+06:00,33.1,37.1,52,0.0,overcast,5.8,206,SSW,19.8,149,Unhealthy for Sensitive Groups,11.8,11.8,model
 20261028-1630,2026-10-28T16:30:00+06:00,32.9,37.0,53,0.0,overcast,5.2,207,SSW,19.4,149,Unhealthy for Sensitive Groups,11.8,11.8,model
 20261028-1645,2026-10-28T16:45:00+06:00,32.7,36.9,54,0.0,overcast,4.7,208,SSW,19.4,149,Unhealthy for Sensitive Groups,11.8,11.8,model
+20261028-1700,2026-10-28T17:00:00+06:00,32.5,36.9,55,0.0,overcast,4.3,208,SSW,18.7,154,Unhealthy,14.6,14.7,model
