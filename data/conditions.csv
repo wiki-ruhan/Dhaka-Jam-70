@@ -1508,3 +1508,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261030-2245,2026-10-30T22:45:00+06:00,26.1,31.7,89,0.0,overcast,3.7,23,NNE,11.9,109,Unhealthy for Sensitive Groups,36.7,37.3,model
 20261030-2300,2026-10-30T23:00:00+06:00,26.1,31.7,88,0.0,overcast,3.4,25,NNE,11.5,83,Moderate,39.9,40.5,model
 20261030-2315,2026-10-30T23:15:00+06:00,26.0,31.6,88,0.0,overcast,3.1,28,NNE,10.8,83,Moderate,39.9,40.5,model
+20261030-2330,2026-10-30T23:30:00+06:00,26.0,31.5,88,0.0,overcast,2.8,27,NNE,9.4,83,Moderate,39.9,40.5,model
