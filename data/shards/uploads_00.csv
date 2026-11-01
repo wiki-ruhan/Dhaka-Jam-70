@@ -4150,3 +4150,11 @@ slot,shard,file,bytes,status,seconds,finished_at,error
       {
         ""message"": ""The user's Drive storage quota has been exceed"
 20261101-1930,0,Dhaka_traffic_2026-11-01_19-30-01_BDT_z16.jpg,17175918,error,3.3,2026-11-01T19:32:13.380986+06:00,"403 Client Error: Forbidden for url: https://www.googleapis.com/upload/drive/v3/files?uploadType=resumable&fields=id,size"
+20261101-1930,0,Dhaka_traffic_2026-11-01_19-30-01_BDT_z16.json,651,error,51.7,2026-11-01T19:33:05.035707+06:00,"HTTP 403: {
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""The user's Drive storage quota has been exceeded."",
+    ""errors"": [
+      {
+        ""message"": ""The user's Drive storage quota has been exceed"
+20261101-1945,0,Dhaka_traffic_2026-11-01_19-45-01_BDT_z16.jpg,17167687,error,0.4,2026-11-01T19:47:10.760703+06:00,"403 Client Error: Forbidden for url: https://www.googleapis.com/upload/drive/v3/files?uploadType=resumable&fields=id,size"
