@@ -5001,3 +5001,5 @@ slot,shard,file,bytes,status,seconds,finished_at,error
 20261103-0100,0,Dhaka_traffic_2026-11-03_01-00-01_BDT_z16.json,632,error,60.0,2026-11-03T01:03:34.620697+06:00,"HTTPSConnectionPool(host='www.googleapis.com', port=443): Read timed out. (read timeout=60)"
 20261103-0200,0,Dhaka_traffic_2026-11-03_02-00-01_BDT_z16.jpg,16917720,error,0.4,2026-11-03T02:02:20.220358+06:00,Expecting value: line 1 column 1 (char 0)
 20261103-0200,0,Dhaka_traffic_2026-11-03_02-00-01_BDT_z16.json,632,error,0.2,2026-11-03T02:02:20.449655+06:00,Expecting value: line 1 column 1 (char 0)
+20261103-0300,0,Dhaka_traffic_2026-11-03_03-00-01_BDT_z16.jpg,16877940,error,0.5,2026-11-03T03:02:21.696999+06:00,Expecting value: line 1 column 1 (char 0)
+20261103-0300,0,Dhaka_traffic_2026-11-03_03-00-01_BDT_z16.json,637,error,0.3,2026-11-03T03:02:22.002054+06:00,Expecting value: line 1 column 1 (char 0)
