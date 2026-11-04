@@ -5297,3 +5297,5 @@ slot,shard,file,bytes,status,seconds,finished_at,error
 20261104-2000,0,Dhaka_traffic_2026-11-04_20-00-04_BDT_z16.json,630,error,0.4,2026-11-04T20:02:27.110542+06:00,Expecting value: line 1 column 1 (char 0)
 20261104-2015,0,Dhaka_traffic_2026-11-04_20-15-01_BDT_z16.jpg,17119196,error,0.6,2026-11-04T20:17:24.543417+06:00,Expecting value: line 1 column 1 (char 0)
 20261104-2015,0,Dhaka_traffic_2026-11-04_20-15-01_BDT_z16.json,637,error,0.4,2026-11-04T20:17:24.945402+06:00,Expecting value: line 1 column 1 (char 0)
+20261104-2030,0,Dhaka_traffic_2026-11-04_20-30-02_BDT_z16.jpg,17130987,error,0.5,2026-11-04T20:32:25.318205+06:00,Expecting value: line 1 column 1 (char 0)
+20261104-2030,0,Dhaka_traffic_2026-11-04_20-30-02_BDT_z16.json,637,error,0.1,2026-11-04T20:32:25.465322+06:00,Expecting value: line 1 column 1 (char 0)
