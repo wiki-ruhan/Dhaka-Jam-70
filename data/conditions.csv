@@ -2016,3 +2016,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261105-2345,2026-11-05T23:45:00+06:00,23.9,26.7,79,0.0,mainly clear,7.3,320,NW,14.4,155,Unhealthy,105.9,111.5,model
 20261106-0000,2026-11-06T00:00:00+06:00,23.8,26.5,80,0.0,mainly clear,7.3,324,NW,14.4,157,Unhealthy,109.4,115.0,model
 20261106-0015,2026-11-06T00:15:00+06:00,23.7,26.5,80,0.0,mainly clear,7.4,326,NW,14.4,157,Unhealthy,109.4,115.0,model
+20261106-0030,2026-11-06T00:30:00+06:00,23.7,26.4,80,0.0,clear,7.4,328,NNW,14.8,157,Unhealthy,109.4,115.0,model
