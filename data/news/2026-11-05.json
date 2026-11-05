@@ -1,5 +1,161 @@
 {
- "fetched_at": "2026-11-05T13:32:21.083973+06:00",
- "headlines": [],
- "tags": []
+ "fetched_at": "2026-11-05T16:47:21.676334+06:00",
+ "headlines": [
+  {
+   "title": "Bangladesh’s ousted PM Sheikh Hasina said she will return from exile in December at any cost - New York Post",
+   "source": "New York Post",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaHBJOUdvS2FpSGZ5cm5oaHZ1emQyZzhkR0czY3Nma1Y0OURrTzdkU2NpNjV5Y3E1cVdYYTFjQS12VXkta0c2VFZreHd3TVk2Ty1fRzVKZDhiRFhSLXZDSjJRdzZ2Uk9wMkZVQVVFTVNwQ3hJeVFzLUcxRzZNRGFYVWh0SDZPeTFKQnFsUDN6Mk1pdnJuRS1RNTNhSU5TaThZRWMzRWNhQmxPV0lOMWxHcVpGNFdiSUJEbkZ2SVdrNHFKWEFvM2pNUndGNWZodw?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Bangladesh garment workers return after wage protest - Bangkok Post",
+   "source": "Bangkok Post",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjR6RFQ2WjVqRC1iQ3YtZXlXMzJtODNnY2gtUlAzY0ExM3pBQUEyWHFaNUJQMDN5OFo2d29lMWVvZldqSVZXSUM5Uzh4RjQ1ci1GSmRVR1dmMjBuVEN6SFpsMURYUU04cnNRYjJEWnRpV2hoVzc1UU9FUlpxX0lwa2tJdHhDUGFhbGh6cmJmNENyQnFxN1NiOEJn?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Garment workers block Dhaka-Narayanganj Link Road over wage demand - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmkzcFZHQVlVN2d5MlFrM2pmdXZ6anZHTXd3TUV0OTJvLWlHMHlYbHk3akI1X2lkOFNfb1dFTURwUDh2dTBZcTRsajZjMkVzdC1WMWFOUHdFbjdiWkNJRkViQUVqTWYwYVBlNFZwWDc5ajNhZDNXNlU2SXdwblMydF9iUzd4OTUyNU5hdFBrTVdJMzQtTjRNYnVzUUJMSE9PWlJMRFB2LXJScUo3YUYzUGpQRQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Two motorcyclists killed in collision with covered van on Airport Road - Dhaka Tribune",
+   "source": "Dhaka Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkVjNkJhY1N6Mi1yMTRSbmFSWDFwcUVQZHdJSlRrTHBwQ2N5YUoxUjVZVllpbmM3VGMtYlYyRkw5OFMtTGtQUFN3T05xS2NWZVhvNlN3NVNkRFkxMWZ1R2NobjFlak81NEZobEU1bnhpRGJaSXRKRGNXRG0zOWVRenFOWjR4R3lxWWlOR1FscWo3UHE3Z0dhd0pfaVp6d3MydmhqWXRSMFRuSVnSAbABQVVfeXFMT1h5S2ZwdjZIdlI4eEtiLU44TTJvb3VBbE1VMU05Vm5LSUctNW1Kc0l5dnJfMDBXSE90bE50Ylg5S01fdHVSOFRxMk5zSUdfMHpHbk0tRlZPdU5aZ0FmRXlfVHJZVWJpZWlxSFlYc3FhcGVndkhlVTZORVNMZ1ptVXI4QXNsWkx2RXltRU9iV1B0UkVOTUxjUzdyLXNxemNEVUFqOXhMWi1vZzlPZmlVRnk?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "690 RMG factories halt production as violence drags on for 3rd day - The Business Standard",
+   "source": "The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3hTRTJMZ3F5RFFjUkhQdUdvZEI1dURoLVdjRTBtMWlwVExMSXRRLTBPV2tZekJ0UGRVaTFZQ09hbnIxNmt2OFV5QWhWNGF0MFlEQ2t4Rjh4N255SE1oWU9LZWhnX0xEYm1INjJWZVZpYkNuSURhU3JYb1JKcF9oaDdEd04tYWo2ci1CSG5RNGtQMDRqdnJlYXp3VkRuc2RIU2c?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "4 killed in separate road accidents in Dhaka - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFlsck1VQlktak4tekFndnpWMy1OOVVDR25JYmRTTVE3OERsNnEwVVRBRmROSEprM0E4Z0FnUlp2a0lpclJDOVBYNlU2VXoxQXpIZ2trd3Q1NTY0NUFua1JwSFBQa2xyTnk5ajhuTGNvZk1TM3d6V2VSYzkzSVo2MGdpVFRJVTVhczFzVEhQUHNmU0cteHFUcC1JTFIyQnpRcVVPcVBZRHQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Fascist force attacking cops in name of movement: Gazipur police - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVHI2RFlwdmdFMFFRRkh2YktnYW5OQmN1YzJlMHVqMGhGU1B1M2ktckZLSWNtczhZNEkzTG1ZR3BzSG1fQndRclVoSFh5ZzRRcGNxeEVwMk93dWt6UVE?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "‘How dare he touch me!’ Enraged Pori Moni at court premises - Prothom Alo English",
+   "source": "Prothom Alo English",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9leFhmVzN4dndVSERXR09HM2ppM09vUHBidjVqd2VnR254dGlkVUNEVUVrd1pYSWVHeWgwZE9LSTl6eU83MVR4eks0OTgzUnUwT1JHcWZ3cVRDRDdtLVpQT2laeFpsQXJO0gF2QVVfeXFMTlRwQ3NVVnZGcDdVNFRKbVJhbUVqaUk0VHJacVUwQ3dLa1o0clU0ZXZRbzVETVNkLS1yZVNfYm5nUjdhUVk1czN0WkFVRVhlZGFQbW41ZVotSVVpSVllcW92QWdSMmpkUW94Um9MMkJSdjR0ZGc5dw?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "‘Invisible Stories’ to explore Bengali folklore at Shilpakala Academy - Dhaka Tribune",
+   "source": "Dhaka Tribune",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUo3Vlg3S21IVG1BUnVZTHRvY1JEODE0YUVRVk4yQ2l3VmtjZXVUSnRLNV9hdTlQZVRsd0lWbjdzMUwwcFdMNUtTMlIyUnF1eHZfSzZCOGVfZmI4YklKXzYxRURKbG45T2tWekpWNUpJdEdqR0pDSmk0SGE2b3JMSXRfWDd2WkRuazczRnZsWnAzcVd3RDkyQ0gzSnNIbzljdlNrRTF4dEFTRzVHcUpIVHU0Q3RCUdIBtgFBVV95cUxQTUo3Vlg3S21IVG1BUnVZTHRvY1JEODE0YUVRVk4yQ2l3VmtjZXVUSnRLNV9hdTlQZVRsd0lWbjdzMUwwcFdMNUtTMlIyUnF1eHZfSzZCOGVfZmI4YklKXzYxRURKbG45T2tWekpWNUpJdEdqR0pDSmk0SGE2b3JMSXRfWDd2WkRuazczRnZsWnAzcVd3RDkyQ0gzSnNIbzljdlNrRTF4dEFTRzVHcUpIVHU0Q3RCUQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Exporters fear buyers may cut orders if garment unrest continues - The Business Standard",
+   "source": "The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUFXcFJvNEJzbTlfMHYyVDhxQmVTYk1pakZGNlpCRWhTS0Y0Z3FJMXV5TmppLW5YMzNWZG5aVUhsVlhXTWF4dWM3ZDQxSjNqU00zRWhfNnVESkU3TG8xZDJSaGxnck5qQWlJQjY1TndVN3AwTm13T3lHR3J3N2x5Zmg5S0s4NmlBcFFjS1lMR3VOazZoNnVWMk1kTUZRWHZGTzlqbFYxbllnQ2FU?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Imams urged to use Friday sermons to warn against human trafficking, unsafe migration - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZlhhVnBJWVRsYUswYno3R0VKRmpvZ0NHeHl4b0hDRTltUVdJa1loOERNQ2RtTlJ6MXdSZV8xNFEtMVBuNzIzVVdxX3pFaXMyaXZ0Wm0tSHhjY0IzdmE4b2RleVhpdi0telB4Z0hWWkJZaGRudkpDSDM2cENZRHRCNnMxWE1HLWtpOTRLZFpxLWxJTnZTSm9LMHdvZ1g2OC01bjR5ZmtBX0RjdXdYd3NwNm5nV1hNSFVyNS1BU2JTMWZFcnJGZzJwMVhRV1lobkUwSHJvTDZuMmkyU0Y3?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Pori Moni surrenders, secures bail in assault case - Dhaka Tribune",
+   "source": "Dhaka Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXFuSzZLVHFQQkFfaHI1Y0JiaGo4ZHNiajhITV9rQzNqeGNhaVFoandnV05SQ3V6ZldzeU1mLVB4ZUVpNzA4Y0VmdjR3ZHhOVmo2S1NPb0FUeEJGRS1NOWFFNDYyUEFPcm5ucWZMd3ZkcXZKSzMzS1IzTW0zNHNrcUxVVVlmMlpwWm9qazFKbHBtSUVpaFg2U20teDhQMjhuVHZ3cms0ZU9BQdIBqgFBVV95cUxNZXFuSzZLVHFQQkFfaHI1Y0JiaGo4ZHNiajhITV9rQzNqeGNhaVFoandnV05SQ3V6ZldzeU1mLVB4ZUVpNzA4Y0VmdjR3ZHhOVmo2S1NPb0FUeEJGRS1NOWFFNDYyUEFPcm5ucWZMd3ZkcXZKSzMzS1IzTW0zNHNrcUxVVVlmMlpwWm9qazFKbHBtSUVpaFg2U20teDhQMjhuVHZ3cms0ZU9BQQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Take control of Hasina, Asaduzzaman's assets immediately: ICT prosecution to home ministry - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTUV5MjdCS2UwUEdlbjdfb3pBdGVDUE1mZ3JsdzNpR00zUFhuc2RaZ0F6MXdxZjdTNkRrcnZUUVhEZTZWMHNzeWFxajhKQ253Rkg3bXY3RGtjWnlJV1FlYjlFd3RzeW5KR1laSUVJQlRKNF8xRDJCZWlBVmFad2MxWnk0YUdPM01oTEVPbVg0b1diM2t5SXVPMFdIbmZ1YVdPd3JLNUFXMzBLLXlSaTA3eVdYdmVEZkNGLWJ1WWdxT2F1b2NoYkhIckZGTGFoZnhJakRwYnphS0Jjdw?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Gazipur Garment Worker Protest | 2 pickups torched in Gazipur amid labour unrest - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG5WUjVsNG11T200aXl6M0duOEVlNUc5ZHlUeE1NakhtLXNRTTM3UllPQnQ4Y2FfZHVzaGpkMzlab3hydUoxY0tKaG5QNTQtemVwaE5KaTdlYjlZbU9ZZUxyaTd0Sl8yb003ZGFwTWxpTThqbFFDME9OZk90Njd0WEJZV1VyNHlta3hteWpRZUNYRVhleFE?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Clashes, blockades continue on 3rd day of RMG unrest - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVSN1JPYlZ0Z3dORUpjY3dxX3E1eWlsZ2F3ckpNakp5RDZpaTZIVEE1aUNIVDJXUjdiUkkxUC1GRXp6TFJFMHVRMUh4Q2RkckZGdElONzQzcDBESjNtQmVaRmMzU2pmaHNPMTRwd0wxYjRESzF2dDRfc0g0V3AyTk5TSlIyRjNFTThET0pqcnR6M1lfVkJ0U1BvMmgxU0xtbVVUaHVIS2ozdw?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Kuwait sentences Bangladeshi man to death for killing friend - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlBiZko4eDY2WVFXVmkyNkFyb2JkcGViSEs3SzlOOElsV1ZwQnhYbTQydThEODJvVGFZeXZyd2ZwTHdBZV9rVS1pQVd2UmxTUFRiM3d3Tk5TZG0wZzQwWFM5cHR5YzdiZEV4SFJEUXJOYlhnemEyX21yd085ZkI3bnNVSkhBWW8telJ1Y09TWHlfNEk5SHVyNVM4Y1plem9IN0dRYW1pajBDYkVQYXRJaQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Gas leak triggers fire at Gazipur workshop, four injured - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXc2MXNtbVdBX3ZfWW12R3IxYmlrM3FzU0tTbU1EeUdjc0ctLWNPamF4TTc3c0U3Njk3OWVYLUl5cDRES0x1WXdETjZ2ckxsTXE3X0psV2tNanNCTXRSVk5ueWRFbkNmamlQbUFheE05aFBiSndyOW5nbWtKa0lTU3dlYXlQMFp4SzN2X0lEb0RiYmxmTnJodXRGb0ptb08zR2JlcGJOeXVJa3JuRS1UWjlrV2pTbTl2RUxR?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Bangladesh Garment Workers Wage Protests | Garment unrest clouds fragile economic recovery - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTB5dmtDSGxaMVFBYkVqTDR3dkRMZU5tQXp3dnlSXzhXVktKUUtTNWRKNTIwOU9Rd3FmYnJNUTRXcFktdkVFY3p5cE5NRjhYempVMHdMMWFqWmpRM3ZMOExRQXJBbUJDUklsOXNHMm4xekh4dkpKMzdsaFpvdjg1bExTTXk2RWsyal9KX3gxeWQzV3ozdy1pZXdsWnp4ZWNrTVFaTHdhVFZEUQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Bangladesh: Violent Garment Worker Protests Injure 50, Shut Down 200 Factories - Lokmat Times",
+   "source": "Lokmat Times",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXFMei1VbnZrMENnejFyWTU3QUxMdUFGV1gyLXhTc0owbmZzQjQweXhCRldQQnVubzJHRHpWQXcwWkdSdXVhUHF6ZXBSMjBMS28yckhvZTROUXEtWUdnSXJSX0xNMFBnVURESGJ5YW5DM1lCemhaQUhXSDgxeElYamY0ZG5JMEJJRjlEa3JNSXdRT3JJN3hLXzRNUlB2Y3Z3blZSQW1TWDdQSkI3MWF1YlI1MHNqRVZoV3ZpT3lIV1hwd1FTQ2dN0gHMAUFVX3lxTFB6XzJuUEJIcm9Lck1wNXFPaUtBUFJjT2RsX1BtWDV5UXN6aVZhNjYyOGh0QmdOTDh3cnEzSjNzZ0JtSC1NZG9zazQzT216dlRncXBvdjNXMmVlcERNZ1lWSVdYSVJrVnY2OHh5dTZ3aG12Y2stSDhqR21iQW1FQXFDVG92MU8zQTZjMVJsblQwMF9YdWs2bk51cWpEajhTMkJjWUhITEgtdllMZHNOM25HemE5Ql9qRDFKZXpHbU5INjM1c2Y1VjhHSGllXw?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Mongla Port set for Tk 4,068cr overhaul as PM eyes regional economic hub - The Daily Star",
+   "source": "The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN1BWbmtiZGlydnVTa043TkpGbjFVWm5PZElsdDJGYmdsNVUyTDJvN2w4N0x1bDVKM2hRMjNkQkgyakdJUlRyUlNkM2ZmZFZpVmZNWno1cWdBVWdfYzFpWGFBckhZMWZyemIwTHpfX3o0YURaYTUwMkJ1X1E2a2l2MXBWMnozcE45VjlNUVBJV2V5RWhLNVlFVFRsbzE0SWtYYk5QWDBxUEFkeEdzdUFqVUlzbXFpb3dtSmZqRm5rSQ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Bangladesh: 50 injured, 200 factories shut as protests by garment workers turn violent - IANS LIVE",
+   "source": "IANS LIVE",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUVnU2ZLMmxPTXQzRW44V0VaNzBMRW8zWjZFWUhtMXVGVWhYWV9SR0pwVWhPTTUzS0t0WC1McnBSdUFGaURIWG5yb21tamlMTjE0dVV5T1UyZnRfZ05ONkxBSS03N2VQWVNUNnNld1JhRU9WTHRYck4yMGI4WHNCT2REYkFqOTZiT05LU2hVZURpSUIwVXRGdk1reXJBZGw2amdGSVl2Mlo0amJYYjhOdUJaNnk2X0d4emtpeg?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "ঢাকায় ভোরে আ.লীগের মিছিল থেকে আটক ৩: পুলিশ - প্রথম আলো",
+   "source": "প্রথম আলো",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40WGpJUzgxTWRqQVg4QXRWWnVNMC03UXlWamFCdkVjaXo0QTI3bVIyeVFkRm0yeEZrLS1yQzJQUU5FcjdUdFVlWjh0WkdCRXliMTZOVnFxZS1mWTVaMTI1alRvRVg3UWPSAXRBVV95cUxOZTBEUGg1dWRWNmNCSEFZOUNFTVVxcEVyVEE4dzliVHh0S1BUNFNUQjhWMkxuSWJDWDF0TmdTLW9oQVhGbFl3Y1U0SVlhTmdJV25KblJEd185NnNaMGFheC1IVTZVbGNBaDNscnhERFk5LWwtYw?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "পুলিশ: ঢাকায় ভোরে আওয়ামী লীগের মিছিল থেকে আটক ৩ - Dhaka Tribune Bangla",
+   "source": "Dhaka Tribune Bangla",
+   "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOYmE3eHFlenMyX004THBDWEVJN0k0MmNROElNci1rZy1jUkYyS1dSTkpyZ0trTXZaNFpsVi1UV2V3WW1wcFZwZ1VYbFF2UUhCSi1lTVpJNUpFZEhZM0UxNGR1dk1LczFIdlFjemtSSWlWNl9jZWVkM2xjRVpWSzJ0TW9veTVNS2FoWUt5d3VwV3ZjVldoRjlFN0QxT2tMWVhLR3NHeHYxSThldWJhTWFSc3N1WEJ1UzBUTmZ5QnNzTEdTcHlmOV9GZVpMSGZHTFpiZl9wV29Fcm01V3AyZUNNZDZVWjZ2VEwyc29XWUx2Mkg0QU9aSTU4Q2dzT2pic1cwYm9nYlUxYjRtS25waF8zWWstQWd0TjNyOE5rZ2pWX3BPdU1HaHAwVmtObWF0RXpKaVpWZXBGa3E5M1cxdzc3UXJLZ2lqSGVLdkZmbHpmc1FiM2xZczc1bGtxUkd3VVNPeTd3Vi1tcVBsenJFQmY3b1JlU2hiV2VLTU14cGNQclJ4R0VGSjRDVWc2UmtfcFJnQ0NQLUh0YV9PLVpnN1ZXMzZHQzJkSE5uRmZkaW1POHhsazVmZVZUX2phZ1lZV3FRaDRSX3dXZWFyUUlhQWs3MTRDNUNBT2lMMHpDWkRvWE1mc21wR3RZQ3oxMmsyUHpNVWJuSHN1RWk2a05UOGpjQVhfSXplUXVzZXB5cFlaYUhVemJFVV82SkI0YXJTTTgzemszUklOYXEtckVIWDhkcGtHZ3BEUHPSAbcEQVVfeXFMTmJhN3hxZXpzMl9NOExwQ1hFSTdJNDJjUThJTXIta2ctY1JGMktXUk5KcmdLa012WjRabFYtVFdld1ltcHBWcGdVWGxRdlFIQkotZU1aSTVKRWRIWTNFMTRkdXZNS3MxSHZRY3prUklpVjZfY2VlZDNsY0VaVksydE1vb3k1TUthaFlLeXd1cFd2Y1ZXaEY5RTdEMU9rTFlYS0dzR3h2MUk4ZXViYU1hUnNzdVhCdVMwVE5meUJzc0xHU3B5ZjlfRmVaTEhmR0xaYmZfcFdvRXJtNVdwMmVDTWQ2VVo2dlRMMnNvV1lMdjJINEFPWkk1OENnc09qYnNXMGJvZ2JVMWI0bUtucGhfM1lrLUFndE4zcjhOa2dqVl9wT3VNR2hwMFZrTm1hdEV6SmlaVmVwRmtxOTNXMXc3N1FyS2dpakhlS3ZGZmx6ZnNRYjNsWXM3NWxrcVJHd1VTT3k3d1YtbXFQbHpyRUJmN29SZVNoYldlS01NeHBjUHJSeEdFRko0Q1VnNlJrX3BSZ0NDUC1IdGFfTy1aZzdWVzM2R0MyZEhObkZmZGltTzh4bGs1ZmVWVF9qYWdZWVdxUWg0Ul93V2VhclFJYUFrNzE0QzVDQU9pTDB6Q1pEb1hNZnNtcEd0WUN6MTJrMlB6TVVibkhzdUVpNmtOVDhqY0FYX0l6ZVF1c2VweXBZWmFIVXpiRVVfNkpCNGFyU004M3prM1JJTmFxLXJFSFg4ZHBrR2dwRFBz?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "সংসদের অধিবেশন: ঢাকার যেসব এলাকায় সভা-সমাবেশ-মিছিল, অস্ত্র বহন নিষিদ্ধ - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nVDRvbHJMcGNiem16UjZFQ2tZZzViampIdVNCS3dLLTdmczY4Ny14OHl2ajdHVlFlM2pFM0s3YmM3c0Q1ZXJKcjUzWHVKX3h4cEx2dkpfVU9yeE9f?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "বিমানবন্দরের সামনে মোটরসাইকেলে কাভার্ডভ্যানের ধাক্কা, নিহত ২ - দ্য ডেইলি স্টার বাংলা",
+   "source": "দ্য ডেইলি স্টার বাংলা",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYzJNUGxzYjBoRnJLZ0RodWw2bk1kOGhyQ09LbnVRUzVRQlNZSXNiUHB3VnVVZ1doSk02X1hYdTNKcEdmeWlxUUVEOTVkb0prRS0xQUJJM0ZsbHBSajBXWHo5U0hhSkZvZWNQamZjeHJFbGc5NzRhWnQ4ZTZCMXM?oc=5",
+   "date": "2026-11-05"
+  }
+ ],
+ "tags": [
+  "Accident",
+  "Fire / emergency",
+  "Hartal / blockade",
+  "Rally / protest"
+ ]
 }
