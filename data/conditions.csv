@@ -1952,3 +1952,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261105-0745,2026-11-05T07:45:00+06:00,25.1,29.1,82,0.0,overcast,5.5,319,NW,13.3,116,Unhealthy for Sensitive Groups,61.7,62.9,model
 20261105-0800,2026-11-05T08:00:00+06:00,25.5,29.5,80,0.0,overcast,5.7,323,NW,14.8,116,Unhealthy for Sensitive Groups,61.9,63.6,model
 20261105-0815,2026-11-05T08:15:00+06:00,26.0,29.8,77,0.0,overcast,6.3,325,NW,16.6,116,Unhealthy for Sensitive Groups,61.9,63.6,model
+20261105-0830,2026-11-05T08:30:00+06:00,26.4,30.0,74,0.0,overcast,7.0,328,NNW,18.7,116,Unhealthy for Sensitive Groups,61.9,63.6,model
