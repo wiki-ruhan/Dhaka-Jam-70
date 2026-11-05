@@ -1960,3 +1960,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261105-0945,2026-11-05T09:45:00+06:00,28.1,30.6,61,0.0,partly cloudy,9.2,337,NNW,24.8,117,Unhealthy for Sensitive Groups,57.5,60.1,model
 20261105-1000,2026-11-05T10:00:00+06:00,28.3,30.6,59,0.0,partly cloudy,9.4,337,NNW,25.2,118,Unhealthy for Sensitive Groups,44.8,49.0,model
 20261105-1015,2026-11-05T10:15:00+06:00,28.5,30.6,58,0.0,partly cloudy,9.6,337,NNW,25.6,118,Unhealthy for Sensitive Groups,44.8,49.0,model
+20261105-1030,2026-11-05T10:30:00+06:00,28.6,30.7,57,0.0,partly cloudy,9.7,336,NNW,26.3,118,Unhealthy for Sensitive Groups,44.8,49.0,model
