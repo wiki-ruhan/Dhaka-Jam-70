@@ -1,12 +1,6 @@
 {
- "fetched_at": "2026-11-06T08:32:23.446914+06:00",
+ "fetched_at": "2026-11-06T11:47:21.035418+06:00",
  "headlines": [
-  {
-   "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
-   "date": "2026-11-05"
-  },
   {
    "title": "Bangladesh garment protests continue despite wage board move - Arab News",
    "source": "Arab News",
@@ -20,21 +14,27 @@
    "date": "2026-11-05"
   },
   {
+   "title": "Bangladesh garment workers return after wage protest - Bangkok Post",
+   "source": "Bangkok Post",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjR6RFQ2WjVqRC1iQ3YtZXlXMzJtODNnY2gtUlAzY0ExM3pBQUEyWHFaNUJQMDN5OFo2d29lMWVvZldqSVZXSUM5Uzh4RjQ1ci1GSmRVR1dmMjBuVEN6SFpsMURYUU04cnNRYjJEWnRpV2hoVzc1UU9FUlpxX0lwa2tJdHhDUGFhbGh6cmJmNENyQnFxN1NiOEJn?oc=5",
+   "date": "2026-11-05"
+  },
+  {
    "title": "DB arrests 8 over attack on police during Mirpur labour protest - New Age BD",
    "source": "New Age BD",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkRnSVVRSGR1V0tGREthTDZFNUkwREVxXzBhT3QyLXRqdkJVV1IydEZkYjVGUVkxQlFpMFoweERpUFV2djEtME4yWE5iZ254Ul8wYVhTZEtCaWI1aXplTHBTV081VU80XzR3NmlxWkZGdE4wT21XRWE1Skt3TFZDUTdPSUgwLWF3SmR5Ui1kM2UtYVBlVmdXd01xdWpNcDZMN1hhTVNDQmFHa21lNkI4?oc=5",
    "date": "2026-11-05"
   },
   {
-   "title": "Bangladesh garment workers return to work after raise - Khmer Times",
-   "source": "Khmer Times",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemxSSno3c2x4TmNhMElXVkgxWVJaZ3NzMVdWTm1RSm15YTlzOUtEZXp3c1I4OTFXTkFCRm50XzUycXJQNWJWNms4VWpfZHVzTm41aHJpNHFKc3BlSWpuemI1ZjRWalFiNF91WWhmZzJQTmEwaTllMXVQMlV4YjlsSEkxemhXeW9tS1RoUGtrRkdSc1RUY3RUdQ?oc=5",
-   "date": "2026-11-05"
-  },
-  {
    "title": "DMP bans rallies, protests around parliament ahead of Nov 9 session - Dhaka Tribune",
    "source": "Dhaka Tribune",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3NhUzhObGFycmRpa2cxajFxWG9MTF9kMWVBbW8zRXBoa3VNb29yUi1qSEdIZlhSRVBNenFVWWRrTW9OUGludUt2Vk9mUXBnSkVMRHVXcjFVQ2tGTnN5NUZ0NU9ZOHdDNlMyYnZnVUxFczVDa0FXVHNTLVg4YnZJeng5dFZzWDFPUTVVS2tqOG44YTB6dC0yWTFmUlPSAaIBQVVfeXFMUGdWTTUwMVNfbFItRHFaNmVuYmhaX0VCRF9IMFlzUlVmSjdycDdKZVRnVU9CM0dSQ0dKSUJ4cFRYMXA2ZmZkYkU0dzd0NjRTN2twYTJqejB5OWNxOFMzYl9QSEFiUmVXZV83VlBrdFhrMTBYTGY5MEJjUGxTRmdZZHJrd0RaWmRfNzdtdFlUX2h1SFVFVHhER19abkNHcVo4MDNB?oc=5",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Bangladesh garment workers return to work after raise - Khmer Times",
+   "source": "Khmer Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemxSSno3c2x4TmNhMElXVkgxWVJaZ3NzMVdWTm1RSm15YTlzOUtEZXp3c1I4OTFXTkFCRm50XzUycXJQNWJWNms4VWpfZHVzTm41aHJpNHFKc3BlSWpuemI1ZjRWalFiNF91WWhmZzJQTmEwaTllMXVQMlV4YjlsSEkxemhXeW9tS1RoUGtrRkdSc1RUY3RUdQ?oc=5",
    "date": "2026-11-05"
   },
   {
@@ -106,7 +106,7 @@
   {
    "title": "RMG workers return to work in Gazipur industrial belt - Bangladesh Sangbad Sangstha (BSS)",
    "source": "Bangladesh Sangbad Sangstha (BSS)",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WenZtM2NyQXRnZm4tT2NYUmJGYzJtVlVXSTlmYVpIM2lEQUQwTjR6b2JkVHd6QlNLeGZYX3g1TkQ1eENVb3dhNFRTcnZMZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wdXh5blhlY1RITnZ3T2tLZ0lLZ1pqQUxROVpleEVaaTRVM0ZwZFhUVDdOeDhtZEkxd3o0ZWhSRTZvQXZKdVNqRHA5SQ?oc=5",
    "date": "2026-11-05"
   },
   {
@@ -134,6 +134,12 @@
    "date": "2026-11-05"
   },
   {
+   "title": "সড়ক দুর্ঘটনায় বিশ্ববিদ্যালয় ছাত্রী নিহত, লরি চালক গ্রেফতার - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83NXlPR19KM0lsYkNLRmFDbDdWT1RlVmtDZHFaV3FSM0ZreVZkLWR6TFRpTXpEdnlTWGNHb0RxU0Z5YUxBV0ZIM2NKaVdneGMzeDFiT1B3RW5ncGpJ?oc=5",
+   "date": "2026-11-05"
+  },
+  {
    "title": "পুলিশ: ঢাকায় ভোরে আওয়ামী লীগের মিছিল থেকে আটক ৩ - Dhaka Tribune Bangla",
    "source": "Dhaka Tribune Bangla",
    "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOYmE3eHFlenMyX004THBDWEVJN0k0MmNROElNci1rZy1jUkYyS1dSTkpyZ0trTXZaNFpsVi1UV2V3WW1wcFZwZ1VYbFF2UUhCSi1lTVpJNUpFZEhZM0UxNGR1dk1LczFIdlFjemtSSWlWNl9jZWVkM2xjRVpWSzJ0TW9veTVNS2FoWUt5d3VwV3ZjVldoRjlFN0QxT2tMWVhLR3NHeHYxSThldWJhTWFSc3N1WEJ1UzBUTmZ5QnNzTEdTcHlmOV9GZVpMSGZHTFpiZl9wV29Fcm01V3AyZUNNZDZVWjZ2VEwyc29XWUx2Mkg0QU9aSTU4Q2dzT2pic1cwYm9nYlUxYjRtS25waF8zWWstQWd0TjNyOE5rZ2pWX3BPdU1HaHAwVmtObWF0RXpKaVpWZXBGa3E5M1cxdzc3UXJLZ2lqSGVLdkZmbHpmc1FiM2xZczc1bGtxUkd3VVNPeTd3Vi1tcVBsenJFQmY3b1JlU2hiV2VLTU14cGNQclJ4R0VGSjRDVWc2UmtfcFJnQ0NQLUh0YV9PLVpnN1ZXMzZHQzJkSE5uRmZkaW1POHhsazVmZVZUX2phZ1lZV3FRaDRSX3dXZWFyUUlhQWs3MTRDNUNBT2lMMHpDWkRvWE1mc21wR3RZQ3oxMmsyUHpNVWJuSHN1RWk2a05UOGpjQVhfSXplUXVzZXB5cFlaYUhVemJFVV82SkI0YXJTTTgzemszUklOYXEtckVIWDhkcGtHZ3BEUHPSAbcEQVVfeXFMTmJhN3hxZXpzMl9NOExwQ1hFSTdJNDJjUThJTXIta2ctY1JGMktXUk5KcmdLa012WjRabFYtVFdld1ltcHBWcGdVWGxRdlFIQkotZU1aSTVKRWRIWTNFMTRkdXZNS3MxSHZRY3prUklpVjZfY2VlZDNsY0VaVksydE1vb3k1TUthaFlLeXd1cFd2Y1ZXaEY5RTdEMU9rTFlYS0dzR3h2MUk4ZXViYU1hUnNzdVhCdVMwVE5meUJzc0xHU3B5ZjlfRmVaTEhmR0xaYmZfcFdvRXJtNVdwMmVDTWQ2VVo2dlRMMnNvV1lMdjJINEFPWkk1OENnc09qYnNXMGJvZ2JVMWI0bUtucGhfM1lrLUFndE4zcjhOa2dqVl9wT3VNR2hwMFZrTm1hdEV6SmlaVmVwRmtxOTNXMXc3N1FyS2dpakhlS3ZGZmx6ZnNRYjNsWXM3NWxrcVJHd1VTT3k3d1YtbXFQbHpyRUJmN29SZVNoYldlS01NeHBjUHJSeEdFRko0Q1VnNlJrX3BSZ0NDUC1IdGFfTy1aZzdWVzM2R0MyZEhObkZmZGltTzh4bGs1ZmVWVF9qYWdZWVdxUWg0Ul93V2VhclFJYUFrNzE0QzVDQU9pTDB6Q1pEb1hNZnNtcEd0WUN6MTJrMlB6TVVibkhzdUVpNmtOVDhqY0FYX0l6ZVF1c2VweXBZWmFIVXpiRVVfNkpCNGFyU004M3prM1JJTmFxLXJFSFg4ZHBrR2dwRFBz?oc=5",
@@ -143,12 +149,6 @@
    "title": "বিমানবন্দরের সামনে মোটরসাইকেলে কাভার্ডভ্যানের ধাক্কা, নিহত ২ - দ্য ডেইলি স্টার বাংলা",
    "source": "দ্য ডেইলি স্টার বাংলা",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYzJNUGxzYjBoRnJLZ0RodWw2bk1kOGhyQ09LbnVRUzVRQlNZSXNiUHB3VnVVZ1doSk02X1hYdTNKcEdmeWlxUUVEOTVkb0prRS0xQUJJM0ZsbHBSajBXWHo5U0hhSkZvZWNQamZjeHJFbGc5NzRhWnQ4ZTZCMXM?oc=5",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "ঢাকার ওপর চাপ কমাতে বিকেন্দ্রীকরণের বিকল্প নেই: আদিল মুহাম্মদ খান - Dhaka Mail",
-   "source": "Dhaka Mail",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OYk9CNjl6cHlTRkkwV0h0VUswdFpqS29OeHp3Ny1OM2xuZF9TVWRMRXd0TklCRXVVeXMwcURlajZBbDJVYWxOS3lialp5M0nSAVRBVV95cUxPa2ZxMUlueUJGb3dycS1RaTZPUG5EaFFiZGJuUzNpcTZkV0xfbVJNRkJ2T2lPZV9zMkJLOHoyN3c2ejhydjNyZ2wwajZFTWJzRWRpWkY?oc=5",
    "date": "2026-11-05"
   }
  ],
