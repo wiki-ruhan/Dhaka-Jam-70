@@ -2056,3 +2056,4 @@ slot,timestamp,temp_c,feels_c,humidity,rain_1h_mm,weather,wind_kmh,wind_dir_deg,
 20261106-1245,2026-11-06T12:45:00+06:00,30.3,32.9,52,0.0,partly cloudy,8.9,333,NNW,25.9,160,Unhealthy,40.0,43.5,model
 20261106-1300,2026-11-06T13:00:00+06:00,30.6,33.1,51,0.0,partly cloudy,9.0,338,NNW,25.9,160,Unhealthy,37.4,41.3,model
 20261106-1315,2026-11-06T13:15:00+06:00,30.7,33.0,50,0.0,partly cloudy,9.1,335,NNW,25.9,160,Unhealthy,37.4,41.3,model
+20261106-1330,2026-11-06T13:30:00+06:00,30.7,32.8,50,0.0,partly cloudy,9.3,333,NNW,25.9,160,Unhealthy,37.4,41.3,model
