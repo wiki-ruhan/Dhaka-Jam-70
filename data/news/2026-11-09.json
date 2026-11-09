@@ -1,5 +1,148 @@
 {
- "fetched_at": "2026-11-09T12:32:22.169755+06:00",
- "headlines": [],
- "tags": []
+ "fetched_at": "2026-11-09T15:32:27.097955+06:00",
+ "headlines": [
+  {
+   "title": "Govt working to introduce integrated transport system in Dhaka - Bangladesh Sangbad Sangstha (BSS)",
+   "source": "Bangladesh Sangbad Sangstha (BSS)",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aczdBV0VIdXIybVNLaGtrcHM0b1E0RVlHZDY1X0g1azRMbDNGcWVHRk9wbFZGck1paUdTTzhxOEhzZ19vQ01pTmRFckVmT3JXQW93?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "30 injured in bus-truck collision in Faridpur - New Age BD",
+   "source": "New Age BD",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOelZCZVJiZWlJa3lEQ1JfU24tWG1MNjVYa1pMR0Vld2FlQjhneDctOVlWMERxa2pKZVVNLXB3a05CbEw5Y29uV0dhRGtyME84clJLSVpPYUVnSU0wZkFQU0dreWYxRWVFMkQzV3F1RkQ4cHAyLWt4YzdPT0dpbmtGOEN4RHRkd1NqNjRhVTdiRDBtUC1I?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Autorickshaw shortage grips Dhaka, passengers face double fares - Daily Observer",
+   "source": "Daily Observer",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84RHZpeDItaTNQMndWZkNGWFJKbHBqWGZUVkVXd2dHYy1sU0tYNmRiM1dnMXlBZm1BT2FicmlKZGtNcWtITHYwZWZR?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Bus overturns in Lakshmipur, killing 3, injuring 15 - Dhaka Tribune",
+   "source": "Dhaka Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1lOOVZQWE1Yb1JEUFoxMW1YTENrWk1qRzdoWHNhRFpOX2ZOQkhxQzNHUWVzTm5JNDlYMDU1cXNEUGZrcXJBT19oWTdVZDEzbG9tTW03Y1FkeVN1YUI0SGVTMlZ1QkZnTkQydy12Qkt1eXI3czFrZXVwTENxN0lnckJkS0hyazcwb1h6bFd4UEZnUndxYkxlTDlXMHJDYVlLOGfSAacBQVVfeXFMTTZLS2x3SnJqdnRuSDJseU9SSUlMTG1BZEJyUkVCYXRFV25sSEs1aEQwcEl0V0FqVDFaODZtOUROWWgwMkN1UjdXQ25Dc2h1Qjc0VFViSkdLcjhCbURGcjB1VE9md19QcWprY1JiN3N4NF92bDctcG81SXpyNmI2ZHlLNFpWcXZGaG1GVlBNZmdJN0dhYUhVQUo0Q0pyOEpKZXJzeFVFYVE?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "PM to leave for Turkey Tuesday to attend COP31 summit - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GRHAyZUtSUjQwT3NHSmpld3lRUURTdVlmSVEwR3NKVFA2M3REQXRZcWRrcE8wUVFwMkxzd3pRMFZHZllqczVuTHU5dTQ1T2d3R2p2aG9nNEx6UjdWclE?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "NCP wants to keep Jamaat ‘in line’ while remaining in alliance - Prothom Alo English",
+   "source": "Prothom Alo English",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94MW5rYV9qX2FFM3NTbTU0Y295X3huOEpVdUJaWV9sMlJKWGJMQ2dXTXpHUnItQVFVNEVqRUZjRTJOSlBQVmJ2WnMyMlk5QkJwY185emNzZDU1M284akJiX05XRnpoZ3fSAXRBVV95cUxQd0RKN09KOWptQm9TU3RnaUxJTWt2cnJfSEdQR3hVb2U4M082YUVhM3A2SS11bGZnRWRBQVAyTW5PcEQxT3RhZ19GMmVZUVZIbDZvc2dnLWdJWm44UVRMUDF6X3lFLTkzdFlXZ2paTGdxdEtwWg?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Delhi mission receives email seeking new passport, NID for Hasina, forwards it to Dhaka: Report - The Business Standard",
+   "source": "The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGZBWEIwWlJELTdmaldwM1FWNzJaX3hBeW9xTlZUZno2cWRaaVEzQVFySUlQMHgzUHFRR0poeHJvWHRSalJ2Xzh4emJWMkJ5MEJhaXBmZWVKTllBQjF2WnVJaXRVVFRPOG1jb3QycGV4ZkZwRzJDNWUxNDFNdjJYTDY5d0lTQjRmMy1UUDlRbGNUeHU2QlBpYm8zdzlPcllOa0NOT3AxcnhGNkQ2QnVWdE1TZ1R3N1d2R2JYZQ?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "RMG worker representatives propose minimum wage of Tk 32,000 - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSUxpdm5WT29OVVNSUmZSQ2JHNklPb0oyS0xQRTRYWkFNaktzTllIaVBVdmJhODBZQi1GM3VDWkt5TXN5VDVPampFSWdsTnd0aldtNUZoTDc0M1ZMNnc?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Bangladesh: Dhaka commuters face hardship as battery-operated auto-rickshaw drivers go on strike - IANS LIVE",
+   "source": "IANS LIVE",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVJWcGNSUlhuTXZyTzhDRmhmWU42X2pxaEVzSHBabWtSb0t5MU4zNzMycXFzRjJpV01PSDZ5MVYyd3JFOURnNkVMS1hWcDNUU1RENnk5cmVqZ1VsVWZ1d19acXd3cHI5Wk90XzVhZVNmSzlIek1lYjE5OFBGSi1PNGVrOGp0aWdLYVJmUU92OGJMWndOaE5YM2FXNEpfUzM3eW5sTkpzNFNPdUo3NWpKcm5aOA?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Sheikh Hasina appeals for new passport to return from exile - The Siasat Daily",
+   "source": "The Siasat Daily",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUZrdXc5NE9ESDdhSnVOT0p4bVlTMjhudXF6NHZRRVJ4amZaRUZubWxYVGxBamplbDl1TEdqeUwzVzJ0OVYxUW13eFU5b0ZWREVEQU41ZnY1eXlYeGhMZnRsVEJER1FscGJYWG4tZ2R3VGwwRGRjRzczV2Znd0pmcFpyOEFUME5YX29GLVk0UWJTRm1LSUHSAZsBQVVfeXFMTUlmZ1pMbnY2czFrSmI4NnV2RkF3X2lSWVo5Xy16X2hDNUhIY3lwOWVyYndxZ0IzeENEeXR5MXBkWGc0SXdZMWpqM055c1pHSVJpVFRnaldqVVdETlhfMVR1dmlKekk5Rm5BYl8zMHZCcmF4VTRNMzBCMXNhTWk0YTY0UUt3ZVFqRnVIdHRYbGJlMU5jaldjbEZIb3c?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "ব্রাহ্মণবাড়িয়ায় রেলপথ ও সড়ক অবরোধ, বন্ধ ঢাকা-চট্টগ্রাম-সিলেট ট্রেন চলাচল - রেডিও টুডে নিউজ",
+   "source": "রেডিও টুডে নিউজ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jczlfNzlRc2x3Zkk2S3BlaWI1UUpIMV9PdHFSWG9NYkJ1QmpYR1NyVVdNRGpYeWFaRlZDUFVYenhPdlVyZEk3V1BNOHNYRXdzREpLZ0U3M3lzRm1ZSEE?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "মিছিল থেকে পুলিশকে লক্ষ্য করে ককটেল, গ্রেপ্তার ১২ - bdnews24.com",
+   "source": "bdnews24.com",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04VU5oWmYxdkprRGtITWMtMzZsWnl6NUhPZTVTMkdrYnpnckNON2x3NmJVck9QOU14ZlRBUm5kSVllRUFvWlUwT1BNUUhXTTFpeHUwdUdlcEJKMnV5Q2c?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "‘জয় বাংলা’ স্লোগান দিয়ে পুলিশের গাড়িতে ককটেল নিক্ষেপ, গ্রেফতার ১২ - Jagonews24",
+   "source": "Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9abHY5VTNoRVNZTGJSOU1BUUpuUk9zMWxpQkFRcFlyR1FSczRlb0hLT0lSSFg3dVBibTRnOUpsdmFLZUxQU3Y2dkNDWXN0dUc3d24tcVk0NVRveDd2?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "শেখ হাসিনা কি সত্যিই ডিসেম্বরে ফিরতে চান? - Jugantor",
+   "source": "Jugantor",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EbldDWEdLYTJDdzFEOFBCTVZRY1JnRURQNlIxem5VOWVMU1BwS3ZrN3VPX3U3YXN6R244NDdlQ0x1OUlOSUtGVVpQUGdHbzVKUVM0?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "বাহুবলের ৩ কোটি টাকার ট্রমা সেন্টারটি চালু হবে? - কালবেলা",
+   "source": "কালবেলা",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VYjZId3hjSHNEZ0ZaM2hrcXlILVRGa240YzFIWnB0Z1ZLQWhjYkh5X0VuN29uUlFlQ0c2ZmhJemNha0hBd2JBdDRycDYzNWZwU1NoZDln?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "হাসিনার নতুন পাসপোর্টের আবেদন পেয়েছে দিল্লিতে থাকা বাংলাদেশি হাইকমিশন - ঢাকা ডায়েরি",
+   "source": "ঢাকা ডায়েরি",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JQ3VKSUFhcjN3a21PT0hZTUNJT0xRS19KOEN4NmlnT2NmX1p4UnRSWDBpa1NzdGREOHUzUmdfZWZrSzVBMGZxUU1CTlE?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "এআই কণ্ঠে প্রতারণা, ডার্ক ওয়েবে ঢাবির ৭৭ শিক্ষার্থীর তথ্য - Kaler Alo",
+   "source": "Kaler Alo",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KaTJnSHQwdGJQdWQ3LTEyNjNCY3ItOHFjV0I4M0dTRXBsMUVCQ2ZETFM4VEZYdU1HV2czNjFyR1F1V1hHVk9fN3JGek9fdXlHbmJ3?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "কুয়াকাটায় ঘুরতে গিয়ে সূর্যাস্তের মতো নিভে গেল নারী চিকিৎসকের জীবনের আলো - সময়ের খবর",
+   "source": "সময়ের খবর",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10UTFGcC1GSGJyNVlpLUYtRmd6aHktdjJJMzV5TE1McG5CQUJYYkNXdlZfQVZZQkNyNlhCeVpuMTR4X2g2?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "উত্তরখানে ভাড়া বাসা থেকে কলেজছাত্রীর মরদেহ উদ্ধার, স্বামী গ্রেপ্তার - কালের কণ্ঠ",
+   "source": "কালের কণ্ঠ",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93Z2NhYThVNUZSRmpjMVRCZlAxQ1llNS1FakltSlN0cE5ib2Q0UWFqT2Z5SjFHSWg1S2pyb1ZXSTItU1puMl9zTFpNNTk5WGgydkt0YXdaY1NPNTBiWW5QNUZxZnpiczhUUWhr?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "নবীগঞ্জে সিএনজিকে কাভার্ডভ্যানের ধাক্কায় শিশুসহ দুই জনের মৃত্যু - Habiganj ExPress |",
+   "source": "Habiganj ExPress |",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pV05MeVN1R3FkSFoxbXhtNWp6Z3lWZHI1SzJRQjdOVXVYWGhHMWtLbjJGYTRmNlFubFN3SUFtUFp3MF9adktVMHJKelJCQkFkZlF3?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "লক্ষ্মীপুরে যাত্রীবাহী বাস উল্টে নিহত ৩, আহত অন্তত ১৫ - Risingbd.com",
+   "source": "Risingbd.com",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRGhTRm5RUExaOFljdURXUGp2cHpnajF5NXNybXRycTdmZjJjeEQzLVpSbG42Ymd5QTRVVDZRZnhONkRBczdLUjNmRFNIQkVCZVBWMU1TdnpkTnM?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "ভাঙ্গায় সড়কের ওপর ঝুলছে বিলবোর্ড, দুর্ঘটনার শঙ্কা - Kaler Alo",
+   "source": "Kaler Alo",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pbjcxUVN0dHZVZXdLOGhMYUg1THRQUXNHOTlGN0dMUHdUeC1pb1RfYXQ0SE1ubGN5Mzl3aHIyTlV3dXplX045RHhRdjQzU21Q?oc=5",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "হাসিনার দেশে ফেরার ‘তৎপরতা’, চিফ প্রসিকিউটর বললেন— ‘এগুলো পলিটিক্যাল স্ট্যান্ডবাজি’ - ঢাকা ডায়েরি",
+   "source": "ঢাকা ডায়েরি",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5maDl5QkJwOEhXWXZqdHJYZl9iTENWSG1meS1rYWxVbm53aEExWWNIQ1JOZ3luYTFVSUU3SC1DelN0Y01SU1Q1Zmtyd0w?oc=5",
+   "date": "2026-11-09"
+  }
+ ],
+ "tags": [
+  "Accident",
+  "Hartal / blockade",
+  "Rally / protest"
+ ]
 }
